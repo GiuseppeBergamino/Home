@@ -4,12 +4,17 @@
 
 <p></p>
 
-# WORKS 
+# Works 
 
 - [Web Installations](https://giuseppebergamino.github.io/Home/Web_Installations/)
 - [Multimodal Installations](https://giuseppebergamino.github.io/Home/Multimodal_Installations/)
 - [Musical Instruments](https://giuseppebergamino.github.io/Home/Musical_Instruments/)
 - [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
+
+<p><br></p>
+## Bio
+- [Read](https://giuseppebergamino.github.io/Home/Bio/)
+
 
 
 <p><br><br></p>
