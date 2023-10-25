@@ -1,7 +1,9 @@
+## HOME
+
 <iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Orogenesi_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 
-#WORKS 
-Visita la galleria che ospita informazioni naturalistiche sui Picentini e frammenti di digital art:
+# WORKS 
+
 
 - [Physical Installations](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/)
 - [Web Installations](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Acqua/)
