@@ -7,10 +7,10 @@
 # WORKS 
 
 
-- [Multimodal Installations](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/)
-- [Web Installations](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Acqua/)
-- [Musical Instruments](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Flora/)
-- [Learning Tools](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Fauna/)
+- [Multimodal Installations](https://giuseppebergamino.github.io/Home/Multimodal_Installations/)
+- [Web Installations](https://giuseppebergamino.github.io/Home/Web_Installations/)
+- [Musical Instruments](https://giuseppebergamino.github.io/Home/Musical_Instruments/)
+- [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
 
 
 <p><br><br></p>
