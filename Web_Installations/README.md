@@ -1,19 +1,32 @@
-# Web Installations
-
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+# Digital Fragments
 
 <p><br></p>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/" width = 100% height = 25% title = "Nuvole" style = "height: 100%; width: 100%; border: none;"></iframe>
+- Nuvole
+- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta_full/)
 
-- [Monti Picentini Digitali](https://giuseppebergamino.github.io/MontiPicentiniDigitali/) 
-
-## Ditital Fragments
-<br>
+<p><br></p>
 <iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
 - Radici
 - [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/)
 
 
+# Web Installations
 
+<p><br></p>
+Installazione web di divulgazione naturalistica contenente un archivio sonoro interattivo per esplorare i suoni dei Monti Picentini
+
+- [Monti Picentini Digitali](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
+
+<p><br></p>
+Installazione web vincitrice della call InContri - Polo del 900 di Torino
+
+- [Lucciole](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
+
+
+
+
+<p><br></p>
 Back [Home](https://giuseppebergamino.github.io/Home/)
 
 
