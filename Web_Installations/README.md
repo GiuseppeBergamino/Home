@@ -1,7 +1,7 @@
 # Digital Fragments
 
 <p><br></p>
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/" width = 100% height = 25% title = "Nuvole" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/" height="100%" width="100%" title = "Nuvole" style =  border: none;"></iframe>
 - Nuvole
 - [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta_full/)
 
