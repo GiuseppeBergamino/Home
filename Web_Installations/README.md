@@ -1,12 +1,12 @@
 # Digital Fragments
 
 <p><br></p>
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/" title = "Nuvole" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Nuvole_full/" title = "Nuvole" style = "height: 300px; width: 100%; border: none;"></iframe>
 - Nuvole
-- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta_full/)
+- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Nuvole_full/)
 
 <p><br></p>
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Flora/" title = "Radici" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/" title = "Radici" style = "height: 100%; width: 100%; border: none;"></iframe>
 - Radici
 - [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/)
 
