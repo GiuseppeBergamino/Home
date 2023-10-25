@@ -8,5 +8,5 @@
 - [Physical Installations](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Vetta/)
 - [Web Installations](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Acqua/)
 - [Musical Instruments](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Flora/)
-- [Didactic Tools](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Fauna/)
+- [Learning Tools](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Fauna/)
 
