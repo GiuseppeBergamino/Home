@@ -1,2 +1,2 @@
 # Giuseppe Bergamino 
-Digital Sound Artist
+Digital Artist
