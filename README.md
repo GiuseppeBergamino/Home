@@ -12,8 +12,11 @@
 - [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
 
 <p><br></p>
-## Bio
-- [Read](https://giuseppebergamino.github.io/Home/Bio/)
+## About
+- [Bio](https://giuseppebergamino.github.io/Home/Bio/)
+- [CV](https://giuseppebergamino.github.io/Home/Bio/)
+- [Contacts](https://giuseppebergamino.github.io/Home/Bio/)
+
 
 
 
