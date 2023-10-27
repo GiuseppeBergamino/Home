@@ -1,5 +1,5 @@
 # Digital Fragments
-I frammenti digitali sono piccoli ecosistemi audio-video creati per restituire una suggestione artistica coerente con eventi naturali complessi. Ogni frammento è basato su algoritmi generativi, quindi con risultati sempre differenti a ogni visita della pagina, ma con una propria macro linea estetica costantemente rispettata. I frammenti digitali sintetizzano in semplici algoritmi le ben più vaste e raffinate complessità visive e sonore di ecosistemi naturali a cui si può pensare, con un certo grado di astrazione, come delle enormi strutture generative. 
+Ecosistemi audio-video creati per restituire una suggestione artistica coerente con eventi naturali complessi. Ogni frammento è basato su algoritmi generativi, quindi con risultati sempre differenti a ogni visita della pagina, ma con una propria macro linea estetica costantemente rispettata. I frammenti digitali sintetizzano in semplici algoritmi le ben più vaste e raffinate complessità visive e sonore di ecosistemi naturali a cui si può pensare, con un certo grado di astrazione, come delle enormi strutture generative. 
 <p><br></p>
 
 ### Nuvole
@@ -45,16 +45,17 @@ Chitarra nasce dall'idea di uno strumento musicale in grado di suonare se stesso
 <p><br></p>
 
 # Web Installations
-
+Raccolta di installazioni web.
 <p><br></p>
-### Monti Picentini Digitali
+
+### Monti Picentini Digitali
 Installazione web di divulgazione naturalistica contenente un archivio sonoro interattivo per esplorare i suoni dei Monti Picentini
 
 - [Monti Picentini Digitali](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
 
 <p><br></p>
 
-### Lucciole
+### Lucciole
 Installazione web vincitrice della call InContri - Polo del 900 di Torino
 
 - [Lucciole](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
