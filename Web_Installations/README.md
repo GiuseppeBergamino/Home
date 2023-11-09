@@ -10,9 +10,9 @@ Installazione web di divulgazione naturalistica contenente un archivio sonoro in
 <p><br></p>
 
 ### Lucciole
-Installazione web vincitrice della call InContri - Polo del 900 di Torino
+Installazione per la call InContri - Polo del 900 di Torino
 
-- [Lucciole](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
+- [Lucciole](https://giuseppebergamino.github.io/Home/Web_Installations/Lucciole_Full)
 
 
 
