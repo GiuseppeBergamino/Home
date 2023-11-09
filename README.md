@@ -11,6 +11,11 @@
 - [Musical Instruments](https://giuseppebergamino.github.io/Home/Musical_Instruments/)
 - [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
 
+# Music 
+- [Compositions](https://giuseppebergamino.github.io/Home/Composizioni/)
+- [Audio for Video](https://giuseppebergamino.github.io/Home/Audio_video/)
+- [Live Set](https://giuseppebergamino.github.io/Home/Live/)
+
 <p><br></p>
 ## About
 - [Bio](https://giuseppebergamino.github.io/Home/Bio/)
