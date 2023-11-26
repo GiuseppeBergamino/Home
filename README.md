@@ -9,13 +9,9 @@
 - [Web Installations](https://giuseppebergamino.github.io/Home/Web_Installations/)
 - [Multimodal Installations](https://giuseppebergamino.github.io/Home/Multimodal_Installations/)
 - [Musical Instruments](https://giuseppebergamino.github.io/Home/Musical_Instruments/)
+- [Music](https://giuseppebergamino.github.io/Home/Music/)
 - [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
 
-
-# Music 
-- [Compositions](https://giuseppebergamino.github.io/Home/Composizioni/)
-- [Audio for Video](https://giuseppebergamino.github.io/Home/Audio_video/)
-- [Live Set](https://giuseppebergamino.github.io/Home/Live/)
 
 ## About
 - [Bio](https://giuseppebergamino.github.io/Home/Bio/)
