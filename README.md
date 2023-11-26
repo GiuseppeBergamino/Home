@@ -17,7 +17,6 @@
 - [Audio for Video](https://giuseppebergamino.github.io/Home/Audio_video/)
 - [Live Set](https://giuseppebergamino.github.io/Home/Live/)
 
-<p><br></p>
 ## About
 - [Bio](https://giuseppebergamino.github.io/Home/Bio/)
 - [CV](https://giuseppebergamino.github.io/Home/Bio/)
