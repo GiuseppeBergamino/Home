@@ -15,19 +15,11 @@ let amp_puls = [];
 let pulsazione_pre = [];
 
 let dist_link;
+let collegato = [];
 
 let vel_spostamento = [];
 let vel_spostamento_random = [];
 let vel_spostamento_nota = [];
-
-let numero_zone_note = 6;
-let distanza_zone_x;
-let distanza_zone_y;
-let zone_note_x = [];
-let zone_note_y = [];
-
-let target_x_nota;
-let target_y_nota;
 
 let bordo;
 let sample = [];
@@ -35,10 +27,18 @@ let indice_sample = 0;
 let sample_play = 0;
 
 let suona = false;
+let audio_attivo = false;
+let cnv;
+let trigger_lucciola;
+let lastRandom = 0;
+
+let fs = false;
+let mouse_pre = false, mouse_ora = false;
 
 
 
 function preload() {
+      
   soundFormats('ogg', 'mp3');
   bordo = loadSound('Bordo.mp3');
   
@@ -88,19 +88,38 @@ function preload() {
   sample[40] = loadSound('praga21.mp3');
   sample[41] = loadSound('praga22.mp3');
   sample[42] = loadSound('praga23.mp3');
-    
+  
+  sample[43] = loadSound('no_tav1.mp3');
+  sample[44] = loadSound('no_tav2.mp3');
+  sample[45] = loadSound('no_tav3.mp3');
+  sample[46] = loadSound('no_tav4.mp3');
+  sample[47] = loadSound('no_tav5.mp3');
+  sample[48] = loadSound('no_tav6.mp3');
+  sample[49] = loadSound('no_tav7.mp3');
+  sample[50] = loadSound('no_tav8.mp3');
+  sample[51] = loadSound('no_tav9.mp3');
+  sample[52] = loadSound('no_tav10.mp3');
+  sample[53] = loadSound('no_tav11.mp3');
+  sample[54] = loadSound('no_tav12.mp3');
+  sample[55] = loadSound('no_tav13.mp3');
+  sample[56] = loadSound('no_tav14.mp3');
+  sample[57] = loadSound('no_tav15.mp3');
+  sample[58] = loadSound('no_tav16.mp3');
+  sample[59] = loadSound('no_tav17.mp3');
+  sample[60] = loadSound('no_tav18.mp3');    
 
 }
 
 
 function setup() { 
   
-  frameRate(18);
-
+  frameRate(24);
   
-createCanvas(windowWidth, windowHeight);
+  cnv = createCanvas(windowWidth, windowHeight);
   //size(600, 400);
-       
+  cnv.mouseClicked(attiva_audio);
+  getAudioContext().suspend();     
+  
   let lung_x = width;
   let lung_y = height;
   let lung;
@@ -134,32 +153,16 @@ createCanvas(windowWidth, windowHeight);
     pulsazione_pre[i] = pulsazione[i];
     
     vel_spostamento_random[i] = random(2) + 0.1;
+    collegato[i] = 0;
   }
   
-  dist_link = lung * 0.06; //distanza entro la quale le lucciole si collegano
+  dist_link = lung * 0.065; //distanza entro la quale le lucciole si collegano
 
- //------ calcolo coordinate centrali zone note------//
- 
- distanza_zone_x = width / (6);
- distanza_zone_y = height / (4);
-   
- zone_note_x[0] = distanza_zone_x ; 
- zone_note_y[0] = distanza_zone_y ;
- zone_note_x[1] = distanza_zone_x ; 
- zone_note_y[1] = 3 * distanza_zone_y;
- 
- zone_note_x[2] = 3 * distanza_zone_x ; 
- zone_note_y[2] = distanza_zone_y ;
- zone_note_x[3] = 3 * distanza_zone_x ; 
- zone_note_y[3] = 3 * distanza_zone_y;
- 
- zone_note_x[4] = 5 * distanza_zone_x ; 
- zone_note_y[4] = distanza_zone_y ;
- zone_note_x[5] = 5 * distanza_zone_x ; 
- zone_note_y[5] = 3 * distanza_zone_y;
-  
-indice_sample = floor(random(43));
+  trigger_lucciola = int(numero_punti * 0.65 + 1);
+indice_sample = int(random(sample.length));
 
+  bordo.loop();
+  bordo.amp(1);
   
 } //fine setup
 
@@ -167,62 +170,8 @@ function draw() {
   
   background(0);
 
-
-//------- gestione note in ingresso -------//
-/*   
-   for (int i = 0; i < numero_zone_note; i++) {
-    
-   fill(100, 50);
-   ellipse(zone_note_x[i], zone_note_y[i], distanza_zone_x * 2, distanza_zone_x * 2);
-
-  } */
   noStroke();
- /* 
-  if (nota_in == true) {
-    
-    if (valore_nota < 30) {
-      fill(100, 100, 0, 50);
-      ellipse(zone_note_x[1], zone_note_y[1], distanza_zone_x * 2, distanza_zone_x * 2);
-      target_x_nota = zone_note_x[1];
-      target_y_nota = zone_note_y[1];
-    }
-    
-     if (valore_nota >= 30 && valore_nota < 45) {
-      fill(100, 100, 0, 50);
-      ellipse(zone_note_x[0], zone_note_y[0], distanza_zone_x * 2, distanza_zone_x * 2);
-      target_x_nota = zone_note_x[0];
-      target_y_nota = zone_note_y[0];
-    }
-    
-     if (valore_nota >= 45 && valore_nota < 60) {
-      fill(100, 100, 0, 50);
-      ellipse(zone_note_x[3], zone_note_y[3], distanza_zone_x * 2, distanza_zone_x * 2);
-      target_x_nota = zone_note_x[3];
-      target_y_nota = zone_note_y[3];
-    }
-    
-     if (valore_nota >= 60 && valore_nota < 75) {
-      fill(100, 100, 0, 50);
-      ellipse(zone_note_x[2], zone_note_y[2], distanza_zone_x * 2, distanza_zone_x * 2);
-      target_x_nota = zone_note_x[2];
-      target_y_nota = zone_note_y[2];
-    }
-    
-     if (valore_nota >= 75 && valore_nota < 90) {
-      fill(100, 100, 0, 50);
-      ellipse(zone_note_x[5], zone_note_y[5], distanza_zone_x * 2, distanza_zone_x * 2);
-      target_x_nota = zone_note_x[5];
-      target_y_nota = zone_note_y[5];
-    }
-    
-     if (valore_nota >= 90) {
-      fill(100, 100, 0, 50);
-      ellipse(zone_note_x[4], zone_note_y[4], distanza_zone_x * 2, distanza_zone_x * 2);
-      target_x_nota = zone_note_x[4];
-      target_y_nota = zone_note_y[4];
-    }   
-  }
-  */
+
 //--------- gestione movimento lucciole ------//
 
   for (let i = 0; i < numero_punti; i++) {
@@ -235,7 +184,7 @@ function draw() {
 
    if (abs(punti[i].x - target_x_random[i]) < vel_spostamento[i] ) { //se x arriva al target entro un margine
         
-       target_x_random[i] = floor(random(width)); //aggiorno a un nuovo target randomico x
+       target_x_random[i] = int(random(width)); //aggiorno a un nuovo target randomico x
        vel_spostamento_random[i] = random(2) + 0.15; //modifico velocità
      
      }
@@ -253,7 +202,7 @@ function draw() {
     
     if (abs(punti[i].y - target_y_random[i]) < vel_spostamento[i] ) {//se x arriva al target entro un margine
         
-       target_y_random[i] = floor(random(height));//aggiorno a un nuovo target randomico y
+       target_y_random[i] = int(random(height));//aggiorno a un nuovo target randomico y
      
      }
     
@@ -297,7 +246,7 @@ function draw() {
    
      if (i != j) { //se sono lucciole diverse
      distanza = dist(punti[i].x, punti[i].y, punti[j].x, punti[j].y );
-       
+       //dist_link = 150;
        if (distanza <= dist_link) { //se la distanza è giusta disegno il collegamento
        
           strokeWeight(2);
@@ -313,27 +262,47 @@ function draw() {
           numero_collegamenti++;
           
       }  //fine disegno collegamento 
+
      } //fine if lucciole diverse
      
     } //fine for lucciola j-esima
    } //fine for i-esima
    
+   numero_collegamenti = numero_collegamenti * 0.5;
+  
   strokeWeight(1);
   stroke(255);
   noFill();
 
   fill(255);
   
-    
-// --------sintesi audio--------//
+  
+  
+  if (audio_attivo == false) {
+        
+    fill(255, 255, 255, 200);
+    strokeWeight(10);
+    stroke(255, 255, 0, 150);
+    rectMode(CENTER);
+    rect(width * 0.5, height * 0.5 - 11, width * 0.5, height * 0.1,
+        30, 30, 30, 30);
+      
+    fill(0);
+    stroke(0);
+    strokeWeight(1);
+    textSize(22);
+    textFont('Times');
+    textAlign(CENTER);
+      
+    text("ATTIVA AUDIO", width * 0.5, height * 0.5 - 5);
+    }
+  
+  else { 
+  
+  // --------sintesi audio--------//
 
   
-  if (bordo.isPlaying() == false) {
-     bordo.loop();
-     bordo.amp(0.7);
-  }
-  
-  if (numero_collegamenti > 80) {
+  if (numero_collegamenti > (trigger_lucciola)) {
     
       if (suona == false) {
           sample[indice_sample].play();
@@ -344,12 +313,75 @@ function draw() {
         }
       else { 
         suona = false;
-        indice_sample = floor(random(43));   
+        indice_sample = getNonRepeatRand();   
        }
       
-  }
-
+    }
+  } //fine else audio attivo
+ 
+ // text(numero_collegamenti, width * 0.5, height * 0.5);
+ // text(trigger_lucciola, width * 0.5, height * 0.25);
   
+  if (fs == false) {
+    fill(255, 255, 255, 200);
+    strokeWeight(10);
+    stroke(255, 255, 0, 150);
+    rectMode(CORNER);
+    rect(10, 10, 120, 30, 15, 15, 15, 15);
+    fill(0);
+    stroke(0);
+    strokeWeight(1);
+    textSize(18);
+    textFont('Times');
+    textAlign(LEFT);
+    text("Full Screen", 25, 30);
+  }
+  
+  mouse_ora = mouseIsPressed;
+  
+  if (mouse_ora == true && mouse_pre == false) {
+    if (mouseX > 10 && mouseX < 100 && mouseY > 10 && mouseY < 30) {
+    fullscreen(!fs);
+    fs = !fs;
+   }
+  }
+  
+  mouse_pre = mouse_ora;
+   
 } // fine del draw
 
+
+function attiva_audio() {
+  if (mouseX > 50 && mouseY > 50) {
+ if (audio_attivo == false) {
+   audio_attivo = true;
+     if (getAudioContext().state !== 'running') {
+          userStartAudio();
+     }   
+   }
+  
+  else {
+    audio_attivo = false;
+    getAudioContext().suspend();
+   }
+  }
+ } 
+
+function getNonRepeatRand(){
+ while (true){
+    let randomNum = int(random(sample.length));
+    if (randomNum == lastRandom){
+       //console.log ("found dupliacte!");
+       continue;
+     }
+    else{
+    lastRandom = randomNum
+    return randomNum;
+    }  
+ }
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
 
