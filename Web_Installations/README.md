@@ -17,6 +17,11 @@ Opera vincitrice del progetto [Orizzonti](https://polodel900.it/progetti/orizzon
 
 - [Lucciole](https://giuseppebergamino.github.io/Home/Web_Installations/Lucciole_Full)
 
+### Devianza Intima
+Devianza Intima è metafora del sentimento di non conformità rispetto agli standard dettati da un gruppo sociale e peggio ancora da se stessi. Restituisce la necessità utopica della costante mutazione dell’Io durante il processo di ricerca di una recessa armonia. 
+
+- [Lucciole](https://giuseppebergamino.github.io/Home/Web_Installations/Devianza_Intima_Full)
+
 
 
 
