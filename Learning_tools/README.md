@@ -2,12 +2,12 @@
 
 ## Strumenti per la composizione
 
-| test         | test two          | test  |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| test         | test two          | test  |  link   |
+|:-------------|:------------------|:------| :------ |
+| ok           | good swedish fish | nice  | puppiti |
+| out of stock | good and plenty   | nice  | pappiti |
+| ok           | good `oreos`      | hmm   |  hmm    |
+| ok           | good `zoute` drop | yumm  | yamm  |
 
 
 
