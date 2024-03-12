@@ -1,8 +1,17 @@
 # Learning and teaching web tools
 Questa pagina web ha lo scopo di raccogliere e organizzare una serie di applicazioni esclusivamente utilizzabili sul web, che non necessitano quindi di installazione e che funzionano virtualmente su ogni dispositivo connesso alla rete.
 
-## Strumenti per la composizione
+## Editor Audio
 
+
+| Nome                                                          | Descrizione                                                   | Free/Pagamento                                                         |  Registrazione Audio   | Manipolazione Audio   |  VST  | MIDI in/out | Esportazione | Importazione | Salvataggio progetto |
+|:--------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------| :--------------------- |:--------------------- | :---- | :---------- | :----------- | :----------- | :------------------- |
+| [AudioMass](https://audiomass.co/index-cache.html)            | Editor audio  - singola traccia                               | Gratuito, nessuna iscrizione richiesta                                 | Sì                     | Sì                    |  No   | No          | wav-mp3      | wav-mp3      | No                   |
+| [Wavacity](https://wavacity.com/)                             | Editor audio multitraccia, versione web di Audacity           | Gratuito, nessuna iscrizione richiesta                                 | Sì                     | Sì                    |  No   | No          | wav-mp3      | wav-mp3      | No                   | 
+| [AudioNodes](https://www.audionodes.com/audio-editor-online/) | Linguaggio di programmazione grafico, simile a MAX e PureData | Utilizzo limitato nella versione gratuita, iscrizione non obbligatoria | Sì                     | Sì                    |  Sì   | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   | 
+| [SoundTrap](https://www.soundtrap.com/it/)                    | DAW web estremamente completa                                 | Utilizzo limitato nella versione gratuita, iscrizione obbligatoria     | Sì                     | Sì                    |  Sì   | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   |  
+
+## Step Sequencer
 
 | Nome                                                          | Descrizione                                                   | Free/Pagamento                                                         |  Registrazione Audio   | Manipolazione Audio   |  VST  | MIDI in/out | Esportazione | Importazione | Salvataggio progetto |
 |:--------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------| :--------------------- |:--------------------- | :---- | :---------- | :----------- | :----------- | :------------------- |
@@ -11,7 +20,23 @@ Questa pagina web ha lo scopo di raccogliere e organizzare una serie di applicaz
 | [AudioNodes](https://www.audionodes.com/audio-editor-online/) | Linguaggio di programmazione grafico, simile a MAX e PureData | Utilizzo limitato nella versione gratuita, iscrizione non obbligatoria | Sì                     | Sì                    |  Sì   | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   | 
 | [BeepBox](https://www.beepbox.co/)                            | Step sequencer polifonico                                     | Gratuito, nessuna iscrizione richiesta                                 | No                     | Sì                    |  Sì   | No          | wav-mp3-midi | wav-mp3-midi | Sì                   |  
 
+## Strumento performativo
 
+| Nome                                                          | Descrizione                                                   | Free/Pagamento                                                         |  Registrazione Audio   | Manipolazione Audio   |  VST  | MIDI in/out | Esportazione | Importazione | Salvataggio progetto |
+|:--------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------| :--------------------- |:--------------------- | :---- | :---------- | :----------- | :----------- | :------------------- |
+| [AudioMass](https://audiomass.co/index-cache.html)            | Editor audio  - singola traccia                               | Gratuito, nessuna iscrizione richiesta                                 | Sì                     | Sì                    |  No   | No          | wav-mp3      | wav-mp3      | No                   |
+| [Wavacity](https://wavacity.com/)                             | Editor audio multitraccia, versione web di Audacity           | Gratuito, nessuna iscrizione richiesta                                 | Sì                     | Sì                    |  No   | No          | wav-mp3      | wav-mp3      | No                   | 
+| [AudioNodes](https://www.audionodes.com/audio-editor-online/) | Linguaggio di programmazione grafico, simile a MAX e PureData | Utilizzo limitato nella versione gratuita, iscrizione non obbligatoria | Sì                     | Sì                    |  Sì   | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   | 
+| [BeepBox](https://www.beepbox.co/)                            | Step sequencer polifonico                                     | Gratuito, nessuna iscrizione richiesta                                 | No                     | Sì                    |  Sì   | No          | wav-mp3-midi | wav-mp3-midi | Sì                   |  
+
+## Worked example
+
+| Nome                                                          | Descrizione                                                   | Free/Pagamento                                                         |  Registrazione Audio   | Manipolazione Audio   |  VST  | MIDI in/out | Esportazione | Importazione | Salvataggio progetto |
+|:--------------------------------------------------------------|:--------------------------------------------------------------|:-----------------------------------------------------------------------| :--------------------- |:--------------------- | :---- | :---------- | :----------- | :----------- | :------------------- |
+| [AudioMass](https://audiomass.co/index-cache.html)            | Editor audio  - singola traccia                               | Gratuito, nessuna iscrizione richiesta                                 | Sì                     | Sì                    |  No   | No          | wav-mp3      | wav-mp3      | No                   |
+| [Wavacity](https://wavacity.com/)                             | Editor audio multitraccia, versione web di Audacity           | Gratuito, nessuna iscrizione richiesta                                 | Sì                     | Sì                    |  No   | No          | wav-mp3      | wav-mp3      | No                   | 
+| [AudioNodes](https://www.audionodes.com/audio-editor-online/) | Linguaggio di programmazione grafico, simile a MAX e PureData | Utilizzo limitato nella versione gratuita, iscrizione non obbligatoria | Sì                     | Sì                    |  Sì   | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   | 
+| [BeepBox](https://www.beepbox.co/)                            | Step sequencer polifonico                                     | Gratuito, nessuna iscrizione richiesta                                 | No                     | Sì                    |  Sì   | No          | wav-mp3-midi | wav-mp3-midi | Sì                   |  
 
 
 
