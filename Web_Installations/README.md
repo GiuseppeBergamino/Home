@@ -26,6 +26,11 @@ Salamandra00 è un ecosistema cellulare generativo, personalmente sviluppato in 
 
 - [Salamandra00](https://giuseppebergamino.github.io/Home/Web_Installations/Salamandra00_Full)
 
+### Codice Organico
+Codice Organico è un sistemagrafico generativo, personalmente sviluppato in linguaggio di programmazione JavaScript e che vive digitalmente in un server web. Il pattern ispirato a un codice a barre offre uno scorcio sulla bellezza della casualità algoritmica e del rumore digitale, riecheggiando i motivi imprevedibili ma armoniosi che si trovano in natura.
+
+- [Codice Organico](https://giuseppebergamino.github.io/Home/Web_Installations/Codice_Organico_Full)
+
 
 
 
