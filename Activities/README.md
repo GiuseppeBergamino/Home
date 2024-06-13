@@ -1,19 +1,19 @@
 # Activities
 List of selected works
-<p></p>
+<p><br></p>
 
 ## 2024
 
-### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy [22.06] 
+#### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy [22.06] 
 Generative Web Installation **Devianza Intima**
 
-### As Islands - Castle Belasi - Trento, Italy [01.06 - 27.10] 
+#### As Islands - Castle Belasi - Trento, Italy [01.06 - 27.10] 
 Multimodal Interactive Installation **Horror Vacui**
 
 ### The Magnificent Four - Salema Eco Camp - Budens, Portugal [19/20/21.04] 
 Generative Web Installation **Salamandra00**
 
-### Transforming Literary Places - Tartu Art Museum - Tartu, Estonia [28.03 - 18.05]
+### Transforming Literary Places - Art Museum - Tartu, Estonia [28.03 - 18.05]
 Interactive Web Installation **Flatland - A Geometric Ecosystem**
 
 ### Arti Incrociate - Luca Marenzio Conservatory, Brescia, Italy [19.03]
@@ -24,6 +24,7 @@ Generative Web Installation **Devianza Intima**
 
 ### Studio Home Awareness - Milan, Italy [14.03 - 09.04]
 Sound Design for the Solo Exhibition of the artist [Noemi Mirata](https://www.noemimirata.com/)
+<p><br></p>
 
 ## 2023
 
@@ -36,7 +37,7 @@ Sound Design for Two Artistic Installations
 ### MUSE Museum - Trento, Italy [28/29.10]
 Participation in the Masterclass **Teorie dei Climi**
 
-### IV Giornata della Tecnologia - Luca Marenzio Conservatory - Brescia, Italy [30.09]
+### IV Giornata della Tecnologia - L. Marenzio Conservatory - Brescia, Italy [30.09]
 Hardware and Software Design of Adaptive Musical Instruments for empaired children
 
 ### Creative District - Capocastello (AV), Italy [28/29/30.07]
