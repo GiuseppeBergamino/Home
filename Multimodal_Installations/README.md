@@ -3,7 +3,7 @@
 Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of the artistic expression, making the audience an integral part of the artwork's unfolding narrative
 
 ## Horror Vacui
-<iframe src="https://youtube.com/embed/pqRWJS68FYs?si=F12yWTocTdlDjCk5" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://youtube.com/embed/pqRWJS68FYs?si=F12yWTocTdlDjCk5" style = "height: 300px; width: 100%; border: none"> </iframe>
 
 **Horror Vacui** refers to the fear of empty spaces and the tendency to fill them. In this context, the ocean represents a natural void that has been gradually invaded and filled with anthropogenic noise. For cetaceans, which rely on sounds for survival, this filling of the void with artificial noises creates a hostile and chaotic environment, disrupting their natural behavior and causing stress, disorientation, and death. <br>
 
@@ -13,7 +13,7 @@ The installation invites visitors to experience this sensory invasion, transform
 <br>
 
 ## Flatland - A Geometric Ecosystem
-<iframe src="https://youtube.com/embed/VDaHD4LrixQ" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://youtube.com/embed/VDaHD4LrixQ" style = "height: 300px; width: 100%; border: none"> </iframe>
 
 This digital work is based on the book **Flatland: A Romance of Many Dimensions** by Edwin Abbott Abbott, first published in 1884. The novella depicts a two-dimensional universe where inhabitants are made out of basic geometric shapes and are organized into an extremely rigid caste system: a figure's social power increases with the number of its sides. The narrator’s life—a square—is completely taken aback when he first encounters a sphere. With this incredible and new 3D shape, the square starts a journey in lands with many different dimensions: Pointland (0D), Lineland (1D), Flatland (2D) and Spaceland (3D). After that, the Square’s mind is open to the idea of endless multi-dimensional worlds, in particular he tries to convince the Sphere of the existence of the fourth dimension. Ironically enough, the Sphere blames the Square for this blasphemous idea.
 **Flatland - A Geometric Ecosystem** moves from this final paradox and gives the user the ability to become a 4D entity that can freely explore Flatland, its population, and the movements of the Sphere. Thanks to hand-tracking algorithms and binaural sound spatialization, the user’s experience is granted to be immersive and highly interactive; becoming a 4D entity can enhance the possibility of comprehending the fantastic realm of Flatland and the complexity of the lives of its inhabitants.
@@ -30,7 +30,7 @@ The artwork consists of five windows supported by pedestals and equipped with se
 <br>
 
 ## Water is Not Sound
-<iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style = "height: 300px; width: 100%; border: none"> </iframe>
 
 The artwork consists of a plexiglass tank filled with water and equipped with sensors. The interactions of the participants with the water volume are translated into sounds coherent with the executed gestures. A sound spatialization algorithm allows the sound to move within a quadraphonic speaker system.
 
@@ -38,7 +38,7 @@ The artwork consists of a plexiglass tank filled with water and equipped with se
 <br>
 
 ## Architettura a Gravità di Gocce
-<iframe src="https://www.youtube.com/embed/3n_sY6HB830?si=3CtyQChHU7or3GPM" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://www.youtube.com/embed/3n_sY6HB830?si=3CtyQChHU7or3GPM" style = "height: 300px; width: 100%; border: none"> </iframe>
 
 The artwork is designed to create rhythmic patterns using the mechanized dropping of water onto four recycled materials equipped with microphones. Participants can control the speed and quantity of the drops on the materials through an interactive interface featuring lights and capacitive sensors.
 
@@ -53,21 +53,21 @@ The artwork is designed to musically and visually connect the less evident physi
 <br>
 
 ## Vari_azioni_su_AL13
-<iframe src="https://www.youtube.com/embed/qbp2NkQKTdk?si=83GFQY_yKuDGvqxM" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://www.youtube.com/embed/qbp2NkQKTdk?si=83GFQY_yKuDGvqxM" style = "height: 300px; width: 100%; border: none"> </iframe>
 The artwork is designed to raise public awareness about creative recycling and the benefits of using aluminum over plastic containers. The system uses sensors to allow participants to play with recycled aluminum cans, creating different rhythmic and melodic patterns based on the activated can stations.
 
 <p></p>
 <br>
 
 ## Arterie Cromatiche
-<iframe src="https://www.youtube.com/embed/9Wvm4ajOasQ?si=OTfBfzHX6dQ4jHTg" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://www.youtube.com/embed/9Wvm4ajOasQ?si=OTfBfzHX6dQ4jHTg" style = "height: 300px; width: 100%; border: none"> </iframe>
 The artwork was created in collaboration with the master sculptor Giuseppe Rubicco. The space is arranged with lights and glass sculptures of dismembered female bodies, and as the viewers move, they trigger and modify spatialized sound events across various speakers.
 
 <p></p>
 <br>
 
 ## AR-DRUM
-<iframe src="https://youtube.com/embed/BzrOlVYQNpA?si=z0V8dA55nvJkFmFt" style = "height: 300px; width: 100%;"> </iframe>
+<iframe src="https://youtube.com/embed/BzrOlVYQNpA?si=z0V8dA55nvJkFmFt" style = "height: 300px; width: 100%; border: none"> </iframe>
 This installation is a Three.js-based augmented reality experience where 16 cubes are displayed in a 4x4 grid. Each cube is associated with a different audio file, and clicking on a cube plays or pauses the corresponding sound. The cubes change size in real-time based on the volume of the audio they are playing. The app includes an immersive 3D audio experience while using headphones. 
 
 
