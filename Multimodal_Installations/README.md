@@ -1,20 +1,26 @@
 # Multimodal Installation
 
-<iframe src="https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/" style = "height: 100%; width: 100%; border: none;"></iframe>
+Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of the artistic expression, making the audience an integral part of the artwork's unfolding narrative
 
-- Frammento digitale _Radici_
-- [Full Screen](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Radici_full/)
+## Horror Vacui
 
+## Flatland - A Geometric Ecosystem
 
+## Lucciole
 
-La vegetazione è caratterizzata - specialmente sul versante meridionale - da una prevalente copertura di bosco ceduo misto, alternato a castagneti da frutto.
+## Acchiappasuono
 
-Fitti faggeti si trovano su tutte le elevazioni al di sopra dei 900 metri e scendendo a quote più basse nelle zone più fredde del comprensorio (area del Laceno, valli del Terminio e dei monti Mai).
+## Cinque Finestre
 
-I Monti Picentini sono ricchi di boschi di faggio, cerro, acero, ontano, castagno e conservano un raro areale di pino nero.
+## Water is Not Sound
 
+## Architettura a Gravità di Gocce
 
+## Onde Empatiche
 
+## Vari_azioni_su_AL13
+
+## AR-DRUM
 
 
 
