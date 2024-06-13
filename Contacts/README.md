@@ -1,7 +1,7 @@
 # Contacts
 <br>
 
-Email: jeps_berg [at] hotmail.it
+jeps_berg [at] hotmail.it
 <p></p>
 [Instagram](https://www.instagram.com/giuseppe.berg/)
 <p></p>
