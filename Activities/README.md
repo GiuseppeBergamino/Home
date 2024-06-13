@@ -23,7 +23,7 @@ Composition and Performance of the Acousmatic Piece **Metastabile**
 Generative Web Installation **Devianza Intima**
 
 #### Studio Home Awareness - Milan, Italy [14.03 - 09.04]
-Sound Design for the Solo Exhibition of the artist [Noemi Mirata](https://www.noemimirata.com/)
+Sound Design for the Solo Exhibition of the Artist [Noemi Mirata](https://www.noemimirata.com/)
 
 <p><br></p>
 
@@ -64,13 +64,13 @@ Interactive Installation in Acoustic Augmented Reality **Cinque Finestre**
 Live Electronics performer for the **Interferenze Festival**
 
 #### From Silence Festival - Chigiana Academy, Siena, Italy [31.07]
-Composition and Performance of the Acousmatic Piece **Metastabile**
+Composition and Performance of the acousmatic piece **Metastabile**
 
 #### From Silence Festival - Chigiana Academy, Siena, Italy [27.07]
-Live Electronics for the Piece **Con Luigi Dallapiccola** by Luigi Nono
+Live Electronics for the piece **Con Luigi Dallapiccola** by Luigi Nono
 
 #### From Silence Festival - Chigiana Academy, Siena, Italy [22.07]
-Live Electronics for the Piece **Lo Sconosciuto Ritrovato** by Gianvincenzo Cresta
+Live Electronics for the piece **Lo Sconosciuto Ritrovato** by Gianvincenzo Cresta
 
 #### Launch of the Web Installation Monti Picentini Digitali [1.04]
 
@@ -101,7 +101,7 @@ Diptych of Interactive Installations **La Eco Empatica** with Collettivo Agata
 ## 2019
 
 #### MA/IN Intermedia Festival - Casa Cava, Matera, Italy. [20/21/22.09]
-Multimodal Interactive Installation **Water is Not Sound**
+Multimodal Interactive Installation **Water is Not Sound** with Collettivo Agata
 
 #### Lake Como Waves Festival - Villa Erba, Cernobbio (Como), Italy [07.09]
 Multimodal Interactive Installation **Water is Not Sound** with Collettivo Agata
@@ -110,7 +110,7 @@ Multimodal Interactive Installation **Water is Not Sound** with Collettivo Agata
 Multimodal Interactive Installation **Onde Empatiche** with Collettivo Agata
 
 #### Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy [12.06]
-Live Electronics performete for the **Interferenze Festival**
+Live Electronics performer for the **Interferenze Festival**
 
 <p><br></p>
 
@@ -133,36 +133,46 @@ Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo A
 ### Second Level Academic Diploma in Technologies for Music Education
 #### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - ongoing]
 
-### Masterclass Theories of Climates, Method, and Aesthetics of Scientific Poetry
+<p><br></p>
+
+### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
 #### MUSE Museum, Trento, Italy [October 2023]
+
+<p><br></p>
 
 ### Masterclass in Live Electronics, Sound and Music Computing
 #### Chigiana Academy, Siena, Italy [May 2022 - July 2022]
 With lectures by Alvise Vidolin and co-lectures by Nicola Bernardini.
 
+<p><br></p>
+
 ### Second Level Academic Diploma in Electronic Music and Sound Design
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2019 - 2022]
 Grade: 110 with honors and special mention <br>
-Thesis titled **Design of Interactive Multimodal Installations: Soundscape and Acoustic Augmented Reality**
+Thesis titled: **Interactive Multimodal Installations design: Soundscape and Acoustic Augmented Reality**
+
+<p><br></p>
 
 ### First Level Academic Diploma in Electronic Music
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2015 - 2018]
 Grade: 110 with honors and special mention <br>
-Thesis titled **Design of Generative Modular Systems for Electroacoustic Music**
+Thesis titled: **Generative Modular Systems design for Electroacoustic Music**
+
+<p><br></p>
 
 # Awards
 
 ### XII National Arts Award - Section Electronic Music and New Technologies
-#### Category B: Electroacoustic Musical Compositions - Works with Live Electronics [03.07.2017 - 05.07.2017]
+#### Electroacoustic Musical Compositions - Works with Live Electronics [03.07.2017 - 05.07.2017]
 Received a diploma of merit as the second-place winner in the Live Electronics category of the XII National Arts Award with the work **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble. <br>
 Jury: Alvin Curran, Simon Emmerson and Ivan Fedele.
+
+<p><br></p>
 
 # Artistic Residencies
 
 ### ART Center Padula [18.07.2024 - 05.08.2024]
 #### Research Grant Provided by “Monaci Digitali”
-
-
 
 <p></p>
 
