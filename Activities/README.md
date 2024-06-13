@@ -10,167 +10,158 @@ Generative Web Installation **Devianza Intima**
 #### As Islands - Castle Belasi - Trento, Italy [01.06 - 27.10] 
 Multimodal Interactive Installation **Horror Vacui**
 
-### The Magnificent Four - Salema Eco Camp - Budens, Portugal [19/20/21.04] 
+#### The Magnificent Four - Salema Eco Camp - Budens, Portugal [19/20/21.04] 
 Generative Web Installation **Salamandra00**
 
-### Transforming Literary Places - Art Museum - Tartu, Estonia [28.03 - 18.05]
+#### Transforming Literary Places - Art Museum - Tartu, Estonia [28.03 - 18.05]
 Interactive Web Installation **Flatland - A Geometric Ecosystem**
 
-### Arti Incrociate - Luca Marenzio Conservatory, Brescia, Italy [19.03]
+#### Arti Incrociate - Luca Marenzio Conservatory, Brescia, Italy [19.03]
 Composition and Performance of the Acousmatic Piece **Metastabile**
 
-### Catartica - XXS Gallery - Palermo, Italy [16.03 - 22.03]
+#### Catartica - XXS Gallery - Palermo, Italy [16.03 - 22.03]
 Generative Web Installation **Devianza Intima**
 
-### Studio Home Awareness - Milan, Italy [14.03 - 09.04]
+#### Studio Home Awareness - Milan, Italy [14.03 - 09.04]
 Sound Design for the Solo Exhibition of the artist [Noemi Mirata](https://www.noemimirata.com/)
+
 <p><br></p>
 
 ## 2023
 
-### Orizzonti Project - Polo del 900 - Turin, Italy [18.12 - 18.01.2024]
+#### Orizzonti Project - Polo del 900 - Turin, Italy [18.12 - 18.01.2024]
 Generative Web Installation **Lucciole**
 
-### Amori di Cristallo - Museo Irpino, Avellino, Italy [25.11 - 10.01.2024]
+#### Amori di Cristallo - Museo Irpino, Avellino, Italy [25.11 - 10.01.2024]
 Sound Design for Two Artistic Installations
 
-### MUSE Museum - Trento, Italy [28/29.10]
+#### MUSE Museum - Trento, Italy [28/29.10]
 Participation in the Masterclass **Teorie dei Climi**
 
-### IV Giornata della Tecnologia - L. Marenzio Conservatory - Brescia, Italy [30.09]
+#### IV Giornata della Tecnologia - L. Marenzio Conservatory - Brescia, Italy [30.09]
 Hardware and Software Design of Adaptive Musical Instruments for empaired children
 
-### Creative District - Capocastello (AV), Italy [28/29/30.07]
+#### Creative District - Capocastello (AV), Italy [28/29/30.07]
 Multimodal Interactive Installation **Cinque Finestre**
 
-### Echorama Art Project - Voci di Notte - Libertà [from June 2023]
+#### Echorama Art Project - Voci di Notte - Libertà [from June 2023]
 Generative Web Installation **Origami**
 
-Multimodal Interactive Installation “Una Finestra”
-Music Festival - Brescia, Italy. [24.06.2023]
-Design, creation, and implementation of the multimodal interactive installation “Una Finestra.” Work presented in collaboration with the cultural association TeachMusic.
+#### Festa della musica - Brescia, Italy [24.06]
+Multimodal Interactive Installation **Una Finestra**
 
-Permanent Multimodal Interactive Installation “ONDA”
-Municipality of Caposele - Museum of Waters, Caposele (AV), Italy. [2022/2023]
-Design, creation, and implementation of the multimodal interactive installation “Onda,” a permanent work commissioned by the Municipality of Caposele (AV) for the Museum of Waters.
+#### Museo delle Acque, Caposele (AV), Italy [2022/2023]
+Permanent Multimodal Interactive Installation **ONDA**
 
-## 2022
-
-Interactive Installation in Acoustic Augmented Reality “Cinque Finestre”
-Remote Future Festival - City of Science, Naples, Italy. [23.11.2022 - 27.11.2022]
-Design, creation, and implementation of the multimodal interactive installation in acoustic augmented reality “Cinque Finestre.” In collaboration with the Department of Industrial Engineering of the University of Salerno and the State Conservatory of Music D. Cimarosa of Avellino.
-
-Performer in Live Electronics for the “Interferenze” Festival
-Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy. [9.09.2022]
-Performer in live electronics (multichannel spatialization of live and fixed sources) of the concert “Spazio al Pianoforte!,” for the pieces “Voices ad Piano” (P. Ablinger), “Time changes the memory of things” (M. Azzan), “Bubble” (D. Scia), “Compendium” (S. Corti), “Secondo improvviso” (G. Cardini), “Tombeau de Messiaen” (J. Harvey). Pieces performed with the pianist Maestro Emanuele Torquati. Contract as a musician and assistant to Maestro Hubert Westkemper.
-
-Composition and Performance of the Acousmatic Piece “Metastabile”
-From Silence Festival - Chigiana Academy, Siena, Italy. [31.07.2022]
-Composition and performance of the electronic piece personally composed, titled "Metastabile," lasting about 9 minutes, with live diffusion on an eight-channel audio system. Composition proposed as an official student of the Chigiana Academy of Siena.
-
-Live Electronics for the Piece “Con Luigi Dallapiccola” by Luigi Nono
-From Silence Festival - Chigiana Academy, Siena, Italy. [27.07.2022]
-Performer in live electronics of the piece “Con Luigi Dallapiccola” for ensemble of percussion and electronics on a multichannel diffusion system, composed by Luigi Nono. Study work on the piece with Maestro Alvise Vidolin and performance as an official student of the Chigiana Academy of Siena.
-
-Live Electronics for the Piece “Lo Sconosciuto Ritrovato” by Gianvincenzo Cresta
-From Silence Festival - Chigiana Academy, Siena, Italy. [22.07.2022]
-Performer in live electronics of the piece “Lo Sconosciuto Ritrovato” for viola and electronics on a multichannel diffusion system, composed by Gianvincenzo Cresta. Study work on the piece with the composer lasted about a month and performance as an official student of the Chigiana Academy of Siena.
-
-Launch of the Web Installation “Monti Picentini Digitali”
-Web [1.04.2022]
-Design, creation, and web publication of the personal web installation "Monti Picentini Digitali," containing an interactive sound map with natural environmental recordings and "fragments" of generative art. Monti Picentini Digitali
-
-Interactive Acoustic Augmented Reality Installation “Cinque Finestre”
-The Night of Museums - Irpinian Museum, Avellino, Italy. [14.05.2022]
-Design, creation, and implementation of the multimodal interactive acoustic augmented reality installation “Cinque Finestre.” In collaboration with the D. Cimarosa State Conservatory of Music in Avellino.
-
-Light and Sound Design for the Exhibition RI:USO by the Master Sculptor Giuseppe Rubicco
-Summer Fest - Caves of Villa Amendola, Avellino, Italy. [15.09.2021 - 28.02.2022]
-Design, creation, and setup of site-specific light and sound installations to complement the glass sculptures exhibition by Master Giuseppe Rubicco. An initiative of the Summer Fest 2021 commissioned by the Municipality of Avellino. In collaboration with the Agata Collective.
+<p><br></p>
 
 ## 2022
 
-Multimodal Installation “La Lama e l’Onda” with Master Giuseppe Rubicco
-Municipality of Avellino - Press Club, Avellino, Italy. [20.11.2021 - 29.11.2021]
-Design, creation, and setup of the multimodal (sound and light) installation “La Lama e l’Onda,” produced in collaboration with Master Giuseppe Rubicco and the Agata Collective.
+#### Futuro Remoto Festival - Città della Scienza, Naples, Italy [23.11 - 27.11]
+Interactive Installation in Acoustic Augmented Reality **Cinque Finestre**
 
-Performer in Live Electronics for the “Interferenze” Festival
-Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy. [21.10.2022]
-Performer in live electronics for the pieces “Cello Counterpoint” (S. Reich) and “Dam Mwen Yo” (N. Joachim), performed with cellist Maestro Francesco Dillon.
+#### Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy [9.09]
+Live Electronics performer for the **Interferenze Festival**
+
+#### From Silence Festival - Chigiana Academy, Siena, Italy [31.07]
+Composition and Performance of the Acousmatic Piece **Metastabile**
+
+#### From Silence Festival - Chigiana Academy, Siena, Italy [27.07]
+Live Electronics for the Piece **Con Luigi Dallapiccola** by Luigi Nono
+
+#### From Silence Festival - Chigiana Academy, Siena, Italy [22.07]
+Live Electronics for the Piece **Lo Sconosciuto Ritrovato** by Gianvincenzo Cresta
+
+#### Launch of the Web Installation Monti Picentini Digitali [1.04]
+
+#### Notte dei Musei - Museo Irpino, Avellino, Italy [14.05]
+Interactive Acoustic Augmented Reality Installation **Cinque Finestre**
+
+#### Summer Fest - Grotte di Villa Amendola, Avellino, Italy [15.09.2021 - 28.02.2022]
+Light and Sound Design for the Exhibition **RI:USO** by the Master Sculptor Giuseppe Rubicco
+
+<p><br></p>
 
 ## 2021
 
-Multimodal Interactive Installation “Vari_azioni_su_AL13”
-Riscarti Festival - Mercato Trionfale, Rome, Italy. [20.09.2021 - 26.09.2021]
-Design, creation, and setup of the multimodal interactive installation “Vari_azioni_su_AL13,” where users produce music using recycled cans through a personally developed system. Produced in collaboration with the Agata Collective.
+#### Municipality of Avellino - Circolo della Stampa, Avellino, Italy [20.11 - 29.11]
+Multimodal Installation **La Lama e l’Onda** with Master Giuseppe Rubicco and Collettivo Agata
 
-Diptych of Interactive Installations “La Eco Empatica”
-Carbonaria Festival - [Calitri, Aquilonia, Lacedonia], Province of Avellino, Italy. [26.07.2021 - 30.07.2021]
-Design, creation, setup, and musical performances using the diptych of interactive sound and light installations “La Eco Empatica.” Produced for the itinerant Carbonaria Festival in collaboration with the Agata Collective.
+#### Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy [21.10]
+Live Electronics performer for the **Interferenze Festival**
+
+#### Riscarti Festival - Mercato Trionfale, Rome, Italy [20.09 - 26.09]
+Multimodal Interactive Installation **Vari_azioni_su_AL13** with Collettivo Agata
+
+#### Carbonaria Festival - [Calitri, Aquilonia, Lacedonia] (AV), Italy [26.07 - 30.07]
+Diptych of Interactive Installations **La Eco Empatica** with Collettivo Agata
+
+<p><br></p>
 
 ## 2019
 
-Multimodal Interactive Installation “Water is Not Sound”
-MA/IN Intermedia Festival - Casa Cava, Matera, Italy. [20.09.2019 - 22.09.2019]
-Design, creation, and setup of the multimodal interactive installation “Water is Not Sound.” Presented to Invitro for the MA/IN Matera Intermedia Festival as part of "Matera European Capital of Culture," in collaboration with the Agata Collective.
+#### MA/IN Intermedia Festival - Casa Cava, Matera, Italy. [20/21/22.09]
+Multimodal Interactive Installation **Water is Not Sound**
 
-Multimodal Interactive Installation “Water is Not Sound”
-Lake Como Waves Festival - Villa Erba, Cernobbio (Como), Italy. [07.09.2019]
-Design, creation, and setup of the multimodal interactive installation “Water is Not Sound.” Presented to OLO Creative Farm for Lake Como Waves - Correnti d’acqua. In collaboration with the Agata Collective.
+#### Lake Como Waves Festival - Villa Erba, Cernobbio (Como), Italy [07.09]
+Multimodal Interactive Installation **Water is Not Sound** with Collettivo Agata
 
-Multimodal Interactive Installation “Onde Empatiche”
-Emozioni in Mostra - Castel dell’Ovo, Naples, Italy. [29.08.2019 - 09.09.2019]
-Design, creation, and setup of the multimodal interactive installation “Onde Empatiche.” Presented to The Armenian Fine Arts Foundation for Emozioni in Mostra - Armenia meets the world. In collaboration with the Agata Collective.
+#### Emozioni in Mostra - Castel dell’Ovo, Naples, Italy [29.08 - 09.09]
+Multimodal Interactive Installation **Onde Empatiche** with Collettivo Agata
 
-Performer in Live Electronics for the “Interferenze” Festival
-Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy. [12.06.2019]
-Performer in live electronics for the piece “Petals” (K. Saariaho), performed with Maestro cellist Francesco Dillon.
+#### Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy [12.06]
+Live Electronics performete for the **Interferenze Festival**
+
+<p><br></p>
 
 ## 2018
 
-Multimodal Interactive Installation “Arterie Cromatiche”
-Municipality of Avellino - Crypt of the Cathedral, Avellino, Italy. [23.12.2018 - 26.12.2018]
-Design, creation, and setup of the multimodal interactive installation “Arterie Cromatiche.” Produced by the Municipality of Avellino. In collaboration with the Agata Collective and Master Sculptor Giuseppe Rubicco.
+#### Municipality of Avellino - Crypt of the Cathedral, Avellino, Italy [23.12 - 26.12]
+Multimodal Interactive Installation **Arterie Cromatiche** with Giuseppe Rubicco and Collettivo Agata
+
+<p><br></p>
 
 ## 2017
 
-Multimodal Interactive Installation “L’Acqua non è Suono”
-Anima Mea Festival - Palazzo della Provincia, Bari, Italy. [October 2017]
-Design, creation, and setup of the multimodal interactive installation “L’Acqua non è Suono,” consisting of the personally designed devices “Bacino Idrosensitivo” and “Architettura a Gravità di Gocce.” Produced by the L’Amoroso Association - Anima Mea Festival in collaboration with the D. Cimarosa State Conservatory of Music in Avellino. In collaboration with the Agata Collective.
+#### Anima Mea Festival - Palazzo della Provincia, Bari, Italy. [October]
+Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo Agata
 
-## Education
+<p><br></p>
 
-Second Level Academic Diploma in Technologies for Music Education
-Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - ongoing]
+# Education
 
-Masterclass “Theories of Climates, Method, and Aesthetics of Scientific Poetry”
-MUSE Museum, Trento, Italy [October 2023]
-Masterclass by invitation after winning an open call for artists and curators engaged in researching artistic forms for scientific and naturalistic dissemination. Part of the contemporary art project WE ARE THE FLOOD.
+### Second Level Academic Diploma in Technologies for Music Education
+#### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - ongoing]
 
-Live Electronics Course - Sound and Music Computing
-Chigiana Academy, Siena, Italy [May 2022 - July 2022]
-Advanced course held at the Chigiana Academy as part of the "From Silence" festival, with lectures by Maestro Alvise Vidolin and co-lectures by Maestro Nicola Bernardini.
+### Masterclass Theories of Climates, Method, and Aesthetics of Scientific Poetry
+#### MUSE Museum, Trento, Italy [October 2023]
 
-Second Level Academic Diploma in Electronic Music and Sound Design
-Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2019 - 2022]
-Grade: 110 with honors and special mention
-Thesis titled "Design of Interactive Multimodal Installations: Soundscape and Acoustic Augmented Reality."
+### Masterclass in Live Electronics, Sound and Music Computing
+#### Chigiana Academy, Siena, Italy [May 2022 - July 2022]
+With lectures by Alvise Vidolin and co-lectures by Nicola Bernardini.
 
-First Level Academic Diploma in Electronic Music
-Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2015 - 2018]
-Grade: 110 with honors and special mention
-Thesis titled "Design of Generative Modular Systems for Electroacoustic Music."
+### Second Level Academic Diploma in Electronic Music and Sound Design
+#### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2019 - 2022]
+Grade: 110 with honors and special mention <br>
+Thesis titled **Design of Interactive Multimodal Installations: Soundscape and Acoustic Augmented Reality**
 
-## Awards
+### First Level Academic Diploma in Electronic Music
+#### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2015 - 2018]
+Grade: 110 with honors and special mention <br>
+Thesis titled **Design of Generative Modular Systems for Electroacoustic Music**
 
-XII National Arts Award - Section Electronic Music and New Technologies
-Second Place - Category B: Electroacoustic Musical Compositions - Works with Live Electronics [03.07.2017 - 05.07.2017]
-Received a diploma of merit as the second-place winner in the Live Electronics category of the XII National Arts Award with the work “Ghenesis Khai Athroisma," performed with the Cimarosa Ensemble. Jury: Alvin Curran, Simon Emmerson, and Ivan Fedele.
+# Awards
 
-## Artistic Residencies
+### XII National Arts Award - Section Electronic Music and New Technologies
+#### Category B: Electroacoustic Musical Compositions - Works with Live Electronics [03.07.2017 - 05.07.2017]
+Received a diploma of merit as the second-place winner in the Live Electronics category of the XII National Arts Award with the work **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble. <br>
+Jury: Alvin Curran, Simon Emmerson and Ivan Fedele.
 
-ART Center Padula - Research Grant Provided by “Monaci Digitali”
-Research grant provided by "Monaci Digitali" [18.07.2024 - 05.08.2024]
+# Artistic Residencies
+
+### ART Center Padula [18.07.2024 - 05.08.2024]
+#### Research Grant Provided by “Monaci Digitali”
+
 
 
 <p></p>
