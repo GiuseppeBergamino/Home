@@ -1,16 +1,14 @@
 # Bio
 
-<br>
-
 ![Foto](https://giuseppebergamino.github.io/Home/Bio/Giuseppe_Bergamino_personal_photo.jpg)
 
 <br>
 
-Giuseppe Bergamino (Avellino, Italy, 1993) is an electronic musician involved in the creation of multimodal artworks and research in the fields of human-computer interaction, digital lutherie, generative digital art and sound design. He has elected multimodal interactive artistic installations as his main expressive medium, believing that the active and sensorial fusion between users and art is able to convey the driving idea of his works with greater and more intimate clarity.
+Giuseppe Bergamino (Avellino, Italy, 1993) is an electronic musician involved in the creation of **multimodal** artworks and research in the fields of **human-computer interaction**, **digital lutherie**, **generative art** and **sound design**. He has elected multimodal interactive artistic installations as his main expressive medium, believing that the active and sensorial fusion between users and art is able to convey the driving idea of his works with greater and more intimate clarity.
 
 <p></p>
 
-Giuseppe Bergamino has a master degree in electronic music ([Conservatory of Music Domenico Cimarosa](http://www.conservatoriocimarosa.org/), Avellino, Italy) and he is currently concluding his master degree in technologies for music teaching at the [Luca Marenzio Music Conservatory](https://www.consbs.it/) of Brescia (Italy), with his master degree thesis on the development of adaptive digital musical instruments for impaired children.
+Giuseppe Bergamino has a master degree in **electronic music** ([Conservatory of Music Domenico Cimarosa](http://www.conservatoriocimarosa.org/), Avellino, Italy) and he is currently concluding his master degree in **technologies for music education** at the [Luca Marenzio Music Conservatory](https://www.consbs.it/) of Brescia (Italy), with his master degree thesis on the development of adaptive digital musical instruments for impaired children.
 
 <p></p>
 
