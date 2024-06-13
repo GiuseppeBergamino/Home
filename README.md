@@ -12,9 +12,10 @@
 
 
 ## About
+
+- [Activities](https://giuseppebergamino.github.io/Home/Activities/)
 - [Bio](https://giuseppebergamino.github.io/Home/Bio/)
-- [Activities](https://giuseppebergamino.github.io/Home/Bio/)
-- [Contacts](https://giuseppebergamino.github.io/Home/Bio/)
+- [Contacts](https://giuseppebergamino.github.io/Home/Contacts/)
 
 
 
