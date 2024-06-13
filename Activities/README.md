@@ -4,17 +4,14 @@ List of selected works
 
 ## 2024
 
+### [22.06] Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy
+Generative Web Installation **Devianza Intima**
 
-### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy. [22.06.2024]
-Generative Web Installation <b>Devianza Intima</b>
+### [01.06 - 27.10] As Islands - Castle Belasi - Trento, Italy
+Multimodal Interactive Installation **Horror Vacui**
 
-### Multimodal Interactive Installation “Horror Vacui”
-#### As Islands - Castle Belasi - Trento, Italy. [01.06.2024 - 27.10.2024]
-Design, creation, and installation of the multimodal interactive artwork Horror Vacui, developed around the concept of perceiving sound phenomena inaudible to the human ear, with a particular reference to marine noise pollution. The work was developed thanks to the MUSE Museum of Trento and the We Are The Flood project.
-
-Generative Web Installation “Salamandra00”
-The Magnificent Four - Salema Eco Camp - Budens, Portugal. [19/20/21.04.2024]
-Design, creation, and installation of the web artwork Salamandra00, a generative ecosystem developed in honor of the fauna of the Portuguese Vicentine Coast. The artwork can be visited at the link: Salamandra00
+### [19/20/21.04] The Magnificent Four - Salema Eco Camp - Budens, Portugal
+Generative Web Installation **Salamandra00**
 
 Interactive Web Installation “Flatland - A Geometric Ecosystem”
 Transforming Literary Places - Tartu Art Museum - Tartu, Estonia. [28.03.2024 - 18.05.2024]
