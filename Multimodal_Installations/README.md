@@ -48,14 +48,14 @@ The artwork is designed to create rhythmic patterns using the mechanized droppin
 
 ## La Memoria Sogna Forme Liquide
 <iframe src="https://drive.google.com/file/d/1vT87FQSlJfv-S0bsnTdclrcfSxcTeaz-/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
-Sound and interactive design for the exhibition of artist Noemi Mirata.
+Sound and interactive design for the exhibition of the artist Noemi Mirata.
 
 <p></p>
 <br>
 
 ## Carillon Fluviale
 <iframe src="https://drive.google.com/file/d/1xfcyk0T554YSuzc57MQxO9SjR89Z5J3O/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
-Sound, light, and motion design. In collaboration with Collettivo Agata.
+The work is a generative sound system that produces music based on the intensity of the water flow of a small river..
 
 <p></p>
 <br>
