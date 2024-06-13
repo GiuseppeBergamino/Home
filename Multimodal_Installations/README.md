@@ -10,6 +10,7 @@ Giuseppe Bergamino's multimodal art installations blend various sensory experien
 The installation invites visitors to experience this sensory invasion, transforming their understanding of the void from a spatial concept to an oppressive and tangible sonic reality. Through interaction with water, the artwork reveals the problem of acoustic pollution to the human ear, evoking empathy and awareness about the need to protect the oceans from this invisible yet devastating form of pollution.
 
 <p></p>
+<br>
 
 ## Flatland - A Geometric Ecosystem
 <iframe src="https://youtube.com/embed/VDaHD4LrixQ" style = "height: 300px; width: 100%;"> </iframe>
@@ -18,6 +19,7 @@ This digital work is based on the book **Flatland: A Romance of Many Dimensions*
 **Flatland - A Geometric Ecosystem** moves from this final paradox and gives the user the ability to become a 4D entity that can freely explore Flatland, its population, and the movements of the Sphere. Thanks to hand-tracking algorithms and binaural sound spatialization, the user’s experience is granted to be immersive and highly interactive; becoming a 4D entity can enhance the possibility of comprehending the fantastic realm of Flatland and the complexity of the lives of its inhabitants.
 
 <p></p>
+<br>
 
 ## Cinque Finestre
 ![finestre1](https://raw.githubusercontent.com/GiuseppeBergamino/MontiPicentiniDigitali/gh-pages/docs/assets/finestre1.jpeg)
@@ -25,6 +27,7 @@ This digital work is based on the book **Flatland: A Romance of Many Dimensions*
 The artwork consists of five windows supported by pedestals and equipped with sensors that monitor their opening. The more the windows are opened, the more the participants can perceive binaural soundscapes composed of nature-recorded materials. Each participant is provided with headphones featuring a head-tracking system, ensuring the most immersive experience possible.
 
 <p></p>
+<br>
 
 ## Water is Not Sound
 <iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style = "height: 300px; width: 100%;"> </iframe>
@@ -32,6 +35,7 @@ The artwork consists of five windows supported by pedestals and equipped with se
 The artwork consists of a plexiglass tank filled with water and equipped with sensors. The interactions of the participants with the water volume are translated into sounds coherent with the executed gestures. A sound spatialization algorithm allows the sound to move within a quadraphonic speaker system.
 
 <p></p>
+<br>
 
 ## Architettura a Gravità di Gocce
 <iframe src="https://www.youtube.com/embed/3n_sY6HB830?si=3CtyQChHU7or3GPM" style = "height: 300px; width: 100%;"> </iframe>
@@ -39,24 +43,29 @@ The artwork consists of a plexiglass tank filled with water and equipped with se
 The artwork is designed to create rhythmic patterns using the mechanized dropping of water onto four recycled materials equipped with microphones. Participants can control the speed and quantity of the drops on the materials through an interactive interface featuring lights and capacitive sensors.
 
 <p></p>
+<br>
 
 ## Onde Empatiche
-
+![onde_empatiche](https://giuseppebergamino.github.io/Home/Multimodal_Installations/onde_empatiche.png)
+https://giuseppebergamino.github.io/Home/Multimodal_Installations/onde_empatiche.png
 The artwork is designed to musically and visually connect the less evident physical characteristics of two participants looking into each other's eyes at a close distance. A pattern of sensors monitors body temperature, heart rate, and skin conductance. The data is translated into sound and light.
 
 <p></p>
+<br>
 
 ## Vari_azioni_su_AL13
 <iframe src="https://www.youtube.com/embed/qbp2NkQKTdk?si=83GFQY_yKuDGvqxM" style = "height: 300px; width: 100%;"> </iframe>
 The artwork is designed to raise public awareness about creative recycling and the benefits of using aluminum over plastic containers. The system uses sensors to allow participants to play with recycled aluminum cans, creating different rhythmic and melodic patterns based on the activated can stations.
 
 <p></p>
+<br>
 
 ## Arterie Cromatiche
 <iframe src="https://www.youtube.com/embed/9Wvm4ajOasQ?si=OTfBfzHX6dQ4jHTg" style = "height: 300px; width: 100%;"> </iframe>
 The artwork was created in collaboration with the master sculptor Giuseppe Rubicco. The space is arranged with lights and glass sculptures of dismembered female bodies, and as the viewers move, they trigger and modify spatialized sound events across various speakers.
 
 <p></p>
+<br>
 
 ## AR-DRUM
 <iframe src="https://youtube.com/embed/BzrOlVYQNpA?si=z0V8dA55nvJkFmFt" style = "height: 300px; width: 100%;"> </iframe>
