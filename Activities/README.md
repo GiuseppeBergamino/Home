@@ -4,55 +4,46 @@ List of selected works
 
 ## 2024
 
-### [22.06] Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy
+### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy [22.06] 
 Generative Web Installation **Devianza Intima**
 
-### [01.06 - 27.10] As Islands - Castle Belasi - Trento, Italy
+### As Islands - Castle Belasi - Trento, Italy [01.06 - 27.10] 
 Multimodal Interactive Installation **Horror Vacui**
 
-### [19/20/21.04] The Magnificent Four - Salema Eco Camp - Budens, Portugal
+### The Magnificent Four - Salema Eco Camp - Budens, Portugal [19/20/21.04] 
 Generative Web Installation **Salamandra00**
 
-Interactive Web Installation “Flatland - A Geometric Ecosystem”
-Transforming Literary Places - Tartu Art Museum - Tartu, Estonia. [28.03.2024 - 18.05.2024]
-Design, creation, and installation of the digital interactive artwork Flatland - A Geometric Ecosystem, exhibited at the Tartu Museum and officially included in the "European Capital of Culture - Tartu 2024" agenda. Tartu Art Museum
+### Transforming Literary Places - Tartu Art Museum - Tartu, Estonia [28.03 - 18.05]
+Interactive Web Installation **Flatland - A Geometric Ecosystem**
 
-Composition and Performance of the Acousmatic Piece “Metastabile”
-Crossed Arts - Luca Marenzio Conservatory, Brescia, Italy. [19.03.2024]
-Composition and performance of the electronic piece personally composed, titled "Metastabile," lasting about 9 minutes, with live diffusion on a quadraphonic audio system. Qui Brescia
+### Arti Incrociate - Luca Marenzio Conservatory, Brescia, Italy [19.03]
+Composition and Performance of the Acousmatic Piece **Metastabile**
 
-Generative Web Installation “Devianza Intima”
-Catartica - XXS Gallery - Palermo, Italy. [16.03.2024 - 22.03.2024]
-Design, creation, and installation of the web artwork Devianza Intima, a generative ecosystem developed around the concept of catharsis. The artwork can be visited at the link: Devianza Intima
+### Catartica - XXS Gallery - Palermo, Italy [16.03 - 22.03]
+Generative Web Installation **Devianza Intima**
 
-Sound Design for the Solo Exhibition of Artist Noemi Mirata
-Studio Home Awareness - Milan, Italy. [14.03.2024 - 09.04.2024]
-Composition of a soundscape, sound design, and development of a sensorized system to make an interactive stainless steel sculpture. Project developed for "La memoria sogna forme liquide," the solo exhibition of artist Noemi Mirata.
+### Studio Home Awareness - Milan, Italy [14.03 - 09.04]
+Sound Design for the Solo Exhibition of the artist [Noemi Mirata](https://www.noemimirata.com/)
 
 ## 2023
 
-Generative Web Installation “Lucciole”
-Orizzonti Project - Polo del 900 - Turin, Italy. [18.12.2023 - 18.01.2024]
-Design, creation, and installation of the web artwork Lucciole, a generative ecosystem to experience a sound archive developed during the research project "Orizzonti" by the Piero Gobetti Study Center at the Polo del 900 in Turin. The artwork can be visited at the link: Lucciole
+### Orizzonti Project - Polo del 900 - Turin, Italy [18.12 - 18.01.2024]
+Generative Web Installation **Lucciole**
 
+### Amori di Cristallo - Museo Irpino, Avellino, Italy [25.11 - 10.01.2024]
 Sound Design for Two Artistic Installations
-Crystal Loves Exhibition - Irpinian Museum, Avellino, Italy. [25.11.2023 - 10.01.2024]
-Musical composition and sound design for the works “Il Muro” and “Tendi la Mano,” exhibited in the collective exhibition “Crystal Loves” at the Irpinian Museum of Avellino.
 
-Participation in the Masterclass “Theories of Climates”
-MUSE Museum - Trento, Italy. [28 - 29.10.2023]
-Selected to join the WE ARE THE FLOOD artistic project of the MUSE Museum in Trento. Participation in the masterclass “Theories of Climates - Method and Aesthetics of Scientific Poetry.”
+### MUSE Museum - Trento, Italy [28/29.10]
+Participation in the Masterclass **Teorie dei Climi**
 
-Hardware and Software Design of Adaptive Musical Instruments for Disabled People
-Fourth Day of Musical Technology - Luca Marenzio Conservatory - Brescia, Italy. [30.09.2023]
-Design and creation of two adaptive musical instruments for cognitive and motor disabilities, developed for the inclusive orchestra I-Ork in collaboration with the State Music Conservatory Luca Marenzio of Brescia and the TeAch Music association.
+### IV Giornata della Tecnologia - Luca Marenzio Conservatory - Brescia, Italy [30.09]
+Hardware and Software Design of Adaptive Musical Instruments for empaired children
 
-Multimodal Interactive Installation “Cinque Finestre”
-Creative District - Capocastello (AV), Italy. [28.07.2023 - 30.07.2023]
-Design, creation, and implementation of the multimodal interactive installation “Cinque Finestre.”
+### Creative District - Capocastello (AV), Italy [28/29/30.07]
+Multimodal Interactive Installation **Cinque Finestre**
 
-Echorama Art Project - Web Exhibition “Voci di Notte - Libertà” [from June 2023]
-Launch of the web artwork Origami, a generative sound and visual ecosystem. Exhibition of selected artists visitable at the link: Libertart Calls. Virtual reality exhibition: Voci di Notte
+### Echorama Art Project - Voci di Notte - Libertà [from June 2023]
+Generative Web Installation **Origami**
 
 Multimodal Interactive Installation “Una Finestra”
 Music Festival - Brescia, Italy. [24.06.2023]
