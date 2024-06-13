@@ -29,6 +29,13 @@ The artwork consists of five windows supported by pedestals and equipped with se
 <p></p>
 <br>
 
+## RI:USO
+<iframe src="https://drive.google.com/file/d/1hEjjKxd-tGe7bKD74XeghUMRCD221Up5/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+Sound, light, and interactive design for the exhibition of the master sculptor Giuseppe Rubicco. In collaboration with the Agata Collective.
+
+<p></p>
+<br>
+
 ## Water is Not Sound
 <iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style = "height: 300px; width: 100%; border: none"> </iframe>
 
