@@ -1,5 +1,5 @@
 # Activities
-List of selected works
+List of works, educations, awards and artistic residencies
 <p><br></p>
 
 ## 2024
