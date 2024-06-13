@@ -174,7 +174,7 @@ Jury: Alvin Curran, Simon Emmerson and Ivan Fedele.
 ### ART Center Padula [18.07.2024 - 05.08.2024]
 #### Research Grant Provided by “Monaci Digitali”
 
-<p></p>
+<p><br></p>
 
 Back [Home](https://giuseppebergamino.github.io/Home/)
 
