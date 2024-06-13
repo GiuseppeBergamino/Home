@@ -47,7 +47,6 @@ The artwork is designed to create rhythmic patterns using the mechanized droppin
 
 ## Onde Empatiche
 ![onde_empatiche](https://giuseppebergamino.github.io/Home/Multimodal_Installations/onde_empatiche.png)
-https://giuseppebergamino.github.io/Home/Multimodal_Installations/onde_empatiche.png
 The artwork is designed to musically and visually connect the less evident physical characteristics of two participants looking into each other's eyes at a close distance. A pattern of sensors monitors body temperature, heart rate, and skin conductance. The data is translated into sound and light.
 
 <p></p>
