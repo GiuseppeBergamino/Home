@@ -6,7 +6,7 @@
 
 # Works 
 
-<iframe src="https://giuseppebergamino.github.io/Home/Interfaccia_home/" style = "height: 120%; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Interfaccia_home/" style = "height: 200px; width: 100%; border: none;"></iframe>
 
 <p></p>
 
