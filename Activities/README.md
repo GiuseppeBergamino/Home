@@ -1,12 +1,12 @@
 # Activities
+List of selected works
+<p></p>
 
 ## 2024
 
-#### Generative Web Installation “Devianza Intima”
-##### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy. [22.06.2024]
-Design, creation, and installation of the web artwork Devianza Intima, a generative ecosystem developed around the concept of catharsis.
 
-<p></p>
+### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy. [22.06.2024]
+Generative Web Installation <b>Devianza Intima</b>
 
 ### Multimodal Interactive Installation “Horror Vacui”
 #### As Islands - Castle Belasi - Trento, Italy. [01.06.2024 - 27.10.2024]
