@@ -19,16 +19,16 @@ let val_r = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   
- link_web_inst = createA('https://giuseppebergamino.github.io/Home/Web_Installations/', 'Web Installations'); //self interessante
+ link_web_inst = createA('https://giuseppebergamino.github.io/Home/Web_Installations/', 'Web Installations', '_top'); //self interessante
    
   
-  link_multimodal_inst = createA('https://giuseppebergamino.github.io/Home/Multimodal_Installations/', 'Multimodal Installations','_blank'); 
+  link_multimodal_inst = createA('https://giuseppebergamino.github.io/Home/Multimodal_Installations/', 'Multimodal Installations','_top'); 
   
-  link_musical_instruments = createA('https://giuseppebergamino.github.io/Home/Musical_Instruments/', 'Musical Instruments','_blank'); 
+  link_musical_instruments = createA('https://giuseppebergamino.github.io/Home/Musical_Instruments/', 'Musical Instruments','_top'); 
   
-  link_music = createA('https://giuseppebergamino.github.io/Home/Music/', 'Music','_blank'); 
+  link_music = createA('https://giuseppebergamino.github.io/Home/Music/', 'Music','_top'); 
   
-  link_learning_tools = createA('https://giuseppebergamino.github.io/Home/Learning_tools/', 'Learning Tools','_blank'); 
+  link_learning_tools = createA('https://giuseppebergamino.github.io/Home/Learning_tools/', 'Learning Tools','_top'); 
   
   
 }
