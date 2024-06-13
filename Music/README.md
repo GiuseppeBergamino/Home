@@ -38,19 +38,6 @@ List of selected works
 
 <br>
 
-## Soundscapes
-
-<iframe width="100%" height="166" src="https://www.youtube.com/embed/jK-iqRJTGQE?si=zKgRSsZ_F3sDhFoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="166" src="https://www.youtube.com/embed/9oNTLEjvKDM?si=kkJ1CTvkfy2TRDEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="166" src="https://www.youtube.com/embed/L1h38sNmS7k?si=jteRz-yWdo37t6vG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="166" src="https://www.youtube.com/embed/-fiDnP20i3Q?si=oO0Q9J8zeYeXNbOL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="100%" height="166" src="https://www.youtube.com/embed/DYzcTt1bszE?si=7zyMrTuaVLr0Tb-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
 
 ## Electroacoustic
 
@@ -65,6 +52,22 @@ List of selected works
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1846800327&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-brg" title="Giuseppe Berg" target="_blank" style="color: #cccccc; text-decoration: none;">Giuseppe Berg</a> · <a href="https://soundcloud.com/g-brg/usandem" title="Usandem" target="_blank" style="color: #cccccc; text-decoration: none;">Usandem</a></div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1846831119&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-brg" title="Giuseppe Berg" target="_blank" style="color: #cccccc; text-decoration: none;">Giuseppe Berg</a> · <a href="https://soundcloud.com/g-brg/bach-point-never" title="Bach Point Never" target="_blank" style="color: #cccccc; text-decoration: none;">Bach Point Never</a></div>
+
+<br>
+
+## Soundscapes
+
+<iframe width="100%" height="166" src="https://www.youtube.com/embed/jK-iqRJTGQE?si=zKgRSsZ_F3sDhFoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="166" src="https://www.youtube.com/embed/9oNTLEjvKDM?si=kkJ1CTvkfy2TRDEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="166" src="https://www.youtube.com/embed/L1h38sNmS7k?si=jteRz-yWdo37t6vG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="166" src="https://www.youtube.com/embed/-fiDnP20i3Q?si=oO0Q9J8zeYeXNbOL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="100%" height="166" src="https://www.youtube.com/embed/DYzcTt1bszE?si=7zyMrTuaVLr0Tb-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 <p><br></p>
 
