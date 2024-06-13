@@ -142,7 +142,7 @@ Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo A
 
 ### Masterclass in Live Electronics, Sound and Music Computing
 #### Chigiana Academy, Siena, Italy [May 2022 - July 2022]
-With lectures by Alvise Vidolin and co-lectures by Nicola Bernardini.
+With lectures by Alvise Vidolin and co-lectures by Nicola Bernardini
 
 <p><br></p>
 
@@ -163,9 +163,9 @@ Thesis titled: **Generative Modular Systems design for Electroacoustic Music**
 # Awards
 
 ### XII National Arts Award - Section Electronic Music and New Technologies
-#### Electroacoustic Musical Compositions - Works with Live Electronics [03.07.2017 - 05.07.2017]
-Received a diploma of merit as the second-place winner in the Live Electronics category of the XII National Arts Award with the work **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble. <br>
-Jury: Alvin Curran, Simon Emmerson and Ivan Fedele.
+#### Electroacoustic Musical Compositions - Works with Live Electronics [03.07 - 05.07.2017]
+Received a diploma of merit as the second-place winner in the Live Electronics category of the XII National Arts Award with the work **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble <br>
+Jury: Alvin Curran, Simon Emmerson and Ivan Fedele
 
 <p><br></p>
 
