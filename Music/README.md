@@ -1,7 +1,8 @@
 # Music
+List of selected works
+<br>
 
 ## Live sets
-<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uS6TebW7zMs?si=FBz2iub-8LVW1UF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -9,8 +10,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/acrs4-YMdkc?si=PLpi67UOg07aonMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Electronic
 <br>
+
+## Electronic
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1846715202&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-brg" title="Giuseppe Berg" target="_blank" style="color: #cccccc; text-decoration: none;">Giuseppe Berg</a> · <a href="https://soundcloud.com/g-brg/metastabile" title="Metastabile" target="_blank" style="color: #cccccc; text-decoration: none;">Metastabile</a></div>
 
@@ -28,16 +30,15 @@
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1846838163&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-brg" title="Giuseppe Berg" target="_blank" style="color: #cccccc; text-decoration: none;">Giuseppe Berg</a> · <a href="https://soundcloud.com/g-brg/onon-igiul" title="Onon Igiul" target="_blank" style="color: #cccccc; text-decoration: none;">Onon Igiul</a></div>
 
+<br>
 
 ## Ambient
 
-<br>
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1846760964&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-brg" title="Giuseppe Berg" target="_blank" style="color: #cccccc; text-decoration: none;">Giuseppe Berg</a> · <a href="https://soundcloud.com/g-brg/carriano" title="Carriano" target="_blank" style="color: #cccccc; text-decoration: none;">Carriano</a></div>
 
-## Soundscapes
-
 <br>
+
+## Soundscapes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jK-iqRJTGQE?si=zKgRSsZ_F3sDhFoT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -50,8 +51,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DYzcTt1bszE?si=7zyMrTuaVLr0Tb-N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Electroacoustic
-
-<br>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1846786764&color=%23ffcc00&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/g-brg" title="Giuseppe Berg" target="_blank" style="color: #cccccc; text-decoration: none;">Giuseppe Berg</a> · <a href="https://soundcloud.com/g-brg/mongolfiere" title="Mongolfiere" target="_blank" style="color: #cccccc; text-decoration: none;">Mongolfiere</a></div>
 
