@@ -1,4 +1,4 @@
-# Multimodal Installation
+# Multimodal Installations
 
 Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of the artistic expression, making the audience an integral part of the artwork's unfolding narrative
 
