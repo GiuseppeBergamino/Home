@@ -8,7 +8,7 @@ Giuseppe Bergamino has a master degree in electronic music ([Conservatory of Mus
 Giuseppe Bergamino participates with his installations in several international exhibitions and festivals, including: As Islands (Castel Belasi, Trento, Italy, 2024), Transforming Literary Places (Tartu, Estonia, 2024), The Magnificent Four (Costa Vicentina, Portugal, 2024), ControCANTO (Polo del 900, Turin, Italy, 2023), Futuro Remoto Festival (City of Science of Naples, Italy, 2022), From Silence Festival (Accademia Chigiana, Siena, Italy, 2022), National Night of Museums (Avellino, Italy, 2022), Riscarti Festival (Rome, Italy, 2021), MA/IN - Matera Intermedia Festival (Matera, Italy, 2019), Lake Como Waves (Cernobbio, Italy, 2019), Armenia Meets Europe (Naples, Italy, 2019).
 <p></p>
 Since 2022, Giuseppe Bergamino is a music teacher for the public middle school in the district of Brescia.
-<br>
+<p></p>
 
 Back [Home](https://giuseppebergamino.github.io/Home/)
 
