@@ -2,7 +2,7 @@
 
 <br>
 
-![Foto](https://github.com/GiuseppeBergamino/Home/blob/main/Bio/Giuseppe_Bergamino_personal_photo.jpg)
+![Foto](https://giuseppebergamino.github.io/Home/Bio/Giuseppe_Bergamino_personal_photo.jpg)
 
 <br>
 
