@@ -2,11 +2,11 @@
 <br>
 
 Email: jeps_berg [at] hotmail.it
-<br>
+<p></p>
 [Instagram](https://www.instagram.com/giuseppe.berg/)
-<br>
+<p></p>
 [Facebook](https://www.facebook.com/giuseppe.bergamino.5)
-<br>
+<p></p>
 
 
 Back [Home](https://giuseppebergamino.github.io/Home/)
