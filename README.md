@@ -6,15 +6,16 @@
 
 # Works 
 
-<iframe src="https://editor.p5js.org/Berg_/full/brqO9aM5E" style = "height: 300px; width: 100%; border: none;"></iframe>
+<iframe src="https://editor.p5js.org/Berg_/full/brqO9aM5E" style = "height: 250px; width: 100%; border: none;"></iframe>
 
 
 
 
 ## About
 
-- [Activities](https://giuseppebergamino.github.io/Home/Activities/)
+
 - [Bio](https://giuseppebergamino.github.io/Home/Bio/)
+- [Activities](https://giuseppebergamino.github.io/Home/Activities/)
 - [Contacts](https://giuseppebergamino.github.io/Home/Contacts/)
 
 
