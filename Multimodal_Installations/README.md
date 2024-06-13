@@ -29,12 +29,6 @@ The artwork consists of five windows supported by pedestals and equipped with se
 <p></p>
 <br>
 
-## RI:USO
-<iframe src="https://drive.google.com/file/d/1hEjjKxd-tGe7bKD74XeghUMRCD221Up5/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
-Sound, light, and interactive design for the exhibition of the master sculptor Giuseppe Rubicco. In collaboration with the Agata Collective.
-
-<p></p>
-<br>
 
 ## Water is Not Sound
 <iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style = "height: 300px; width: 100%; border: none"> </iframe>
@@ -48,6 +42,34 @@ The artwork consists of a plexiglass tank filled with water and equipped with se
 <iframe src="https://www.youtube.com/embed/3n_sY6HB830?si=3CtyQChHU7or3GPM" style = "height: 300px; width: 100%; border: none"> </iframe>
 
 The artwork is designed to create rhythmic patterns using the mechanized dropping of water onto four recycled materials equipped with microphones. Participants can control the speed and quantity of the drops on the materials through an interactive interface featuring lights and capacitive sensors.
+
+<p></p>
+<br>
+
+## La Memoria Sogna Forme Liquide
+<iframe src="https://drive.google.com/file/d/1vT87FQSlJfv-S0bsnTdclrcfSxcTeaz-/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+Sound and interactive design for the exhibition of artist Noemi Mirata.
+
+<p></p>
+<br>
+
+## Carillon Fluviale
+<iframe src="https://drive.google.com/file/d/1xfcyk0T554YSuzc57MQxO9SjR89Z5J3O/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+Sound, light, and motion design. In collaboration with Collettivo Agata.
+
+<p></p>
+<br>
+
+## RI:USO
+<iframe src="https://drive.google.com/file/d/1hEjjKxd-tGe7bKD74XeghUMRCD221Up5/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+Sound, light, and interactive design for the exhibition of the master sculptor Giuseppe Rubicco. In collaboration with Collettivo Agata.
+
+<p></p>
+<br>
+
+## La Lama e l'Onda
+<iframe src="https://drive.google.com/file/d/1E4uYWRH9d0Lfczd5PuXI6Cz2-sdodUN1/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+Sound, light, and motion design. A generative kinetic sculpture made in collaboration with Giuseppe Rubicco and Collettivo Agata.
 
 <p></p>
 <br>
