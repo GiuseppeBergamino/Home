@@ -19,7 +19,7 @@ let val_r = 0;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   
- link_web_inst = createA('https://giuseppebergamino.github.io/Home/Web_Installations/', 'Web Installations','_blank'); //self interessante
+ link_web_inst = createA('https://giuseppebergamino.github.io/Home/Web_Installations/', 'Web Installations'); //self interessante
    
   
   link_multimodal_inst = createA('https://giuseppebergamino.github.io/Home/Multimodal_Installations/', 'Multimodal Installations','_blank'); 
