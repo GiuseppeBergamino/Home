@@ -1,41 +1,53 @@
 # Web Installations
-Raccolta di installazioni web.
+
+Selection of generative web installations. <br>
+To visit them, simply click on the link associated with each work.
 <p><br></p>
 
-### Monti Picentini Digitali
-Installazione web di divulgazione naturalistica contenente un archivio sonoro interattivo per esplorare i suoni dei Monti Picentini
 
-- [Monti Picentini Digitali](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
+### Lucciole
+
+**Lucciole** is a web multimedia installation designed to artistically and historically voice the most significant protest movements of recent decades: the Movement of Movements (No Global), Onda Anomala, and NO TAV. The immense complexities and socio-political diversity of these movements are synthesized in a generative algorithm that controls the random motion of digital fireflies. When these fireflies are close enough to each other, they create instantaneous connections. Depending on the number of connected fireflies and their relative position on the screen, an audio recording derived from interviews, demonstrations, and public actions carried out by the three movements will be played. <br>
+
+The piece is the winner of the [Orizzonti](https://polodel900.it/progetti/orizzonti/) project coordinated by the Piero Gobetti Study Center with Arci Torino, the Antonio Gramsci Institute, Unione Culturale Franco Antonicelli, in collaboration with the Stasis collective and Morsi Editore.
+
+- [Visit Lucciole](https://giuseppebergamino.github.io/Home/Web_Installations/Lucciole_Full)
+
+  <br>
+
+### Devianza Intima
+
+**Devianza Intima** is a metaphor for the feeling of non-conformity to the standards set by a social group and, even more so, by oneself. It conveys the utopian necessity of the constant transformation of the self during the quest for a repressed harmony.
+
+- [Visit Devianza Intima](https://giuseppebergamino.github.io/Home/Web_Installations/Devianza_Intima_Full)
+
+ <br>
+  
+### Salamandra00
+
+**Salamandra00** is a generative cellular ecosystem, personally developed in JavaScript, and digitally residing on a web server. The ecosystem is designed to recreate—through an extensive aggregation of elementary graphic particles—the infinite possible patterns found on the skin of the amphibians known as fire salamanders (_Salamandra salamandra_). The aposematic colors of these amphibians are organized into yellow and black spots: a unique form for each animal, like a fingerprint, intended to deter predators by suggesting high toxicity. <br>
+The work thus aims to utopically synthesize all possible combinations of fire salamanders, animals that by tradition and their nature are closely linked to the elements of Fire, Earth, Water, and Air.
+
+- [Visit Salamandra00](https://giuseppebergamino.github.io/Home/Web_Installations/Salamandra00_Full)
+
+ <br>
+ 
+### Codice Organico
+**Codice Organico** is a generative graphic ecosystem, personally developed in JavaScript, and digitally residing on a web server. The pattern, inspired by a barcode, offers a glimpse into the beauty of algorithmic randomness and digital noise, echoing the unpredictable yet harmonious motifs found in nature.
+
+- [Visit Codice Organico](https://giuseppebergamino.github.io/Home/Web_Installations/Codice_Organico_Full)
+
+### Monti Picentini Digitali
+
+Naturalistic outreach web installation containing an interactive sound archive for exploring the sounds of the **Monti Picentini**
+- [Visit Monti Picentini Digitali](https://giuseppebergamino.github.io/MontiPicentiniDigitali/)
 
 <br>
 
-### Lucciole
-Lucciole è un’installazione multimediale web pensata per dare voce artistica e storica ai più importanti movimenti di protesta degli scorsi decenni: il Movimento dei Movimenti (No Global), Onda anomala e NO TAV.
-Le enormi complessità e varietà socio-politiche di questi movimenti sono sintetizzate in un algoritmo generativo che gestisce il moto aleatorio delle lucciole digitali: se queste sono sufficientemente vicine tra di loro creeranno dei collegamenti istantanei le une con le altre. In base al numero di lucciole collegate tra loro e alla relativa posizione sullo schermo verrà riprodotta una registrazione audio ricavata da interviste, manifestazioni e azioni pubbliche portate avanti dai tre movimenti. Attualmente l’archivio sonoro comprende 42 campioni audio, ma è in via di aggiornamento.
-Opera vincitrice del progetto [Orizzonti](https://polodel900.it/progetti/orizzonti/) coordinato dal Centro studi Piero Gobetti con Arci Torino, Istituto Antonio Gramsci, Unione Culturale Franco Antonicelli in collaborazione con il collettivo Stasis e Morsi editore.
-
-- [Lucciole](https://giuseppebergamino.github.io/Home/Web_Installations/Lucciole_Full)
-
-### Devianza Intima
-Devianza Intima è metafora del sentimento di non conformità rispetto agli standard dettati da un gruppo sociale e peggio ancora da se stessi. Restituisce la necessità utopica della costante mutazione dell’Io durante il processo di ricerca di una recessa armonia. 
-
-- [Devianza Intima](https://giuseppebergamino.github.io/Home/Web_Installations/Devianza_Intima_Full)
-
-### Salamandra00
-Salamandra00 è un ecosistema cellulare generativo, personalmente sviluppato in linguaggio di programmazione JavaScript e che vive digitalmente in un server web. L’ecosistema è progettato per restituire - attraverso un’estesa somma di particelle grafiche elementari - l’infinita possibile varietà dei patterns presenti sulla pelle degli anfibi chiamati salamandre pezzate (Salamandra salamandra). I colori aposematici di questi anfibi sono organizzati in macchie gialle e nere: una forma unica per ogni animale, come un’impronta digitale, che ha lo scopo di scoraggiare i predatori facendo intuire alta tossicità. L’opera mira dunque a sintetizzare utopicamente tutte le possibili combinazioni di salamandre pezzate, animali che per tradizione e loro natura sono legati strettamente agli elementi di Fuoco, Terra, Acqua e Aria.
-
-- [Salamandra00](https://giuseppebergamino.github.io/Home/Web_Installations/Salamandra00_Full)
-
-### Codice Organico
-Codice Organico è un ecosistema grafico generativo, personalmente sviluppato in linguaggio di programmazione JavaScript e che vive digitalmente in un server web. Il pattern ispirato a un codice a barre offre uno scorcio sulla bellezza della casualità algoritmica e del rumore digitale, riecheggiando i motivi imprevedibili ma armoniosi che si trovano in natura.
-
-- [Codice Organico](https://giuseppebergamino.github.io/Home/Web_Installations/Codice_Organico_Full)
-
-
-
 
 
 <p><br></p>
+
 Back [Home](https://giuseppebergamino.github.io/Home/)
 
 
