@@ -19,7 +19,7 @@ The piece is the winner of the [Orizzonti](https://polodel900.it/progetti/orizzo
 
 ## Devianza Intima
 
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/devianza_intima.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/devianza_intima.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Devianza Intima** is a metaphor for the feeling of non-conformity to the standards set by a social group and, even more so, by oneself. It conveys the utopian necessity of the constant transformation of the self during the quest for a repressed harmony.
 
@@ -28,7 +28,7 @@ The piece is the winner of the [Orizzonti](https://polodel900.it/progetti/orizzo
  <br>
   
 ## Salamandra00
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/salamandra00.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/salamandra00.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Salamandra00** is a generative cellular ecosystem, personally developed in JavaScript, and digitally residing on a web server. The ecosystem is designed to recreate—through an extensive aggregation of elementary graphic particles—the infinite possible patterns found on the skin of the amphibians known as fire salamanders (_Salamandra salamandra_). The aposematic colors of these amphibians are organized into yellow and black spots: a unique form for each animal, like a fingerprint, intended to deter predators by suggesting high toxicity. <br>
 The work thus aims to utopically synthesize all possible combinations of fire salamanders, animals that by tradition and their nature are closely linked to the elements of Fire, Earth, Water, and Air.
@@ -39,7 +39,7 @@ The work thus aims to utopically synthesize all possible combinations of fire sa
  
  
 ## Codice Organico
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/codice_organico.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/codice_organico.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Codice Organico** is a generative graphic ecosystem, personally developed in JavaScript, and digitally residing on a web server. The pattern, inspired by a barcode, offers a glimpse into the beauty of algorithmic randomness and digital noise, echoing the unpredictable yet harmonious motifs found in nature.
 
@@ -48,7 +48,7 @@ The work thus aims to utopically synthesize all possible combinations of fire sa
 <br>
 
 ## Origami
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/origami.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/origami.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Origami** is an infinite, ever-evolving digital paper organism. Both the graphic and sound components are algorithmically managed, reflecting the image of the ancient art of origami as a metaphor for relentless transformation.
 
@@ -57,7 +57,7 @@ The work thus aims to utopically synthesize all possible combinations of fire sa
 <br>
 
 ## Monti Picentini Digitali
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/soundmap.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/soundmap.png" style = "height: 100%; width: 100%; border: none"> 
 
 Naturalistic outreach web installation containing an interactive sound archive for exploring the sounds of the **Monti Picentini**
 
@@ -66,7 +66,7 @@ Naturalistic outreach web installation containing an interactive sound archive f
 <br>
 
 ## Nuvole
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/nuvole.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/nuvole.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Nuvole** is created with the sky and clouds in mind, but with the perspective of being above them. Both the graphic and sound components are designed to follow a generative pattern.
 
@@ -75,7 +75,7 @@ Naturalistic outreach web installation containing an interactive sound archive f
 <br>
 
 ## Pioggia
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/pioggia.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/pioggia.png" style = "height: 100%; width: 100%; border: none"> 
 
 Rain is a meteorological event that carries significant auditory and visual potential. **Pioggia** aims to synthesize this concept by presenting a very minimalist depiction of a constantly accumulating thunderstorm, accompanied by glitch and noise sounds.
 
@@ -84,7 +84,7 @@ Rain is a meteorological event that carries significant auditory and visual pote
 <br>
 
 ## Radici
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/radici.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/radici.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Radici** is a study on digital noise and graphic patterns inspired in a hybrid manner by roots and neurons. The idea is to start from chaos and randomness to achieve order and softness. The sound synthesis is based on simple sine waves.
 
@@ -93,7 +93,7 @@ Rain is a meteorological event that carries significant auditory and visual pote
 <br>
 
 ## Onde
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/onde.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/onde.png" style = "height: 100%; width: 100%; border: none"> 
 
 Naturalistic outreach web installation containing an interactive sound archive for exploring the sounds of the **Monti Picentini**
 - [Visit Onde](https://giuseppebergamino.github.io/Home/Web_Installations/Onde_Full)
