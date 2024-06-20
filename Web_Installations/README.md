@@ -7,7 +7,7 @@ To visit them, simply click on the link associated with each work.
 
 ## Lucciole
 
-<iframe src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/lucciole.png" style = "height: 100%; width: 100%; border: none"> </iframe>
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/lucciole.png" style = "height: 100%; width: 100%; border: none"> 
 
 **Lucciole** is a web multimedia installation designed to artistically and historically voice the most significant protest movements of recent decades: the Movement of Movements (No Global), Onda Anomala, and NO TAV. The immense complexities and socio-political diversity of these movements are synthesized in a generative algorithm that controls the random motion of digital fireflies. When these fireflies are close enough to each other, they create instantaneous connections. Depending on the number of connected fireflies and their relative position on the screen, an audio recording derived from interviews, demonstrations, and public actions carried out by the three movements will be played. <br>
 
