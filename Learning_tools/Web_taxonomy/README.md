@@ -4,12 +4,12 @@ Questa pagina web ha lo scopo di raccogliere e organizzare una serie di applicaz
 
 <br>
 
-|                    | Ricordare          | Capire                    | MIDI in/out | Esportazione | Importazione | Salvataggio progetto |
-|:-------------------|:-------------------|:------------------------  | :---------- | :----------- | :----------- | :------------------- |
-| **Fattuale**       | **Elencare** <br> [everyNoise](https://everynoise.com/) <br> [everyNoise](https://everynoise.com/)      | Gratuito, nessuna iscrizione richiesta                                 | No          | wav-mp3      | wav-mp3      | No                   |
-| **Concettuale**    | **Riconoscere**    | Gratuito, nessuna iscrizione richiesta                                 | No          | wav-mp3      | wav-mp3      | No                   | 
-| **Procedurale**    | **Richiamare**     | Utilizzo limitato nella versione gratuita, iscrizione non obbligatoria | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   | 
-| **Metacognitiva**  | **Identificare**   | Utilizzo limitato nella versione gratuita, iscrizione obbligatoria     | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   |  
+|                    | Ricordare                                                 | Capire                    | Applicare            | Analizzare           | Valutare             | Creare               |
+|:-------------------|:----------------------------------------------------------|:------------------------  | :------------------- | :------------------  | :------------------- | :------------------- |
+| **Fattuale**       | **Elencare** <br> [everyNoise](https://everynoise.com/)   | **Riassumere**            | **Rispondere**       | **Selezionare**      | **Controllare**      | **Ipotizzare**       |
+| **Concettuale**    | **Riconoscere**                                           | **Classificare**          | **Procurare**        | **Differenziare**    | **Determinare**      | **Riunire**          | 
+| **Procedurale**    | **Richiamare**                                            | **Chiarire**              | **Svolgere**         | **Integrare**        | **Giudicare**        | **Progettare**       | 
+| **Metacognitiva**  | **Identificare**                                          | **Prevedere**             | **Usare**            | **Costruire**        | **Riflettere**       | **Produrre**         |  
 
 
 <br>
