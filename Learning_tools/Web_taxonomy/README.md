@@ -4,6 +4,16 @@ Questa pagina web ha lo scopo di raccogliere e organizzare una serie di applicaz
 
 <br>
 
+|                    | Ricordare          | Capire                    | MIDI in/out | Esportazione | Importazione | Salvataggio progetto |
+|:-------------------|:-------------------|:------------------------  | :---------- | :----------- | :----------- | :------------------- |
+| **Fattuale**       | **Elencare** <br> [everyNoise](https://everynoise.com/) <br> [everyNoise](https://everynoise.com/)      | Gratuito, nessuna iscrizione richiesta                                 | No          | wav-mp3      | wav-mp3      | No                   |
+| **Concettuale**    | **Riconoscere**    | Gratuito, nessuna iscrizione richiesta                                 | No          | wav-mp3      | wav-mp3      | No                   | 
+| **Procedurale**    | **Richiamare**     | Utilizzo limitato nella versione gratuita, iscrizione non obbligatoria | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   | 
+| **Metacognitiva**  | **Identificare**   | Utilizzo limitato nella versione gratuita, iscrizione obbligatoria     | Sì          | wav-mp3-midi | wav-mp3-midi | Sì                   |  
+
+
+<br>
+
 ## Editor Audio
 Raccolta di applicazioni web per la composizione musicale ottenuta con manipolazione di campioni audio
 
