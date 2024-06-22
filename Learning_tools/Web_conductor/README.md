@@ -9,26 +9,26 @@ Segui queste semplici istruzioni per capire come rispettare le **indicazioni** g
 Visita la sezione [Worked Examples](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/) se pensi di non ricordare il significato di alcuni termini. <br>
 
 ### Ampiezza
-L'ampiezza, il volume, del tuo suono dipende dalla grandezza della figura: <br>
+L'ampiezza, il volume, del tuo suono dipende dalla grandezza della figura: <br><br>
 più **grande** è la figura e più **forte** dovrà essere il tuo suono <br>
-più **piccola** è la figura e più **piano** dovrà essere il tuo suono <br>
+più **piccola** è la figura e più **piano** dovrà essere il tuo suono <br><br>
 
 Clicca sulle figure proposte di seguito per ascoltare come cambia il volume in base alle dimensioni.
 
 <br>
 
 ### Frequenza
-La frequenza del tuo suono dipende dalla posizione in cui è disegnata la figura sullo schermo: <br>
+La frequenza del tuo suono dipende dalla posizione in cui è disegnata la figura sullo schermo: <br><br>
 più è in **basso** e più il suono sarà **grave** <br>
 più è in **alto** e più il suono sarà **acuto** <br>
 
-**Attenzione!** La frequenza e l'ampiezza sono due caratteristiche indipendenti: puoi avere sia suoni gravi che acuti con volume sia altissimo che bassissimo. <br>
+**Attenzione!** La frequenza e l'ampiezza sono due caratteristiche indipendenti: puoi avere sia suoni gravi che acuti con volume sia altissimo che bassissimo. <br><br>
 Clicca sulle figure proposte di seguito per ascoltare come cambia la frequenza in base alla posizione sullo schermo.<br>
 
 <br>
 
 ### Timbro
-Esplora il tuo strumento, se cerchi bene al suo interno scoprirai che riesci a produrre timbri molto diversi e inaspettati. Questo è uno dei compiti di preparazione alla conduction probabilmente più creativi, ma richiede ascolto ed attenzione, prenditi tutto il tempo che ti serve. <br>
+Esplora il tuo strumento, se cerchi bene al suo interno scoprirai che riesci a produrre timbri molto diversi e inaspettati. Questo è uno dei compiti di preparazione alla conduction probabilmente più creativi, ma richiede ascolto ed attenzione, prenditi tutto il tempo che ti serve. <br><br>
 **Consiglio:** quando sei sicuro di aver trovato un suono che rispecchia uno dei simboli proposti dal conductor, scrivi su un foglio 
 Simbolo, convenzione
 
@@ -37,16 +37,15 @@ Clicca sulle figure proposte di seguito per ascoltare delle possibilità di timb
 ### Tempo
 Durante la conduction e l'improvvisazione il **tempo** è un concetto abbastanza relativo e con cui si può **giocare**. <br>
 I simboli scorreranno .... <br>
-In generale però il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) ti da alcune indicazioni: <br>
-**giallo** se suoni in questa zona sei in **anticipo**, quando il tuo simbolo è qui preparati solo <br>
-**verde** se suoni in questa zona sei in **tempo**, fai sentire a tutti il tuo suono <br>
-**rosso** se suoni in questa zona sei in **ritardo**, scegli se suonare o meno, anche una pausa può essere molto musicale <br>
+In generale però il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) ti da alcune indicazioni: <br><br>
+**giallo** se suoni in questa zona sei in **piccolo** anticipo o ritardo <br>
+**verde** se suoni in questa zona sei in **tempo**, fai sentire a tutti il tuo suono! <br>
+**rosso** se suoni in questa zona sei in **grande** anticipo o ritardo. Non andare di fretta e se sei in ritardo ricorda che anche una pausa può essere un gesto molto musicale! <br>
 <br>
 
-### 
 
-## Strumenti performativi web
-**Costruisci i tuoi strumenti!** Fai in modo che il tuo progetto sonoro riesca a rispettare la maggior parte delle caratteristiche proposte dal conductor web. <br>
+## Strumenti performativi 
+**Costruisci i tuoi strumenti!** Fai in modo che il tuo progetto sonoro riesca a rispettare la maggior parte delle caratteristiche proposte dal [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). <br>
 In alternativa, puoi provare alcuni degli strumenti che trovi di seguito.
 
 <br>
