@@ -1,6 +1,6 @@
 # Learning and teaching web tools
 
-Questa pagina web ha lo scopo di raccogliere e organizzare una serie di applicazioni esclusivamente utilizzabili sul web, che non necessitano quindi di installazione e che funzionano virtualmente su ogni dispositivo connesso alla rete.
+Questa pagina web ha lo scopo di raccogliere e organizzare una serie di applicazioni esclusivamente utilizzabili sul web, che non necessitano quindi di installazione e che funzionano su ogni dispositivo connesso alla rete.
 
 <br>
 
