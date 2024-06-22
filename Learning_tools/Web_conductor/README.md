@@ -90,6 +90,13 @@ Questo strumento fa in modo che le dita della tua mano diventino una chitarra! *
 Questo strumento è particolarmente utile per la produzione di suoni con timbri diversi.
 
 
+## Google Keyboard
+Questo è uno strumento sviluppato da Google molto versatile.<br>
+Ha vari timbri tra cui puoi scegliere e diverse modalità di interazione con tastiera, mouse, touchscreen o webcam.
+
+- [Provalo](https://creatability.withgoogle.com/keyboard/)
+
+
 <br>
 
 # Conductor
@@ -101,7 +108,7 @@ forma musicale <br>
 durata della performance <br>
 velocità di proposta dei simboli <br>
 play e stop <br>
-<iframe src="https://editor.p5js.org/Berg_/full/xD6wqCkRJ" style = "height: 100%; width: 100%; border: none;"></iframe>
+<iframe src="https://editor.p5js.org/Berg_/full/xD6wqCkRJ" style = "height: 500px; width: 100%; border: none;"></iframe>
 
 - [Full screen](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
 
