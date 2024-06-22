@@ -42,7 +42,7 @@ Non ci sono indicazioni specifiche in questo caso, può essere però utile ragio
 **Esplora** il tuo strumento, se cerchi bene al suo interno scoprirai che riesci a produrre timbri molto diversi e inaspettati. Questo è uno dei compiti di preparazione alla conduction probabilmente più creativi, ma richiede ascolto ed attenzione, prenditi tutto il tempo che ti serve. <br><br>
 **Consiglio:** quando sei sicuro di aver trovato un suono che rispecchia uno dei simboli proposti dal conductor, scrivi su un foglio come eseguirlo.
 
-Clicca sulle figure proposte di seguito per ascoltare delle possibilità di timbro scelte in base al tipo di figura.
+Clicca sulle figure proposte di seguito per ascoltare delle possibilità di timbro scelte liberamente in base al tipo di figura, non è una regola, serve solo per darti qualche idea.
 
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_timbro" style = "height: 200px; width: 100%; border: none;"></iframe>
 
