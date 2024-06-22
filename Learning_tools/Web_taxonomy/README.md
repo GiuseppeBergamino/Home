@@ -97,7 +97,7 @@ Raccolta di applicazioni web utili per spiegare diversi aspetti musicali teorici
 | [Eco](https://editor.p5js.org/Berg_/full/OAYRviv77)                | Esempio interattivo grafico e sonoro che permette di esplorare l'effetto di eco                                             |
 | [Spettro](https://editor.p5js.org/Berg_/full/YtMr-Spwn)            | Esempio interattivo grafico e sonoro per la manipolazione spettrale                                                         |
 | [PinkTrombone](https://dood.al/pinktrombone/)                      | Esempio interattivo sulla produzione volace e il suo funzionamento fisico e fisiologico                                     |
-| [everyNoise](https://everynoise.com/)                              | Mappa interattiva contenente i principali geenri musicali dell'umanità, con possibilità di ascolto e ricerca                |
+| [everyNoise](https://everynoise.com/)                              | Mappa interattiva contenente i principali generi musicali, con possibilità di ascolto e ricerca                             |
 
 
 
