@@ -4,12 +4,15 @@ Un worked example è uno strumento interattivo multimodale che facilita l'appren
 Di seguito una lista di worked examples suddivisi per argomento.
 
 
-## Acustica
+## Caratteristiche del suono
 
 ## Sintesi sonora
+
+## Fisica acustica
+
 
 
 <p><br></p>
 
 
-Back [Home](https://giuseppebergamino.github.io/Home/)
+Back to [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/) | Back [Home](https://giuseppebergamino.github.io/Home/) 
