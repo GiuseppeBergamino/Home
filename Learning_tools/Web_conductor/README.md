@@ -11,7 +11,7 @@ Visita la sezione [Worked Examples](https://giuseppebergamino.github.io/Home/Lea
 ### Ampiezza
 L'ampiezza, il volume, del tuo suono dipende dalla grandezza della figura: <br><br>
 più **grande** è la figura e più **forte** dovrà essere il tuo suono <br>
-più **piccola** è la figura e più **piano** dovrà essere il tuo suono <br><br>
+più **piccola** è la figura e più **piano** dovrà essere il tuo suono <br>
 
 Clicca sulle figure proposte di seguito per ascoltare come cambia il volume in base alle dimensioni.
 
