@@ -15,7 +15,7 @@ più **piccola** è la figura e più **piano** dovrà essere il tuo suono <br>
 
 Clicca sulle figure proposte di seguito per ascoltare come cambia il volume in base alle dimensioni.
 
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza" style = "height: 180px; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza" style = "height: 200px; width: 100%; border: none;"></iframe>
 
 <br>
 
@@ -26,21 +26,27 @@ più è in **alto** e più il suono sarà **acuto** <br>
 
 Clicca sulle figure proposte di seguito per ascoltare come cambia la frequenza in base alla posizione sullo schermo.
 
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_frequenza" style = "height: 180px; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_frequenza" style = "height: 200px; width: 100%; border: none;"></iframe>
 
-**Attenzione!** La frequenza e l'ampiezza sono due caratteristiche indipendenti: puoi avere sia suoni gravi che acuti con volume sia altissimo che bassissimo. 
+<br>
+**Attenzione!** La frequenza e l'ampiezza sono due caratteristiche indipendenti: puoi avere sia suoni gravi che acuti con volume sia altissimo che bassissimo. Prova questo concetto nell'esempio proposto di seguito.
 
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza_frequenza" style = "height: 180px; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza_frequenza" style = "height: 200px; width: 100%; border: none;"></iframe>
 
 
 <br>
 
 ## Timbro
-Esplora il tuo strumento, se cerchi bene al suo interno scoprirai che riesci a produrre timbri molto diversi e inaspettati. Questo è uno dei compiti di preparazione alla conduction probabilmente più creativi, ma richiede ascolto ed attenzione, prenditi tutto il tempo che ti serve. <br><br>
-**Consiglio:** quando sei sicuro di aver trovato un suono che rispecchia uno dei simboli proposti dal conductor, scrivi su un foglio 
-Simbolo, convenzione
+Il timbro è il suono che identifica il gesto musicale che stai eseguendo sul tuo strumento. Il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) ti proporrà una serie di figure diverse, ma sta a te e alla tua ensemble decidere a quale categoria sonora farle corrispondere.<br>
+Non ci sono indicazioni specifiche in questo caso, può essere però utile ragionare in gruppo su associazioni condivise da tutti tra **suono** e **figur**. <br><br>
+**Esplora** il tuo strumento, se cerchi bene al suo interno scoprirai che riesci a produrre timbri molto diversi e inaspettati. Questo è uno dei compiti di preparazione alla conduction probabilmente più creativi, ma richiede ascolto ed attenzione, prenditi tutto il tempo che ti serve. <br><br>
+**Consiglio:** quando sei sicuro di aver trovato un suono che rispecchia uno dei simboli proposti dal conductor, scrivi su un foglio come eseguirlo.
 
-Clicca sulle figure proposte di seguito per ascoltare delle possibilità di timbro in base al tipo di figura.<br>
+Clicca sulle figure proposte di seguito per ascoltare delle possibilità di timbro scelte in base al tipo di figura.
+
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_timbro" style = "height: 200px; width: 100%; border: none;"></iframe>
+
+<br>
 
 ## Tempo
 Durante la conduction e l'improvvisazione il **tempo** è un concetto abbastanza relativo e con cui si può **giocare**. <br>
