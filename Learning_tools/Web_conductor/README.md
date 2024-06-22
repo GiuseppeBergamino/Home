@@ -4,7 +4,7 @@ Questa sezione offre la possibilità di gestire unità didattiche basate sull'[i
 <br>
 
 ## Tutorial
-Puoi associare il suono che preferisci a un determinato simbolo proposto dal [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) . <br>
+Puoi associare il suono che preferisci a un determinato simbolo proposto dal [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). <br>
 Segui queste semplici istruzioni per capire come rispettare le **indicazioni** generali di produzione sonora. Non sono regole, ma consigli per rendere la tua esecuzione più varia ed espressiva. <br> <br>
 Visita la sezione [Worked Examples](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/) se pensi di non ricordare il significato di alcuni termini. <br>
 
@@ -37,11 +37,15 @@ Clicca sulle figure proposte di seguito per ascoltare delle possibilità di timb
 ### Tempo
 Durante la conduction e l'improvvisazione il **tempo** è un concetto abbastanza relativo e con cui si può **giocare**. <br>
 I simboli scorreranno .... <br>
-In generale però il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) ti da alcune indicazioni: <br><br>
+In generale il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) ti da alcune indicazioni: <br><br>
 **giallo** se suoni in questa zona sei in **piccolo** anticipo o ritardo <br>
 **verde** se suoni in questa zona sei in **tempo**, fai sentire a tutti il tuo suono! <br>
-**rosso** se suoni in questa zona sei in **grande** anticipo o ritardo. Non andare di fretta e se sei in ritardo ricorda che anche una pausa può essere un gesto molto musicale! <br>
+**rosso** se suoni in questa zona sei in **grande** anticipo o ritardo. Non andare di fretta e se sei in ritardo ricorda che anche una **pausa** può essere un gesto **molto musicale**! <br><br>
+
+**Consiglio:** il modo migliore per essere certo di seguire il tempo è prestare attenzione al tuo conductor, ma soprattutto **ascoltare** gli altri membri dell'ensemble! 
+
 <br>
+
 
 
 ## Strumenti performativi 
