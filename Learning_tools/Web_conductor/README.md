@@ -40,7 +40,8 @@ I simboli scorreranno .... <br>
 In generale il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) ti da alcune indicazioni: <br><br>
 **giallo** se suoni in questa zona sei in **piccolo** anticipo o ritardo <br>
 **verde** se suoni in questa zona sei in **tempo**, fai sentire a tutti il tuo suono! <br>
-**rosso** se suoni in questa zona sei in **grande** anticipo o ritardo. Non andare di fretta e se sei in ritardo ricorda che anche una **pausa** può essere un gesto **molto musicale**! <br><br>
+**rosso** se suoni in questa zona sei in **grande** anticipo o ritardo. <br>
+Non andare di fretta e se sei in ritardo ricorda che anche una **pausa** può essere un gesto **molto musicale**! <br><br>
 
 **Consiglio:** il modo migliore per essere certo di seguire il tempo è prestare attenzione al tuo conductor, ma soprattutto **ascoltare** gli altri membri dell'ensemble! 
 
@@ -50,7 +51,7 @@ In generale il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
 
 ## Strumenti performativi 
 **Costruisci i tuoi strumenti!** Fai in modo che il tuo progetto sonoro riesca a rispettare la maggior parte delle caratteristiche proposte dal [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). <br>
-In alternativa, puoi provare alcuni degli strumenti che trovi di seguito.
+In alternativa, puoi provare alcuni degli strumenti che trovi di seguito o visitare la sezione strumenti performativi della [Tassonomia Web](https://giuseppebergamino.github.io/Home/Learning_tools/Web_taxonomy/).
 
 <br>
 
@@ -67,9 +68,11 @@ Questo strumento è particolarmente utile per la produzione di suoni brevi
 ### ConductHero
 Questo strumento è particolarmente utile per la produzione di suoni con timbri diversi.
 
+
 <br>
 
 ## Conductor
+Puoi allenarti da solo a casa, in classe, al parco con gli amici 
 Numero esecutori (colore) <br>
 tipo di simboli <br>
 numero di simboli diversi <br>
