@@ -5,23 +5,40 @@ Di seguito una lista di worked examples suddivisi per argomento.
 
 
 # Caratteristiche del suono
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_tastiera" style = "height: 300px; width: 100%; border: none;"></iframe>
+
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_frequenza" style = "height: 500px; width: 100%; border: none;"></iframe>
+
+- [Full Screen](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_frequenza)
+
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_tastiera" style = "height: 500px; width: 100%; border: none;"></iframe>
+
+- [Full Screen](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_tastiera)
+
 
 # Sintesi sonora
 
 ## Spettro
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_spettro" style = "height: 300px; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_spettro" style = "height: 500px; width: 100%; border: none;"></iframe>
+
+- [Full Screen](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_spettro)
+
 
 # Fisica acustica
 
 ## Diffrazione
 
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_diffrazione" style = "height: 300px; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_diffrazione" style = "height: 500px; width: 100%; border: none;"></iframe>
+
+- [Full Screen](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_diffrazione)
+
+
 
 ## Eco
 
-<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_eco" style = "height: 300px; width: 100%; border: none;"></iframe>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_eco" style = "height: 500px; width: 100%; border: none;"></iframe>
 
+
+- [Full Screen](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_eco)
 
 <p><br></p>
 
