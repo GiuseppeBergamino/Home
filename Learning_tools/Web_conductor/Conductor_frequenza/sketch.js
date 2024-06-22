@@ -19,7 +19,7 @@ let freq = [];
 
 function setup() {
   
-  cnv = createCanvas(windowWidth, 200);
+  cnv = createCanvas(windowWidth, windowHeight);
   
    cnv.mouseClicked(attiva_audio);
   
