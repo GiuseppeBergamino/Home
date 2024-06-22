@@ -86,7 +86,7 @@ Questo strumento fa in modo che le dita della tua mano diventino una chitarra! *
   
 <br>
 
-## ConductHero
+## Puff
 Questo strumento è particolarmente utile per la produzione di suoni con timbri diversi.
 
 
@@ -101,7 +101,7 @@ forma musicale <br>
 durata della performance <br>
 velocità di proposta dei simboli <br>
 play e stop <br>
-<iframe src="https://editor.p5js.org/Berg_/full/xD6wqCkRJ" style = "height: 180px; width: 100%; border: none;"></iframe>
+<iframe src="https://editor.p5js.org/Berg_/full/xD6wqCkRJ" style = "height: 100%; width: 100%; border: none;"></iframe>
 
 - [Full screen](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
 
