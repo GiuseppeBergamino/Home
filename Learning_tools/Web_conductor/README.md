@@ -15,6 +15,8 @@ più **piccola** è la figura e più **piano** dovrà essere il tuo suono <br><b
 
 Clicca sulle figure proposte di seguito per ascoltare come cambia il volume in base alle dimensioni.
 
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza" style = "height: 180px; width: 100%; border: none;"></iframe>
+
 <br>
 
 ### Frequenza
