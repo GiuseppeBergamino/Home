@@ -109,7 +109,7 @@ Puoi usare questa app web per allenarti in classe, al parco con gli amici o da s
 - **Forma** ti permette di scegliere che tipo di **struttura** avrà la conduction, esplora forme diverse!  
 - **Durata** definisce la lunghezza in secondi del tuo esercizio di conduction. Puoi provare da **30 secondi** a **3 minuti**. 
 - **Velocità** ti permette di chiedere al [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) di generare i simboli più o meno rapidamente
-- Tutto pronto! Clicca sul tasto **PLAY** per avviare la conduction <br>
+- Tutto pronto! Clicca sul tasto **PLAY** per avviare la conduction. Per comodità utilizza il conductor a [schermo intero](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) <br>
 <iframe src="https://editor.p5js.org/Berg_/full/xD6wqCkRJ" style = "height: 500px; width: 100%; border: none;"></iframe>
 
 - [Full screen](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
