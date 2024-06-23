@@ -89,9 +89,10 @@ Questo strumento fa in modo che le dita della tua mano diventino una chitarra! *
 ## Puff
 Questo strumento è particolarmente utile per la produzione di suoni con timbri diversi.
 
+<br>
 
 ## Google Keyboard
-Questo è uno strumento sviluppato da Google molto versatile.<br>
+Questo è uno strumento molto versatile sviluppato da Google.<br>
 Ha vari timbri tra cui puoi scegliere e diverse modalità di interazione con tastiera, mouse, touchscreen o webcam.
 
 - [Provalo](https://creatability.withgoogle.com/keyboard/)
@@ -100,14 +101,15 @@ Ha vari timbri tra cui puoi scegliere e diverse modalità di interazione con tas
 <br>
 
 # Conductor
-Puoi allenarti da solo a casa, in classe, al parco con gli amici 
-Numero esecutori (colore) <br>
-tipo di simboli <br>
-numero di simboli diversi <br>
-forma musicale <br>
-durata della performance <br>
-velocità di proposta dei simboli <br>
-play e stop <br>
+Questo è il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) che ti permette di esercitarti nella pratica della conduction e della improvvisazione. Consideralo un generatore di simboli sonori, un po' come un pentagramma di cui però non puoi prevedere il comportamento e che ti fornisce **solo indicazioni** da seguire, **non regole** da rispettare. Il risultato musicale dipenderà principalemente da te e dai membri della tua ensemble, **ascoltatevi** con attenzione e **create insieme!**. <br><br>
+Puoi usare questa app web per allenarti in classe, al parco con gli amici o da solo a casa. Leggi le semplici istruzioni che trovi di seguito per usare al meglio il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). <br><br>
+**Nr. esecutori** ti permette di scegliere se suonerai **da solo o con altre persone**, il sistema assegna automaticamente un **colore diverso** ai simboli relativi al singolo esecutore <br>
+**Simboli** ti permette di scegliere la **tipologia delle figure generate** dal conductor, puoi sceglierle in base alle **tue necessità**, al **tuo gusto**, e **alla facilità** che riscontri nell'associare i suoni ai simboli <br>
+**Nr. simboli** ti permette di scegliere **quanti simboli diversi verranno generati durante la conduction**, quindi quanti timbri e/o gesti musicali diversi dovrai eseguire. Comincia con un solo simbolo e quando ti senti pronto aggiungine progressivamente altri <br>
+**Forma** ti permette di scegliere che tipo di **struttura** avrà la conduction, esplora forme diverse!  <br>
+**Durata** definisce la lunghezza in secondi del tuo esercizio di conduction. Puoi provare da **30 secondi** a **3 minuti**. <br>
+**Velocità** ti permette di chiedere al [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) di generare i simboli più o meno rapidamente<br><br>
+Tutto pronto! Clicca sul tasto **PLAY** per avviare la conduction <br>
 <iframe src="https://editor.p5js.org/Berg_/full/xD6wqCkRJ" style = "height: 500px; width: 100%; border: none;"></iframe>
 
 - [Full screen](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
