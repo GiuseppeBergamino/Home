@@ -102,7 +102,7 @@ Ha vari timbri tra cui puoi scegliere e diverse modalità di interazione con tas
 
 # Conductor
 Questo è il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) che ti permette di esercitarti nella pratica della conduction e della improvvisazione. Consideralo un generatore di simboli sonori, un po' come un pentagramma di cui però non puoi prevedere il comportamento e che ti fornisce **solo indicazioni** da seguire, **non regole** da rispettare. Il risultato musicale dipenderà principalemente da te e dai membri della tua ensemble, **ascoltatevi** con attenzione e **create insieme!**. <br><br>
-Puoi usare questa app web per allenarti in classe, al parco con gli amici o da solo a casa. Leggi le semplici istruzioni che trovi di seguito per usare al meglio il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). <br><br>
+Puoi usare questa app web per allenarti in classe, al parco con gli amici o da solo a casa. Leggi le semplici istruzioni che trovi di seguito per usare al meglio il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). 
 - **Nr. esecutori** ti permette di scegliere se suonerai **da solo o con altre persone**, il sistema assegna automaticamente un **colore diverso** ai simboli relativi al singolo esecutore 
 - **Simboli** ti permette di scegliere la **tipologia delle figure generate** dal conductor, puoi sceglierle in base alle **tue necessità**, al **tuo gusto**, e **alla facilità** che riscontri nell'associare i suoni ai simboli
 - **Nr. simboli** ti permette di scegliere **quanti simboli diversi verranno generati durante la conduction**, quindi quanti timbri e/o gesti musicali diversi dovrai eseguire. Comincia con un solo simbolo e quando ti senti pronto aggiungine progressivamente altri 
