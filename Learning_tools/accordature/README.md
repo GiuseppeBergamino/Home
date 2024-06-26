@@ -178,10 +178,10 @@ Alcuni compositori e artisti creano sistemi di accordatura unici per le loro ope
 Con l'avvento della musica elettronica, i compositori possono creare e utilizzare accordature molto precise e complesse che sarebbero impraticabili su strumenti acustici tradizionali.
 
 ### Xenakis e la teoria degli insiemi
-[Iannis Xenakis](https://it.wikipedia.org/wiki/Iannis_Xenakis) ha utilizzato teorie matematiche e della teoria degli insiemi per sviluppare sistemi di intonazione basati su principi logici e matematici piuttosto che acustici tradizionali.
+[Iannis Xenakis](https://it.wikipedia.org/wiki/Iannis_Xenakis) ha utilizzato molte teorie matematiche e fisiche, unite alla teoria degli insiemi complessi, per sviluppare sistemi di intonazione basati su principi logici e matematici piuttosto che acustici tradizionali.
 
 
-
+<br>
 
 # Per riassumere
 
