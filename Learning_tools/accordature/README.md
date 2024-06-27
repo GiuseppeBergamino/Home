@@ -201,5 +201,4 @@ Con l'avvento della musica elettronica, i compositori possono creare e utilizzar
 
 <p><br></p>
 
-
-Back [Home](https://giuseppebergamino.github.io/Home/)  | [Back to Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
+Back to [Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)  | Back [Home](https://giuseppebergamino.github.io/Home/) 
