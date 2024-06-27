@@ -13,7 +13,7 @@ Se sei in dubbio su alcuni dei termini musicali che leggerai in questa pagina, v
 # Le Origini
 
 ## Accordatura Pitagorica
-Pitagora](https://it.wikipedia.org/wiki/Pitagora) è un famoso matematico e filosofo greco vissuto intorno al 500 a.C.<br> Durante i suoi studi sulla bellezza dei numeri e delle proporzioni si accorse che facendo vibrare una corda secondo una certa logica matematica, questa riusciva a produrre suoni più o meno piacevoli all'ascolto.
+[Pitagora](https://it.wikipedia.org/wiki/Pitagora) è un famoso matematico e filosofo greco vissuto intorno al 500 a.C.<br> Durante i suoi studi sulla bellezza dei numeri e delle proporzioni si accorse che facendo vibrare una corda secondo una certa logica matematica, questa riusciva a produrre suoni più o meno piacevoli all'ascolto.
 <br>
 Prova anche tu quello che ha sperimentato Pitagora grazie a questo esempio interattivo! <br>
 <iframe src="https://musiclab.chromeexperiments.com/Strings/" style = "height: 400px; width: 100%; border: none;"></iframe>
@@ -202,4 +202,4 @@ Con l'avvento della musica elettronica, i compositori possono creare e utilizzar
 <p><br></p>
 
 
-Back [Home](https://giuseppebergamino.github.io/Home/)
+Back [Home](https://giuseppebergamino.github.io/Home/)  | [Back to Learning Tools](https://giuseppebergamino.github.io/Home/Learning_tools/)
