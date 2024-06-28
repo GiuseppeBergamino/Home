@@ -1,7 +1,7 @@
 # Storia delle Accordature
 
 Le accordature hanno un ruolo fondamentale nella musica, influenzando profondamente la sonorità e l'interpretazione dei brani. Ogni sistema di accordatura si basa su principi matematici e fisici che determinano le frequenze delle note e, di conseguenza, l'armonia e il timbro degli strumenti. <br><br>
-L'accordatura si riferisce alla regolazione delle frequenze delle corde di uno strumento musicale per ottenere un determinato insieme di note. Questo processo è essenziale per garantire che lo strumento suoni correttamente e armoniosamente. Le corde di uno strumento, come una chitarra o un pianoforte, vengono tensionate o allentate per raggiungere le frequenze desiderate. Ogni nota corrisponde a una specifica frequenza, e l'accordatura stabilisce i rapporti tra queste frequenze.<br> <br>
+L'accordatura si riferisce alla regolazione delle frequenze delle corde di uno strumento musicale per ottenere un determinato insieme di note. Questo processo è essenziale per garantire che lo strumento suoni correttamente e armoniosamente. Le corde di uno strumento, come una chitarra o un pianoforte, vengono tensionate o allentate per raggiungere le frequenze desiderate. Ogni nota corrisponde a una specifica frequenza, e l'accordatura stabilisce i rapporti tra queste frequenze.<br> 
 
 Utilizza questo **esempio interattivo** per esplorare il concetto di frequenza: <br>
 
@@ -124,16 +124,19 @@ Ti propongo l'ascolto di questo brano in accordatura Werckmeister:
 
 Come ci suggerisce il suo nome, il temperamento **equabile** è un sistema musicale che divide l'ottava in **dodici semitoni uguali**. Questo significa che **il rapporto** tra ogni nota successiva nella scala temperata è **matematicamnte invariato** in termini di frequenza. <br>
 
-L'ottava viene divisa in dodici semitoni uguali. Questi semitoni sono tutti di dimensioni uniformi e corrispondono a un rapporto di frequenza pari alla radice docicesima di due, cioè {\displaystyle {\sqrt[{12}]{2}}}. .<br><br>
+L'ottava viene divisa in dodici semitoni uguali. Questi semitoni sono tutti di dimensioni uniformi e corrispondono a un rapporto di frequenza pari alla radice docicesima di due, cioè:<br><br>
 
+<img src="https://giuseppebergamino.github.io/Home/Learning_tools/accordature/radice_dodicesima" style = "height: 100%; width: 100%; border: none"> 
+
+<br><br>
 **Non farti spaventare da questo calcolo**, riesci facilmente ad eseguirlo con una calcolatrice scientifica o digitandolo su Google. In alternativa puoi moltiplicare la frequenza della tua nota per il valore **1,059463**. <br><br>
 **Esercizio di calcolo:** partendo dalla nostra nota **LA**, moltiplica la sua frequenza (440 Hz) per il valore **1,059463** per arrivare al **LA#**.<br>
-Continua così con tutte le frequenze che ottieni per capire cosa succede alle frequenze contenute in un'ottava. <br>**Il LA successivo arriva alla frequenza di 880 hz?** <br><br>
+Continua così con tutte le frequenze che ottieni per capire cosa succede alle **frequenze comprese in un'ottava**. <br>**Il LA successivo arriva alla frequenza di 880 hz?** <br><br>
 Utilizza questa **tastiera interattiva** come calcolatrice di frequenze per il sistema temperato.
 <iframe src="https://editor.p5js.org/Berg_/full/Q0WoTv_nW" style = "height: 400px; width: 100%; border: none;"></iframe>
 <br>
 
-**Curiosità matematica:** la nostra utilissima radice docicesima di due {\displaystyle {\sqrt[{12}]{2}}} rientra nel grande insieme dei [numeri irrazionali](https://it.wikipedia.org/wiki/Numero_irrazionale). Rifletti su questo aspetto, **pensi sia rilevante da un punto di vista musicale?**
+**Curiosità matematica:** la nostra utilissima radice docicesima di due rientra nell'interessante insieme dei [numeri irrazionali](https://it.wikipedia.org/wiki/Numero_irrazionale). Rifletti su questo aspetto, **pensi sia rilevante da un punto di vista musicale?**
 
 ### Il grande vantaggio
 Numeri a parte, l'**enorme vantaggio** di questo sistema risiede nel fatto che è molto facilitata la modulazione tra diverse tonalità senza causare dissonanze significative ed evitando di avere un numero esorbitante di tasti, come nel caso del temperamento zarliniano. <br><br>
