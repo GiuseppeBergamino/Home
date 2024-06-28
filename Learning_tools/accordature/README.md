@@ -7,17 +7,20 @@ Utilizza questo **esempio interattivo** per esplorare il concetto di frequenza: 
 
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_frequenza/" style = "height: 400px; width: 100%; border: none;"></iframe>
 
+<br>
 
 La [frequenza](https://it.wikipedia.org/wiki/Frequenza) di una corda (**a parità di materiale e spessore**) dipende dalla sua lunghezza. Maggiore è la lunghezza di una corda, minore sarà la sua frequenza e viceversa. <br><br>
-**Sperimenta questo concetto con lo strumento interattivo che trovi qui:**
+**Sperimenta questo concetto con lo strumento interattivo che trovi di seguito:**
 <br>
 [Esempio interattivo in realtà aumentata](https://editor.p5js.org/Berg_/full/fac12HIMP)
 
 La scelta di un particolare sistema di accordatura può esaltare o attenuare determinate [armoniche](https://musiclab.chromeexperiments.com/Harmonics/=), cambiando il carattere e l'atmosfera di un brano. Le diverse epoche e stili musicali hanno utilizzato accordature specifiche, che hanno influenzato la composizione e l'esecuzione, riflettendo l'evoluzione storica, culturale e tecnica della musica. <br><br>
 Se sei in dubbio su alcuni dei termini musicali che leggerai in questa pagina, visita la sezione degli [esempi interattivi](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/)
 
+<br>
 
 # Le Origini
+<br>
 
 ## Accordatura Pitagorica
 [Pitagora](https://it.wikipedia.org/wiki/Pitagora) è un famoso matematico e filosofo greco vissuto intorno al 500 a.C.<br> Durante i suoi studi sulla bellezza dei numeri e delle proporzioni si accorse che facendo vibrare una corda secondo una certa logica matematica, questa riusciva a produrre suoni più o meno piacevoli all'ascolto.
@@ -54,7 +57,8 @@ L'accordatura naturale deriva dalle armoniche naturali o dalle [relazioni armoni
 **Gioca con le armoniche naturali!**
 <iframe src="https://musiclab.chromeexperiments.com/Harmonics/" style = "height: 400px; width: 100%; border: none;"></iframe>
 <br>
-La differenza principale rispetto al sistema di Pitagora è che il matematico greco costruiva la sua scala sfruttando **solo l'intervallo di quinta** (rapporto di 3:2), mentre l'accordatura naturale utilizza molti più rapporti matematici come: 2:1 (ottava), 3:2 (quinta perfetta), 4:3 (quarta perfetta), e così via. <br>
+La differenza principale rispetto al sistema di Pitagora è che il matematico greco costruiva la sua scala sfruttando **solo l'intervallo di quinta** con rapporto di **3:2**, mentre l'accordatura naturale utilizza molti più rapporti matematici come: **2:1** (ottava), **3:2** (quinta perfetta), **4:3** (quarta perfetta), e così via. <br><br>
+
 Questi intervalli sono comunque percepiti come consonanti e molto armoniosi dall'orecchio umano. Cionostante ci sono ancora molte limitazioni legate al cambio di [tonalità](https://it.wikipedia.org/wiki/Tonalit%C3%A0_(musica)).
 
 **Esercizio:** Armati di foglio, penna e calcolatrice e prova anche tu a costruire una scala naturale partendo dalla nota **LA = 440 Hz**. Moltiplica questa frequenza per i valori: <br>
@@ -68,14 +72,15 @@ Ascolta un brano di musica elettronica composto sfruttando le frequenza della sc
 <br>
 
 # L'Evoluzione del Sistema
+<br>
 
 ## Accordatura Zarliniana
 
 [Gioseffo Zarlino](https://it.wikipedia.org/wiki/Gioseffo_Zarlino) è stato un compositore e teorico musicale del [Rinascimento](https://it.wikipedia.org/wiki/Rinascimento). Con il suo [Istitutioni Harmoniche](https://it.wikipedia.org/wiki/Istitutioni_Harmoniche) propose un [temperamento](https://it.wikipedia.org/wiki/Temperamento_(musica)) che cercava di risolvere i problemi dell'accordatura pitagorica e naturale. **Non solo!** Gli viene attribuita l'invenzione della moderna armonia tonale, basata sui [modi](https://it.wikipedia.org/wiki/Modo_(musica)) maggiore e minore. <br>
 
-Il temperamento zarliniano divide l'ottava in un numero molto grande di intervalli **da 19 fino a 31!** Oggi li chiameremo [microtoni](https://it.wikipedia.org/wiki/Musica_microtonale). <br>
-Questi intervalli così piccoli consentivano una maggiore precisione nell'intonazione di alcune note e una migliore resa delle armonie complesse.<br><br>
-**Sebbene** il temperamento zarliniano offra potenzialmente una maggiore ricchezza armonica e espressiva rispetto al sistema naturale e di pitagora, è anche molto più complesso da intonare e utilizzare. Soprattutto su strumenti a tastiera come clavicembali e organi, ai musicisti era richiesta un'estrema precisione nell'accordatura e conscenze molto avanzate di teoria musicale e intonazione. <br>
+Il temperamento zarliniano divide l'ottava in un numero molto grande di intervalli **da 19 fino a 31!**<br>
+Oggi li chiameremo [microtoni](https://it.wikipedia.org/wiki/Musica_microtonale), questi intervalli così piccoli consentivano una maggiore precisione nell'intonazione di alcune note e una migliore resa delle armonie complesse.<br><br>
+**Sebbene** il temperamento zarliniano offra potenzialmente una maggiore ricchezza armonica e espressiva rispetto al sistema naturale e di pitagora, è anche molto più complesso da intonare e utilizzare. Soprattutto su strumenti a tastiera come clavicembali e organi, ai musicisti era richiesta un'**estrema precisione** nell'accordatura e **conscenze molto avanzate** di teoria musicale e intonazione. <br>
 
 **Esercizio:** Calcolare le frequenze ottenute con il sistema di Zarlino è un compito veramente lungo e noiso. Ti propongo però **questa riflessione**:<br>
 Il pianoforte che conosci ha solitamente 8 ottave composte da 12 tasti l'una, per un totale di 88 tasti. Se utilizzassimo ancora oggi il sistema di Gioseffo Zarlino, **da quanti tasti sarebbe composto un pianoforte?** <br><br>
@@ -105,6 +110,7 @@ Il temperamento mesotonico rappresenta un compromesso tra l'integrità degli int
 <br>
 
 # Verso l'Accordatura Moderna
+<br>
 
 ## Temperamento Werckmeister
 
@@ -126,7 +132,7 @@ Come ci suggerisce il suo nome, il temperamento **equabile** è un sistema music
 
 L'ottava viene divisa in dodici semitoni uguali. Questi semitoni sono tutti di dimensioni uniformi e corrispondono a un rapporto di frequenza pari alla radice docicesima di due, cioè:<br><br>
 
-<img src="https://giuseppebergamino.github.io/Home/Learning_tools/accordature/radice_dodicesima" style = "height: 100%; width: 100%; border: none"> 
+<img src="https://giuseppebergamino.github.io/Home/Learning_tools/accordature/radice_dodicesima.png" style = "height: 100%; width: 100%; border: none"> 
 
 <br><br>
 **Non farti spaventare da questo calcolo**, riesci facilmente ad eseguirlo con una calcolatrice scientifica o digitandolo su Google. In alternativa puoi moltiplicare la frequenza della tua nota per il valore **1,059463**. <br><br>
@@ -142,7 +148,8 @@ Utilizza questa **tastiera interattiva** come calcolatrice di frequenze per il s
 Numeri a parte, l'**enorme vantaggio** di questo sistema risiede nel fatto che è molto facilitata la modulazione tra diverse tonalità senza causare dissonanze significative ed evitando di avere un numero esorbitante di tasti, come nel caso del temperamento zarliniano. <br><br>
 Per apprezzare al meglio questa forza, prova i seguenti esempi interattivi:
 
-<iframe src="https://musiclab.chromeexperiments.com/Arpeggios/" style = "height: 800px; width: 100%; border: none;"></iframe>
+<iframe src="https://musiclab.chromeexperiments.com/Arpeggios/" style = "height: 700px; width: 100%; border: none;"></iframe>
+<br>
 <iframe src="https://musiclab.chromeexperiments.com/Chords/" style = "height: 400px; width: 100%; border: none;"></iframe>
 
 <br>
@@ -159,13 +166,14 @@ Ascolta Bach che ti spiega i motivi della sua scelta:
 <iframe width="100%" height="166" src="https://www.youtube.com/embed/Yp9nUPhbVag?si=TnuHHrzbPRTQPlvR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 
-Il manifesto musicale di Bach su questo nuovo sistema si concretizza con la sua famosissima raccolta [Il clavicembalo ben temperato](https://it.wikipedia.org/wiki/Il_clavicembalo_ben_temperato). <br>
+Il manifesto musicale di Bach su questo nuovo sistema si concretizza con la sua famosissima raccolta [Il clavicembalo ben temperato](https://it.wikipedia.org/wiki/Il_clavicembalo_ben_temperato). <br><br>
 Puoi ascoltarla qui:
 <iframe width="100%" height="166" src="https://www.youtube.com/embed/xCqWH9bKzQE?si=l8QkwyfaXCQH4abw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 # Accordature Alternative
+<br>
 
 ## Accordature Giapponesi 
 L'accordatura giapponese si riferisce a vari sistemi di accordatura utilizzati nella musica tradizionale giapponese. Questi sistemi sono strettamente legati agli strumenti specifici e ai contesti musicali in cui vengono utilizzati. Alcuni degli strumenti tradizionali giapponesi più noti includono il [koto](https://it.wikipedia.org/wiki/Koto), lo [shamisen](https://it.wikipedia.org/wiki/Shamisen), lo [shakuhachi](https://it.wikipedia.org/wiki/Shakuhachi) e la [biwa](https://it.wikipedia.org/wiki/Biwa). Ogni strumento ha le sue particolarità di accordatura.<br>
@@ -203,12 +211,12 @@ La microtonalità esplora intervalli più piccoli del semitono, utilizzando divi
 **53-TET**: Divide l'ottava in 53 parti uguali, offrendo una maggiore precisione nell'intonazione delle quinte e delle terze.
 
 ## Scala Bohlen-Pierce
-Questa scala è basata su una divisione dell'ottava in 13 parti uguali. Utilizza intervalli non convenzionali e produce suoni molto diversi rispetto alla scala cromatica occidentale. La scala è divisa in 9 intervalli disuguali, creando un'ottava alternativa chiamata "tritave" (rapporto 3:1 anziché 2:1).
+Questa scala è basata su una divisione dell'ottava in 13 parti uguali. Utilizza intervalli non convenzionali e produce suoni molto diversi rispetto alla scala cromatica occidentale. La scala è divisa in 9 intervalli disuguali, creando un'ottava alternativa chiamata **tritave** (rapporto 3:1 anziché 2:1).
 
-## Invenzioni individuali
+## Invenzioni individuali
 Alcuni compositori e artisti creano sistemi di accordatura unici per le loro opere:<br>
 
-[La Monte Young](https://it.wikipedia.org/wiki/La_Monte_Young): conosciuto per l'uso di intonazioni giuste estremamente precise e per la creazione di installazioni sonore basate su queste accordature.<br>
+[La Monte Young](https://it.wikipedia.org/wiki/La_Monte_Young): conosciuto per l'uso di intonazioni giuste estremamente precise e per la creazione di installazioni sonore basate su queste accordature.<br><br>
 [Ben Johnston](https://it.wikipedia.org/wiki/Ben_Johnston): Ha sviluppato un'estensione del sistema di intonazione giusta per il suo lavoro compositivo, utilizzando notazioni complesse per rappresentare microtoni.
 
 ## Sistemi informatici e elettronici
