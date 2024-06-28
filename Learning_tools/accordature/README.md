@@ -1,7 +1,7 @@
 # Storia delle Accordature
 
 Le accordature hanno un ruolo fondamentale nella musica, influenzando profondamente la sonorità e l'interpretazione dei brani. Ogni sistema di accordatura si basa su principi matematici e fisici che determinano le frequenze delle note e, di conseguenza, l'armonia e il timbro degli strumenti. <br><br>
-L'accordatura si riferisce alla regolazione delle frequenze delle corde di uno strumento musicale per ottenere un determinato insieme di note. Questo processo è essenziale per garantire che lo strumento suoni correttamente e armoniosamente. Le corde di uno strumento, come una chitarra o un pianoforte, vengono tensionate o allentate per raggiungere le frequenze desiderate. Ogni nota corrisponde a una specifica frequenza, e l'accordatura stabilisce i rapporti tra queste frequenze.<br> 
+L'[accordatura](https://it.wikipedia.org/wiki/Accordatura) si riferisce alla regolazione delle frequenze delle corde di uno strumento musicale per ottenere un determinato insieme di note. Questo processo è essenziale per garantire che lo strumento suoni correttamente e armoniosamente. Le corde di uno strumento, come una chitarra o un pianoforte, vengono tensionate o allentate per raggiungere le frequenze desiderate. Ogni nota corrisponde a una specifica frequenza e la tipologia di accordatura stabilisce i rapporti tra queste frequenze.<br> 
 
 Utilizza questo **esempio interattivo** per esplorare il concetto di frequenza: <br>
 
