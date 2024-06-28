@@ -233,12 +233,12 @@ Con l'avvento della musica elettronica, i compositori possono creare e utilizzar
 | Tipo di accordatura             | PRO                                                               | CONTRO                                                                 | 
 |:--------------------------------|:------------------------------------------------------------------|:-----------------------------------------------------------------------|
 | Naturale                        | Intervalli puri e consonanti                                      | Difficile da applicare su strumenti che suonano in più tonalità        |
-| Pitagorica                      | Quinte perfette, armoniche pure                                   | Problema del "lupo" in certe tonalità                                  | 
+| Pitagorica                      | Quinte perfette, armoniche pure                                   | Problema del **lupo** in certe tonalità                                | 
 | Zarliniana                      | Terze pure, maggiore flessibilità                                 | Non risolve completamente tutti i problemi di intonazionea             |  
 | Mesotonico                      | Intervalli consonanti, usato nel Rinascimento e Barocco           | Dissonanze in alcune tonalità, limitata flessibilità                   |  
 | Werckmeister                    | Compromesso tra intervalli puri e temperati                       | Ancora presente qualche dissonanza                                     |  
 | Equabile                        | Possibilità di suonare in tutte le tonalità                       | Intervalli leggermente meno puri rispetto agli altri sistemi           |  
-| Giapponesi / altre tradizioni   | Caratteristiche uniche, rappresentative delle culture locali      | Non sempre compatibili con la musica occidentale                       |  
+| Altre tradizioni                | Caratteristiche uniche, rappresentative delle culture locali      | Non sempre compatibili con la musica occidentale                       |  
 | Ineguali                        | Bellezza degli intervalli puri in alcune tonalità                 | Limitata flessibilità, usato principalmente per musica antica          |  
 | Moderne e Sperimentali          | Innovazione, esplorazione di nuovi suoni                          | Complessità nell'esecuzione e nella costruzione degli strumenti        |  
 
