@@ -9,7 +9,7 @@ Utilizza questo **esempio interattivo** per esplorare il concetto di frequenza: 
 
 <br>
 
-La [frequenza](https://it.wikipedia.org/wiki/Frequenza) di una corda (**a parità di materiale e spessore**) dipende dalla sua lunghezza. Maggiore è la lunghezza di una corda, minore sarà la sua frequenza e viceversa. <br><br>
+La [frequenza](https://it.wikipedia.org/wiki/Frequenza) di una corda vibrante (**a parità di materiale e spessore**) dipende dalla sua lunghezza. Maggiore è la lunghezza di una corda, minore sarà la sua frequenza e viceversa. <br><br>
 **Sperimenta questo concetto con lo strumento interattivo che trovi di seguito:**
 <br>
 [Esempio interattivo in realtà aumentata](https://editor.p5js.org/Berg_/full/fac12HIMP)
@@ -134,8 +134,9 @@ L'ottava viene divisa in dodici semitoni uguali. Questi semitoni sono tutti di d
 
 <img src="https://giuseppebergamino.github.io/Home/Learning_tools/accordature/radice_dodicesima.png" style = "height: 100%; width: 100%; border: none"> 
 
-<br><br>
-**Non farti spaventare da questo calcolo**, riesci facilmente ad eseguirlo con una calcolatrice scientifica o digitandolo su Google. In alternativa puoi moltiplicare la frequenza della tua nota per il valore **1,059463**. <br><br>
+<br>
+
+**Non farti spaventare da questo calcolo**, riesci facilmente ad eseguirlo con una calcolatrice scientifica o digitandolo su Google. In alternativa puoi moltiplicare la frequenza della tua nota per il valore approssimato pari a **1,059463**. <br><br>
 **Esercizio di calcolo:** partendo dalla nostra nota **LA**, moltiplica la sua frequenza (440 Hz) per il valore **1,059463** per arrivare al **LA#**.<br>
 Continua così con tutte le frequenze che ottieni per capire cosa succede alle **frequenze comprese in un'ottava**. <br>**Il LA successivo arriva alla frequenza di 880 hz?** <br><br>
 Utilizza questa **tastiera interattiva** come calcolatrice di frequenze per il sistema temperato.
