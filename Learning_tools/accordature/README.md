@@ -43,14 +43,14 @@ Dato che l'intervallo di quinta pitagorica non ritorna esattamente alla nota di 
 
 **Esercizio:** Armati di foglio, penna e calcolatrice e prova anche tu a costruire una scala pitagorica partendo dalla nota **LA = 440 Hz**. Moltiplicala per **3:2** (ottieni la quinta) e **riporta il risultato nell'ottava che stiamo utilizzando** dimezzandone la frequenza. **Itera il processo** per ogni nota che trovi fino ad arrivare al **LA successivo**.<br>
 La fisica acustica ci suggerisce che il LA successivo (più acuto) deve avere frequenza doppia rispetto alla nota di partenza (880 Hz). **Succede anche nella scala pitagorica?** <br><br>
-Metre svolgi l'esercizio puoi ascoltorare questi brani composti grazie alla scala pitagorica:
+Mentre svolgi l'esercizio puoi ascoltare questi brani composti grazie alla scala pitagorica:
 
 <iframe width="100%" height="166" src="https://www.youtube.com/embed/JxNgd-kn5go?si=b-28rh8gxxyLkyvb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="100%" height="166" src="https://www.youtube.com/embed/hq-SrgV7_Ow?si=S1lKoIhS6LPas49s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
-Nonostante i problemi musicali e la sua scarsa versalitilità, **questo sistema di accordatura rimase in uso per circa 2000 anni!**m Fu largamente sfruttato durante il [Medioevo](https://it.wikipedia.org/wiki/Musica_medievale) e all'inizio del [Rinascimento](https://it.wikipedia.org/wiki/Musica_rinascimentale).
+Nonostante i problemi musicali e la sua scarsa versalitilità, **questo sistema di accordatura rimase in uso per circa 2000 anni!** Fu largamente sfruttato durante il [Medioevo](https://it.wikipedia.org/wiki/Musica_medievale) e all'inizio del [Rinascimento](https://it.wikipedia.org/wiki/Musica_rinascimentale).
 
 ## Accordatura Naturale
 L'accordatura naturale deriva dalle armoniche naturali o dalle [relazioni armoniche](https://it.wikipedia.org/wiki/Armonica_(fisica)) presenti nei suoni prodotti da oggetti fisici come corde vibranti, tubi d'aria, e così via. Queste relazioni sono intrinsecamente legate alle leggi della [fisica acustica](https://it.wikipedia.org/wiki/Acustica) e rappresentano un fondamento naturale per la [percezione musicale umana](https://it.wikipedia.org/wiki/Psicoacustica). <br><br>
@@ -59,7 +59,7 @@ L'accordatura naturale deriva dalle armoniche naturali o dalle [relazioni armoni
 <br>
 La differenza principale rispetto al sistema di Pitagora è che il matematico greco costruiva la sua scala sfruttando **solo l'intervallo di quinta** con rapporto di **3:2**, mentre l'accordatura naturale utilizza molti più rapporti matematici come: **2:1** (ottava), **3:2** (quinta perfetta), **4:3** (quarta perfetta), e così via. <br><br>
 
-Questi intervalli sono comunque percepiti come consonanti e molto armoniosi dall'orecchio umano. Cionostante ci sono ancora molte limitazioni legate al cambio di [tonalità](https://it.wikipedia.org/wiki/Tonalit%C3%A0_(musica)).
+Questi intervalli sono comunque percepiti come consonanti e molto armoniosi dall'orecchio umano. Ciononostante ci sono ancora molte limitazioni legate al cambio di [tonalità](https://it.wikipedia.org/wiki/Tonalit%C3%A0_(musica)).
 
 **Esercizio:** Armati di foglio, penna e calcolatrice e prova anche tu a costruire una scala naturale partendo dalla nota **LA = 440 Hz**. Moltiplica questa frequenza per i valori: <br>
 **9:8, 5:4, 4:3, 3:2, 5:3, 15:8, 2:1** <br><br>
@@ -79,10 +79,10 @@ Ascolta un brano di musica elettronica composto sfruttando le frequenza della sc
 [Gioseffo Zarlino](https://it.wikipedia.org/wiki/Gioseffo_Zarlino) è stato un compositore e teorico musicale del [Rinascimento](https://it.wikipedia.org/wiki/Rinascimento). Con il suo [Istitutioni Harmoniche](https://it.wikipedia.org/wiki/Istitutioni_Harmoniche) propose un [temperamento](https://it.wikipedia.org/wiki/Temperamento_(musica)) che cercava di risolvere i problemi dell'accordatura pitagorica e naturale. **Non solo!** Gli viene attribuita l'invenzione della moderna armonia tonale, basata sui [modi](https://it.wikipedia.org/wiki/Modo_(musica)) maggiore e minore. <br>
 
 Il temperamento zarliniano divide l'ottava in un numero molto grande di intervalli **da 19 fino a 31!**<br>
-Oggi li chiameremo [microtoni](https://it.wikipedia.org/wiki/Musica_microtonale), questi intervalli così piccoli consentivano una maggiore precisione nell'intonazione di alcune note e una migliore resa delle armonie complesse.<br><br>
-**Sebbene** il temperamento zarliniano offra potenzialmente una maggiore ricchezza armonica e espressiva rispetto al sistema naturale e di pitagora, è anche molto più complesso da intonare e utilizzare. Soprattutto su strumenti a tastiera come clavicembali e organi, ai musicisti era richiesta un'**estrema precisione** nell'accordatura e **conscenze molto avanzate** di teoria musicale e intonazione. <br>
+Oggi li chiameremo [microtoni](https://it.wikipedia.org/wiki/Musica_microtonale), questi intervalli così piccoli consentivano una maggiore precisione nell'intonazione di alcune note nelle varie tonalità e una migliore resa delle armonie complesse.<br><br>
+**Sebbene** il temperamento zarliniano offra potenzialmente una maggiore ricchezza armonica e espressiva rispetto al sistema naturale e di Pitagora, è anche molto più complesso da intonare e utilizzare. Soprattutto su strumenti a tastiera come clavicembali e organi, ai musicisti era richiesta un'**estrema precisione** nell'accordatura e **conscenze molto avanzate** di teoria musicale e intonazione. <br>
 
-**Esercizio:** Calcolare le frequenze ottenute con il sistema di Zarlino è un compito veramente lungo e noiso. Ti propongo però **questa riflessione**:<br>
+**Esercizio:** Calcolare le frequenze ottenute con il sistema di Zarlino è un compito veramente lungo e noioso. Ti propongo però **questa riflessione**:<br>
 Il pianoforte che conosci ha solitamente 8 ottave composte da 12 tasti l'una, per un totale di 88 tasti. Se utilizzassimo ancora oggi il sistema di Gioseffo Zarlino, **da quanti tasti sarebbe composto un pianoforte?** <br><br>
 **Web Quest!** <br>
 Prova a cercare in rete le dimensioni di un pianoforte a coda moderno e paragonale alle dimensioni che avrebbe il nostro "pianoforte zarliniano". <br>
@@ -138,7 +138,7 @@ L'ottava viene divisa in dodici semitoni uguali. Questi semitoni sono tutti di d
 
 **Non farti spaventare da questo calcolo**, riesci facilmente ad eseguirlo con una calcolatrice scientifica o digitandolo su Google. In alternativa puoi moltiplicare la frequenza della tua nota per il valore approssimato pari a **1,059463**. <br><br>
 **Esercizio di calcolo:** partendo dalla nostra nota **LA**, moltiplica la sua frequenza (440 Hz) per il valore **1,059463** per arrivare al **LA#**.<br>
-Continua così con tutte le frequenze che ottieni per capire cosa succede alle **frequenze comprese in un'ottava**. <br>**Il LA successivo arriva alla frequenza di 880 hz?** <br><br>
+Continua così con tutte le frequenze che ottieni per capire cosa succede alle **frequenze comprese in un'ottava**. <br>**Il LA successivo arriva alla frequenza di 880 Hz?** <br><br>
 Utilizza questa **tastiera interattiva** come calcolatrice di frequenze per il sistema temperato.
 <iframe src="https://editor.p5js.org/Berg_/full/Q0WoTv_nW" style = "height: 400px; width: 100%; border: none;"></iframe>
 <br>
@@ -207,9 +207,9 @@ Nella musica contemporanea, molti compositori e musicisti sperimentano con accor
 
 ## Microtonalità
 La microtonalità esplora intervalli più piccoli del semitono, utilizzando divisioni dell'ottava in più di 12 parti. Alcuni esempi includono: <br>
-**24-TET** (24-tone equal temperament): Divide l'ottava in 24 semitoni uguali, ciascuno di circa 50 centesimi. <br>
-**31-TET**: Divide l'ottava in 31 parti uguali, migliorando l'intonazione di alcune terze maggiori rispetto al 12-TET.<br>
-**53-TET**: Divide l'ottava in 53 parti uguali, offrendo una maggiore precisione nell'intonazione delle quinte e delle terze.
+**24-TET** (24-tone equal temperament) Divide l'ottava in 24 semitoni uguali, ciascuno di circa 50 centesimi. <br>
+**31-TET** Divide l'ottava in 31 parti uguali, migliorando l'intonazione di alcune terze maggiori rispetto al 12-TET.<br>
+**53-TET** Divide l'ottava in 53 parti uguali, offrendo una maggiore precisione nell'intonazione delle quinte e delle terze.
 
 ## Scala Bohlen-Pierce
 Questa scala è basata su una divisione dell'ottava in 13 parti uguali. Utilizza intervalli non convenzionali e produce suoni molto diversi rispetto alla scala cromatica occidentale. La scala è divisa in 9 intervalli disuguali, creando un'ottava alternativa chiamata **tritave** (rapporto 3:1 anziché 2:1).
