@@ -87,8 +87,11 @@ Questo strumento fa in modo che le dita della tua mano diventino una chitarra! *
 <br>
 
 ## Puff
-Questo strumento è particolarmente utile per la produzione di suoni con timbri diversi.
+Questo strumento è particolarmente utile per la produzione di **suoni con timbri diversi**.<br> 
+Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br>
+Apri e chiudi entrambe le mani per riprodurre i suoni, muoviti **da sinistra a destra** per cambiare la **frequenza** e **mantieni per più tempo le dita chiuse** per cambiare il **volume**. 
 
+- [Provalo](https://editor.p5js.org/Berg_/full/tQtfXAtb_)
 <br>
 
 ## Google Keyboard
