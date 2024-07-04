@@ -30,7 +30,7 @@ Di seguito una lista di worked examples suddivisi per argomento.
 <br>
 
 ## Diffrazione
-
+Clicca sul muro e varia la sua altezza per sentire come si comporta il suono percepito dall'ascoltatore.
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_diffrazione" style = "height: 400px; width: 100%; border: none;"></iframe>
 
 - [Full Screen](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_diffrazione)
@@ -39,7 +39,7 @@ Di seguito una lista di worked examples suddivisi per argomento.
 
 
 ## Eco
-
+Clicca sulla montagna di destra e spostala per capire come varia l'effetto di eco.
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_eco" style = "height: 400px; width: 100%; border: none;"></iframe>
 
 
