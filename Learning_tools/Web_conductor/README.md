@@ -37,7 +37,9 @@ Clicca sulle figure proposte di seguito per ascoltare come cambia la frequenza i
 **Attenzione!** La frequenza e l'ampiezza sono due caratteristiche indipendenti: puoi avere sia suoni gravi che acuti con volume sia altissimo che bassissimo. Prova questo concetto nell'esempio proposto di seguito.
 
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza_frequenza" style = "height: 200px; width: 100%; border: none;"></iframe>
+
 <br>
+
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_frequenza" style = "height: 400px; width: 100%; border: none;"></iframe>
 
 
