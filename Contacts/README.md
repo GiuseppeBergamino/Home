@@ -1,14 +1,16 @@
 # Contacts
 <br>
 
-jeps_berg [at] hotmail.it
-<p></p>
+**Keep in touch!**
+<br>
+- Mail: jeps_berg [at] hotmail.it
+- [Instagram](https://www.instagram.com/giuseppe.berg/)
+- [Facebook](https://www.facebook.com/giuseppe.bergamino.5)
+- [SoundCloud](https://soundcloud.com/g-brg)
+- [YouTube](https://www.youtube.com/channel/UC0qB6gkVvQlkcTRl9dZjJSw)
 
 
-[Instagram](https://www.instagram.com/giuseppe.berg/)
-<p></p>
-
-[Facebook](https://www.facebook.com/giuseppe.bergamino.5)
+  
 
 <p><br></p>
 <p><br></p>
