@@ -3,6 +3,11 @@
 Questa sezione offre la possibilità di gestire unità didattiche basate sull'[improvvisazione musicale](https://it.wikipedia.org/wiki/Improvvisazione_(musica)) attraverso la pratica della [conduction](https://www.musicaelettronica.it/di-cosa-parliamo-quando-parliamo-di-conduction/).
 <br>
 
+Seguendo questa pagina troverai:
+- un tutoria che ti spiega come interpetare musicalmente i simboli del [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
+- una selezione di strumenti che puoi utilizzare per la tua performance
+- le istruzioni per utilizzare al meglio il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
+
 # Tutorial
 Puoi associare il suono che preferisci a un determinato simbolo proposto dal [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). <br>
 Segui queste semplici istruzioni per capire come rispettare le **indicazioni** generali di produzione sonora. Non sono regole, ma consigli per rendere la tua esecuzione più varia ed espressiva. <br> <br>
@@ -32,6 +37,8 @@ Clicca sulle figure proposte di seguito per ascoltare come cambia la frequenza i
 **Attenzione!** La frequenza e l'ampiezza sono due caratteristiche indipendenti: puoi avere sia suoni gravi che acuti con volume sia altissimo che bassissimo. Prova questo concetto nell'esempio proposto di seguito.
 
 <iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor/Conductor_ampiezza_frequenza" style = "height: 200px; width: 100%; border: none;"></iframe>
+<br>
+<iframe src="https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples/we_frequenza" style = "height: 400px; width: 100%; border: none;"></iframe>
 
 
 <br>
@@ -70,7 +77,7 @@ In alternativa, puoi provare alcuni degli strumenti che trovi di seguito o visit
 
 ## Elastico
 Questo strumento è particolarmente utile per la produzione di **suoni continui**.<br> 
-Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br>
+Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br><br>
 Muovi entrambe le mani dall'**alto verso il basso** per cambiare il **volume**, **da sinistra a destra** per cambiare la **frequenza**. Puoi modificare il **timbro** dello strumento esplorando varie **posizioni delle mani e delle dita**.
 
 - [Provalo](https://editor.p5js.org/Berg_/full/H0KQhYxzf)
@@ -79,7 +86,7 @@ Muovi entrambe le mani dall'**alto verso il basso** per cambiare il **volume**, 
 
 ## Corda
 Questo strumento è particolarmente utile per la produzione di **suoni brevi**.<br>
-Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br>
+Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br><br>
 Questo strumento fa in modo che le dita della tua mano diventino una chitarra! **Allontana e avvicina** le mani per cambiare la **frequenza** del suono, **pizzica le corde** facendole sbattere contro il **pallino blu** che vedi sullo schermo. 
 
 - [Provalo](https://editor.p5js.org/Berg_/full/fac12HIMP)
@@ -88,7 +95,7 @@ Questo strumento fa in modo che le dita della tua mano diventino una chitarra! *
 
 ## Puff
 Questo strumento è particolarmente utile per la produzione di **suoni con timbri diversi**.<br> 
-Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br>
+Funziona con la fotocamera del tuo dispositivo, assicurati di averne una e di trovarti in un luogo abbastanza luminoso. <br><br>
 Apri e chiudi entrambe le mani per riprodurre i suoni, muoviti **da sinistra a destra** per cambiare la **frequenza** e **mantieni per più tempo le dita chiuse** per cambiare il **volume**. 
 
 - [Provalo](https://editor.p5js.org/Berg_/full/tQtfXAtb_)
@@ -104,7 +111,8 @@ Ha vari timbri tra cui puoi scegliere e diverse modalità di interazione con tas
 <br>
 
 # Conductor
-Questo è il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) che ti permette di esercitarti nella pratica della conduction e della improvvisazione. Consideralo un generatore di simboli sonori, un po' come un pentagramma di cui però non puoi prevedere il comportamento e che ti fornisce **solo indicazioni** da seguire, **non regole** da rispettare. Il risultato musicale dipenderà principalemente da te e dai membri della tua ensemble, **ascoltatevi** con attenzione e **create insieme!**. <br><br>
+Questo è il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ) che ti permette di esercitarti nella pratica della conduction e della improvvisazione. <br>
+Consideralo un generatore di simboli musicali, un po' come un pentagramma di cui però non puoi prevedere il comportamento e che ti fornisce **solo indicazioni** da seguire, **non regole** da rispettare. Il risultato musicale dipenderà principalemente da te e dai membri della tua ensemble, **ascoltatevi** con attenzione e **create insieme!**. <br><br>
 Puoi usare questa app web per allenarti in classe, al parco con gli amici o da solo a casa. Leggi le semplici istruzioni che trovi di seguito per usare al meglio il tuo [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ). 
 - **Nr. esecutori** ti permette di scegliere se suonerai **da solo o con altre persone**, il sistema assegna automaticamente un **colore diverso** ai simboli relativi al singolo esecutore 
 - **Simboli** ti permette di scegliere la **tipologia delle figure generate** dal conductor, puoi sceglierle in base alle **tue necessità**, al **tuo gusto**, e **alla facilità** che riscontri nell'associare i suoni ai simboli
