@@ -4,7 +4,7 @@ Questa sezione offre la possibilità di gestire unità didattiche basate sull'[i
 <br>
 
 Seguendo questa pagina troverai:
-- un tutoria che ti spiega come interpetare musicalmente i simboli del [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
+- un tutorial che ti spiega come interpetare musicalmente i simboli del [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
 - una selezione di strumenti che puoi utilizzare per la tua performance
 - le istruzioni per utilizzare al meglio il [Web Conductor](https://editor.p5js.org/Berg_/full/xD6wqCkRJ)
 
