@@ -6,7 +6,7 @@ To visit them, simply click on the link associated with each work.
 
 ## Vallo SoundScape
 
-<iframe src='https://aporee.org/maps/work/projects.php?project=vss' style = "height: 100%; width: 100%; border: none" />
+<iframe src='https://aporee.org/maps/work/projects.php?project=vss' style = "height: 400px; width: 100%; border: none"/>
 
 This work is a **collaborative soundscapes map** developed douring the artistic residency in Padula (SA), Italy. With [Art Center Padula](https://www.artcenterpadula.com/) and [Monaci Digitali](https://www.monacidigitali.it/)
 
