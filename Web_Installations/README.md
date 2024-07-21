@@ -4,10 +4,10 @@ Selection of generative web installations. <br>
 To visit them, simply click on the link associated with each work.
 <p><br></p>
 
-## Vallo SoundScape
+## Vallo di Diano Soundscape Project
 
 
-This work is a **collaborative soundscapes map** developed douring the artistic residency in Padula (SA), Italy. With [Art Center Padula](https://www.artcenterpadula.com/) and [Monaci Digitali](https://www.monacidigitali.it/)
+This work is a **collaborative soundscapes map** developed douring the artistic residency in Padula (SA), Italy. With [Art Center Padula](https://www.artcenterpadula.com/) and [Monaci Digitali](https://www.monacidigitali.it/). 
 
 - [Visit Vallo SoundScape](https://aporee.org/maps/work/projects.php?project=vss)
 
