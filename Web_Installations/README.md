@@ -4,6 +4,13 @@ Selection of generative web installations. <br>
 To visit them, simply click on the link associated with each work.
 <p><br></p>
 
+## Vallo SoundScape
+
+<iframe src='https://aporee.org/maps/work/projects.php?project=vss' style = "height: 100%; width: 100%; border: none" />
+
+This work is a **collaborative soundscape map** developed douring the artistic residency in Padula (SA), Italy. 
+
+<br>
 
 ## Lucciole
 
