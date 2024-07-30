@@ -6,6 +6,7 @@ To visit them, simply click on the link associated with each work.
 
 ## Vallo di Diano Soundscape Project
 
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/vallo_soundscape.png" style = "height: 100%; width: 100%; border: none"> 
 
 This work is a **collaborative soundscapes map** developed douring the artistic residency in Padula (SA), Italy. With [Art Center Padula](https://www.artcenterpadula.com/) and [Monaci Digitali](https://www.monacidigitali.it/). 
 
