@@ -4,6 +4,12 @@ List of works, educations, awards and artistic residencies
 
 ## 2024
 
+#### Biennale di Sondrio - Palazzo Muzio - Sondrio, Italy [04.10 - 13.10] 
+Generative Web Installation **Codice Organico**
+
+#### AIR Padula - Art Center Padula - Padula, Italy [18.07 - 05.08] 
+Collaboratice Web Soundmap **Vallo Di Diano Soundscape Project**
+
 #### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy [22.06] 
 Generative Web Installation **Devianza Intima**
 
