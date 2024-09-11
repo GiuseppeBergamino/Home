@@ -15,7 +15,7 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
 ## Elastico
 ![elastico](https://giuseppebergamino.github.io/Home/Musical_Instruments/elastico.png)
 **Elastico** is a web musical instrument that uses a hand-tracking algorithm with a webcam to generate sound and graphics.<br>
-<iframe src="https://drive.google.com/file/d/18BI1xeaB8HpfN7ppCZJAVaMwlnobRx9f/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://www.youtube.com/embed/35-kC8AtxZc?si=quBlichFbKCGQ_ey" style = "height: 300px; width: 100%; border: none"> </iframe>
 <br>
 
 - [Try it!](https://editor.p5js.org/Berg_/full/H0KQhYxzf)
