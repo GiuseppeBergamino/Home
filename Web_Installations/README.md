@@ -61,7 +61,7 @@ The work thus aims to utopically synthesize all possible combinations of fire sa
 
 **Origami** is an infinite, ever-evolving digital paper organism. Both the graphic and sound components are algorithmically managed, reflecting the image of the ancient art of origami as a metaphor for relentless transformation.
 
-- [Visit Codice Organico](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Origami_full/)
+- [Visit Origami](https://giuseppebergamino.github.io/MontiPicentiniDigitali/Origami_full/)
 
 <br>
 
@@ -104,7 +104,8 @@ Rain is a meteorological event that carries significant auditory and visual pote
 ## Onde
 <img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/onde.png" style = "height: 100%; width: 100%; border: none"> 
 
-Naturalistic outreach web installation containing an interactive sound archive for exploring the sounds of the **Monti Picentini**
+Infinite digital wave generator, because somethimes even bytes need holydays. 
+
 - [Visit Onde](https://giuseppebergamino.github.io/Home/Web_Installations/Onde_Full)
 
 <br>
