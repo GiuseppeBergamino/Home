@@ -3,7 +3,7 @@
 Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of the artistic expression, making the audience an integral part of the artwork's unfolding narrative
 
 ## Nostalgia Catodica
-<iframe src="https://drive.google.com/file/d/1FyvY9wI7yHhUk6CxgWZCevbaQD95Z8x1/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://drive.google.com/file/d/1FyvY9wI7yHhUk6CxgWZCevbaQD95Z8x1/preview" style = "height: 300px; width: 100%; border: none; allow: autoplay"> </iframe>
 
 **Nostalgia Catodica** is the answer to the question, "Do neural networks also dream of past eras?" The artwork uses modern hand-tracking algorithms to generate sound and images on old cathode-ray tube televisions. 
 
