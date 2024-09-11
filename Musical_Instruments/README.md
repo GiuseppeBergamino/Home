@@ -45,8 +45,9 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
 <br>
 
 ## MISMO
-**MISMO** is a musical istrument based on inertial sensors and developed with accessibility in mind.
-<iframe src="https://drive.google.com/file/d/1iwhHANmdXQ8gWXwCd_4ho8MkBg2Kr3GH/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+**MISMO** is a musical instrument based on inertial sensors and developed with accessibility in mind.
+<iframe src="https://www.youtube.com/embed/hf9uGSALdgQ?si=UVftKKFBmJJIZELI" style = "height: 300px; width: 100%; border: none"> </iframe>
+
 <p></p>
 <br>
 
