@@ -2,6 +2,18 @@
 
 Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of the artistic expression, making the audience an integral part of the artwork's unfolding narrative
 
+
+## Onda
+<iframe src="https://drive.google.com/file/d/1kDXjoBq5kFmwrVLId2blq0DepDedBKY6/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+
+**Onda** represents the oscillatory seismic phenomenon and the groove it leaves in memory. Visitors activate the installation by swinging the pendulums, which, as they move, generate sound and light events.
+
+<iframe src="https://drive.google.com/file/d/1szC-gVZhTKwR9qRSmclkHt4la6e6vBbF/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+
+<p></p>
+<br>
+
+
 ## Horror Vacui
 <iframe src="https://youtube.com/embed/pqRWJS68FYs?si=F12yWTocTdlDjCk5" style = "height: 300px; width: 100%; border: none"> </iframe>
 
