@@ -14,6 +14,9 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
 ## Elastico
 ![elastico](https://giuseppebergamino.github.io/Home/Musical_Instruments/elastico.png)
 **Elastico** is a web musical instrument that uses a hand-tracking algorithm with a webcam to generate sound and graphics.<br>
+<iframe src="https://drive.google.com/file/d/18BI1xeaB8HpfN7ppCZJAVaMwlnobRx9f/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+<br>
+
 - [Try it!](https://editor.p5js.org/Berg_/full/H0KQhYxzf)
 
 <p></p>
@@ -26,6 +29,15 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
 <p></p>
 <br>
 
+## Puff
+
+<iframe src="https://drive.google.com/file/d/18WCIH5aYMcQcTi1SkJ07YpFcut_iZuOr/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+**Puff** is a web musical instrument that uses a hand-tracking algorithm with a webcam to generate sound and graphics.<br>
+
+- [Try it!](https://editor.p5js.org/Berg_/full/tQtfXAtb_)
+<p></p>
+<br>
+
 ## Carillon
 <iframe src="https://drive.google.com/file/d/1kmRkqCVMw1u1oduzyNbOYRcRz3Oq1cJX/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
 
@@ -33,7 +45,8 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
 <br>
 
 ## MISMO
-Work in progress
+**MISMO** is a musical istrument based on inertial sensors and developed with accessibility in mind.
+<iframe src="https://drive.google.com/file/d/1iwhHANmdXQ8gWXwCd_4ho8MkBg2Kr3GH/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
 <p></p>
 <br>
 
