@@ -82,14 +82,14 @@ The work is a generative sound system that produces music based on the intensity
 <br>
 
 ## RI:USO
-<iframe src="https://drive.google.com/file/d/1hEjjKxd-tGe7bKD74XeghUMRCD221Up5/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://www.youtube.com/embed/AeG66pS7DX0?si=6S-IapyIKm3XQ-em" style = "height: 300px; width: 100%; border: none"> </iframe>
 Sound, light, and interactive design for the exhibition of the master sculptor Giuseppe Rubicco. In collaboration with Collettivo Agata.
 
 <p></p>
 <br>
 
 ## La Lama e l'Onda
-<iframe src="https://drive.google.com/file/d/1E4uYWRH9d0Lfczd5PuXI6Cz2-sdodUN1/preview" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://www.youtube.com/embed/bQj4xz-669E" style = "height: 300px; width: 100%; border: none"> </iframe>
 Sound, light, and motion design. A generative kinetic sculpture made in collaboration with Giuseppe Rubicco and Collettivo Agata.
 
 <p></p>
