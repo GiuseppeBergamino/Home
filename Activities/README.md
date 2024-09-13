@@ -8,12 +8,12 @@ List of works, educations, awards and artistic residencies
 Generative Web Installation **Codice Organico**
 
 #### AIR Padula - Art Center Padula - Padula, Italy [18.07 - 05.08] 
-Collaboratice Web Soundmap **Vallo Di Diano Soundscape Project**
+Collaborative Web Soundmap **Vallo Di Diano Soundscape Project**
 
 #### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy [22.06] 
 Generative Web Installation **Devianza Intima**
 
-#### As Islands - Castle Belasi - Trento, Italy [01.06 - 27.10] 
+#### As Islands - Castel Belasi - Trento, Italy [01.06 - 27.10] 
 Multimodal Interactive Installation **Horror Vacui**
 
 #### The Magnificent Four - Salema Eco Camp - Budens, Portugal [19/20/21.04] 
@@ -139,25 +139,17 @@ Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo A
 ### Second Level Academic Diploma in Technologies for Music Education
 #### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - ongoing]
 
-<p><br></p>
-
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
 #### MUSE Museum, Trento, Italy [October 2023]
-
-<p><br></p>
 
 ### Masterclass in Live Electronics, Sound and Music Computing
 #### Chigiana Academy, Siena, Italy [May 2022 - July 2022]
 With lectures by Alvise Vidolin and co-lectures by Nicola Bernardini
 
-<p><br></p>
-
 ### Second Level Academic Diploma in Electronic Music and Sound Design
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2019 - 2022]
 Grade: 110 with honors and special mention <br>
 Thesis titled: **Interactive Multimodal Installations design: Soundscape and Acoustic Augmented Reality**
-
-<p><br></p>
 
 ### First Level Academic Diploma in Electronic Music
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2015 - 2018]
