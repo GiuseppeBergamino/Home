@@ -138,18 +138,22 @@ Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo A
 
 ### Second Level Academic Diploma in Technologies for Music Education
 #### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - ongoing]
+<br>
 
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
 #### MUSE Museum, Trento, Italy [October 2023]
+<br>
 
 ### Masterclass in Live Electronics, Sound and Music Computing
 #### Chigiana Academy, Siena, Italy [May 2022 - July 2022]
 With lectures by Alvise Vidolin and co-lectures by Nicola Bernardini
+<br>
 
 ### Second Level Academic Diploma in Electronic Music and Sound Design
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2019 - 2022]
 Grade: 110 with honors and special mention <br>
 Thesis titled: **Interactive Multimodal Installations design: Soundscape and Acoustic Augmented Reality**
+<br>
 
 ### First Level Academic Diploma in Electronic Music
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2015 - 2018]
