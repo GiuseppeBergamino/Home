@@ -136,12 +136,19 @@ Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo A
 
 # Education
 
+### Phd research in Information engineering 
+#### Università Politecnica delle Marche, Ancona, Italy [2024 - 2027]
+Research titled: **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
+<br>
+
 ### Second Level Academic Diploma in Technologies for Music Education
-#### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - ongoing]
+#### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - 2024]
+Thesis titled: **Adaptive musical instruments for disabilities**
 <br>
 
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
 #### MUSE Museum, Trento, Italy [October 2023]
+With lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda and Franco Buffoni
 <br>
 
 ### Masterclass in Live Electronics, Sound and Music Computing
@@ -159,7 +166,6 @@ Thesis titled: **Interactive Multimodal Installations design: Soundscape and Aco
 #### Domenico Cimarosa State Conservatory of Music, Avellino, Italy [2015 - 2018]
 Grade: 110 with honors and special mention <br>
 Thesis titled: **Generative Modular Systems design for Electroacoustic Music**
-
 <p><br></p>
 
 # Awards
