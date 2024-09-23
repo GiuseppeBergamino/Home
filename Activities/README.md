@@ -7,7 +7,7 @@ List of works, educations, awards and artistic residencies
 #### Biennale di Sondrio - Palazzo Muzio - Sondrio, Italy [04.10 - 13.10] 
 Generative Web Installation **Codice Organico**
 
-#### AIR Padula - Art Center Padula - Padula, Italy [18.07 - 05.08] 
+#### AIR Padula - Art Center Padula - Padula (SA), Italy [18.07 - 05.08] 
 Collaborative Web Soundmap **Vallo Di Diano Soundscape Project**
 
 #### Dov'è l'Uomo - Spazio Pantaneo - Rome, Italy [22.06] 
