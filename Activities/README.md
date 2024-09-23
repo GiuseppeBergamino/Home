@@ -136,7 +136,7 @@ Multimodal Interactive Installation **L’Acqua non è Suono** with Collettivo A
 
 # Education
 
-### Phd research in Information engineering 
+### PhD research in Information engineering 
 #### Università Politecnica delle Marche, Ancona, Italy [2024 - 2027]
 Research titled: **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
 <br>
