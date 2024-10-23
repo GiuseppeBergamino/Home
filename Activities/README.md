@@ -4,6 +4,9 @@ List of works, educations, awards and artistic residencies
 
 ## 2024
 
+#### Art Forest Exhibition - Nullker Art - Arakapas, Cyprus [02.11.2024]
+Generative Web Installation **Salamandra00**
+
 #### Biennale di Sondrio - Palazzo Muzio - Sondrio, Italy [04.10 - 13.10] 
 Generative Web Installation **Codice Organico**
 
