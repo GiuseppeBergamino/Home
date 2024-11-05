@@ -1,7 +1,7 @@
 # Bio
 
 <img src="https://giuseppebergamino.github.io/Home/Bio/Giuseppe_Bergamino_personal_photo.jpg" style = "height: 100%; width: 100%; border: none"> 
-- [Portfolio](https://www.canva.com/design/DAGF5ZVNxuQ/bDJkktVRu-X2X4-wbOaoPQ/view)
+- [Portfolio](https://www.canva.com/design/DAGVmgD7moE/LWyXf4EdVMra8PsH2tpN9Q/view)
 
 Giuseppe Bergamino (Avellino, Italy, 1993) is an electronic musician involved in the creation of **multimodal** artworks and research in the fields of **human-computer interaction**, **digital lutherie**, **generative art** and **sound design**. He has elected multimodal interactive artistic installations as his main expressive medium, believing that the active and sensorial fusion between users and art is able to convey the driving idea of his works with greater and more intimate clarity.
 <p></p>
