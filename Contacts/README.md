@@ -3,7 +3,7 @@
 
 **Keep in touch!**
 <br>
-- jeps_berg [at] hotmail.it
+- jeps_berg [at] hotmail [dot] it
 - [Instagram](https://www.instagram.com/giuseppe.berg/)
 - [Facebook](https://www.facebook.com/giuseppe.bergamino.5)
 - [SoundCloud](https://soundcloud.com/g-brg)
