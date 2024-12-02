@@ -4,6 +4,9 @@ List of works, educations, awards and artistic residencies
 
 ## 2024
 
+#### Rappresentare L'Umanesimo Tecnologico - io01 - Brescia, Italy [22.11.2024]
+Generative Web Installation **Codice Organico**
+
 #### Art Forest Exhibition - Nullker Art - Arakapas, Cyprus [02.11.2024]
 Generative Web Installation **Salamandra00**
 
@@ -172,6 +175,11 @@ Thesis titled: **Generative Modular Systems design for Electroacoustic Music**
 <p><br></p>
 
 # Awards
+
+### Rappresentare L'Umanesimo Tecnologico - Call For Visuals 
+#### Visual Design Prize [22.11.2024]
+Award given to Giuseppe Bergamino, for the project **Organic Code - A Generative Web Installation**.
+[Jury](https://www.io01umanesimotecnologico.it/call-for-visuals-rappresentare-lumanesimo-tecnologico-il-progetto-vincitore-e-le-menzioni-assegnate/): Massimo Tantardini, Anna Maria Monteverdi, Giordano Apostoli, Sergio Paganelli and Davide Maria Coltro.
 
 ### XII National Arts Award - Section Electronic Music and New Technologies
 #### Electroacoustic Musical Compositions - Works with Live Electronics [03.07 - 05.07.2017]
