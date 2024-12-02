@@ -178,7 +178,7 @@ Thesis titled: **Generative Modular Systems design for Electroacoustic Music**
 
 ### Rappresentare L'Umanesimo Tecnologico - Call For Visuals 
 #### Visual Design Prize [22.11.2024]
-Award given to Giuseppe Bergamino, for the project **Organic Code - A Generative Web Installation**.
+Award given to Giuseppe Bergamino, for the project **Organic Code - A Generative Web Installation**.<br>
 [Jury](https://www.io01umanesimotecnologico.it/call-for-visuals-rappresentare-lumanesimo-tecnologico-il-progetto-vincitore-e-le-menzioni-assegnate/): Massimo Tantardini, Anna Maria Monteverdi, Giordano Apostoli, Sergio Paganelli and Davide Maria Coltro.
 
 ### XII National Arts Award - Section Electronic Music and New Technologies
