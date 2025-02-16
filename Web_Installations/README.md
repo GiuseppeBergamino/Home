@@ -1,8 +1,18 @@
 # Web Installations
 
-Selection of generative web installations. <br>
-To visit them, simply click on the link associated with each work.
+To visit the works, simply click on the link associated with them.
 <p><br></p>
+
+## Dispositivo di Memoria a Rumore Residuo
+
+<img src="https://giuseppebergamino.github.io/Home/Web_Installations/foto/dispositivo_rumore.png" style = "height: 100%; width: 100%; border: none"> 
+
+This work is hosted on [spazioSERRA's website](https://www.spazioserra.org/), inviting the audience to record their anger, with maximum intensity, through a scream. Every loud noise perceived by the work transforms into a small luminous trace which, when combined with those left by others, will form a collective synergy that grows stronger, brighter, and blinding. The memory of collective anger will also interact with the environment, as the dots on the screen will move according to the intensity of the screams. The scream is resistance; the scream is transformation.
+
+- [Visit Dispositivo di Memoria a Rumore Residuo](https://www.spazioserra.org/exhibitions/2024-2025-iragenerans/giuseppe-bergamino-dispositivo-di-memoria-a-rumore-residuo)
+
+
+
 
 ## Vallo di Diano Soundscape Project
 
