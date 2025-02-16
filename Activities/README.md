@@ -1,6 +1,13 @@
 # Activities
-List of works, educations, awards and artistic residencies
 <p><br></p>
+
+## 2025
+
+#### Arti Incrociate - Luca Marenzio Conservatory, Brescia, Italy [05.04]
+Acoustic Augmented Reality Installation **Sound Space Explorer**
+
+#### Ira Generans - spazioSERRA - Milan, Italy [16.02.2025 - 16.02.2026]
+Interactive Web Installation **Dispositivo di Memoria a Rumore Residuo**
 
 ## 2024
 
