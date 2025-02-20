@@ -1,16 +1,14 @@
 theme: jekyll-theme-midnight
 title: Giuseppe Bergamino
-description: Digital Artist
+#description: Digital Artist
+description: "Digital Artist focused on interactive installations and new musical instruments."
 author: "Giuseppe Bergamino"
 lang: "en"
 locale: "en_GB"
-
-image: "/og-image.jpg"
-
-url: "https://giuseppebergamino.github.io"
-baseurl: "/Home"
 
 # plugin per SEO e sitemap
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+image: "https://giuseppebergamino.github.io/Home/og-image.jpg"
