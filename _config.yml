@@ -5,6 +5,8 @@ author: "Giuseppe Bergamino"
 lang: "en"
 locale: "en_GB"
 
+image: "/og-image.jpg"
+
 # plugin per SEO e sitemap
 plugins:
   - jekyll-sitemap
