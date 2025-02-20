@@ -1,3 +1,11 @@
 theme: jekyll-theme-midnight
 title: Giuseppe Bergamino
 description: Digital Artist
+author: "Giuseppe Bergamino"
+lang: "en"
+locale: "en_GB"
+
+# plugin per SEO e sitemap
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
