@@ -1,6 +1,6 @@
 # Bio
 
-<img src="https://giuseppebergamino.github.io/Home/Bio/Giuseppe_Bergamino_personal_photo.jpg" style = "height: 50%; width: 50%; border: none"> 
+<img src="https://giuseppebergamino.github.io/Home/Bio/Giuseppe_Bergamino_personal_photo.jpg" style = "height: 50%; width: 50%; border: none; display: block; margin: 0 auto;"> 
 - [Portfolio](https://www.canva.com/design/DAGVmgD7moE/LWyXf4EdVMra8PsH2tpN9Q/view)
 
 Giuseppe Bergamino is an electronic musician specializing in multimodal artworks and research in human-computer interaction, digital lutherie, generative art, and sound design. He focuses on multimodal interactive installations as his primary expressive medium, aiming to foster a deeper and more intimate connection between users and art through active sensory engagement. His work emphasizes inclusivity and accessibility, striving to break down barriers to artistic and musical expression through adaptive technologies and alternative creative paradigms.
