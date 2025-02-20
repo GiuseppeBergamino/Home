@@ -162,41 +162,40 @@ Launch of the web installation **Monti Picentini Digitali** [*01.04*]
 
 ### PhD Research in Information Engineering
 **Università Politecnica delle Marche**, Ancona, Italy [*2024 – 2027*]    
-#### Research project:
+Research project:
 **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
 
----
+
 
 ### Second Level Academic Diploma in Technologies for Music Education   
 **Luca Marenzio State Conservatory of Music**, Brescia, Italy [*2022 – 2024*]   
-#### Thesis:
+Thesis:
 **Sound Space Explorer: an immersive application for a new approach to sound education**
 
----
+
 
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
 **MUSE Museum**, Trento, Italy [*October 2023*]    
 Lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda, and Franco Buffoni
 
----
+
 
 ### Masterclass in Live Electronics, Sound and Music Computing 
 **Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]    
 Lectures by Alvise Vidolin, co-lectures by Nicola Bernardini
 
----
+
   
 ### Second Level Academic Diploma in Electronic Music and Sound Design
 **Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2019 – 2022*]     
-#### Thesis:
+Thesis:
 **Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**
 Grade: 110 with honors and special mention
 
----
  
 ### First Level Academic Diploma in Electronic Music 
 **Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2015 – 2018*]      
-#### Thesis:
+Thesis:
 **Generative Modular Systems Design for Electroacoustic Music**
 Grade: 110 with honors and special mention
 
