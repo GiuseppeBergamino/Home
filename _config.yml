@@ -7,6 +7,9 @@ locale: "en_GB"
 
 image: "/og-image.jpg"
 
+url: "https://giuseppebergamino.github.io"
+baseurl: "/Home"
+
 # plugin per SEO e sitemap
 plugins:
   - jekyll-sitemap
