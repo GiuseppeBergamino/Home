@@ -1,14 +1,16 @@
 # Activities
 
+<br>
+
 ## 2025
 
 **Arti Incrociate** – Luca Marenzio Conservatory, Brescia, Italy [*05.04*]  
 **Sound Space Explorer** - Multimodal Installation in Auditory Augmented Reality 
 
-**La Rocca delle Arti – Arnia 33** – Narni (TR), Italy [*22.03.2025 – 22.03.2028*]  
+**La Rocca delle Arti – Arnia 33** – Narni (TR), Italy [*22.03.2025 – 22.03.2028*]
 **Dispositivo di Memoria a Suono Residuo** - Interactive Multimodal Installation
 
-**IRA GENERANS** – spazioSERRA, Milan, Italy [*16.02.2025 – 16.02.2026*] 
+**IRA GENERANS** – spazioSERRA, Milan, Italy [*16.02.2025 – 16.02.2026*]
 **Dispositivo di Memoria a Rumore Residuo** - Interactive Web Installation  
 
 ---
@@ -24,7 +26,7 @@
 **Biennale di Sondrio – Palazzo Muzio** – Sondrio, Italy [*04.10 – 13.10*]  
 **Codice Organico** - Generative Web Installation  
 
-**AIR Padula – Art Center Padula** – Padula (SA), Italy [*18.07 – 05.08*] 
+**AIR Padula – Art Center Padula** – Padula (SA), Italy [*18.07 – 05.08*]
 **Vallo Di Diano Soundscape Project** - Collaborative Web Soundmap
 
 **Dov'è l'Uomo – Spazio Pantaneo** – Rome, Italy [*22.06*]  
@@ -36,7 +38,7 @@
 **The Magnificent Four – Salema Eco Camp** – Budens, Portugal [*19 – 21.04*]  
 **Salamandra00** - Generative Web Installation  
 
-**Transforming Literary Places – Art Museum** – Tartu, Estonia [*28.03 – 18.05*]  
+**Transforming Literary Places – University Art Museum** – Tartu, Estonia [*28.03 – 18.05*]  
 **Flatland – A Geometric Ecosystem** - Interactive Web Installation  
 
 **Arti Incrociate** – Luca Marenzio Conservatory, Brescia, Italy [*19.03*]  
@@ -101,7 +103,8 @@ Launch of the web installation **Monti Picentini Digitali** [*01.04*]
 **Cinque Finestre** - Multimodal Installation
 
 **Summer Fest – Grotte di Villa Amendola** – Avellino, Italy [*15.09.2021 – 28.02.2022*]  
-**RI:USO** by Master Sculptor **Giuseppe Rubicco** - Light, Sound and Interaction Design 
+**RI:USO** by Master Sculptor **Giuseppe Rubicco** - Light, Sound and Interaction Design
+
 
 ---
 
@@ -119,6 +122,7 @@ Launch of the web installation **Monti Picentini Digitali** [*01.04*]
 **Carbonaria Festival** – [Calitri, Aquilonia, Lacedonia] (AV), Italy [*26.07 – 30.07*]  
 **La Eco Empatica** - Diptych of Interactive Installations with Collettivo Agata
 
+
 ---
 
 ## 2019
@@ -132,8 +136,10 @@ Launch of the web installation **Monti Picentini Digitali** [*01.04*]
 **Emozioni in Mostra – Castel dell’Ovo** – Naples, Italy [*29.08 – 09.09*]  
 **Onde Empatiche** - Multimodal Interactive Installation with Collettivo Agata
 
-**Interferenze Festival – D. Cimarosa Conservatory** – Avellino, Italy [*12.06*] 
+**Interferenze Festival – D. Cimarosa Conservatory** – Avellino, Italy [*12.06*]
 **Live electronics performer**
+
+
 ---
 
 ## 2018
@@ -152,42 +158,51 @@ Launch of the web installation **Monti Picentini Digitali** [*01.04*]
 
 # Education
 
-### PhD Research in Information Engineering [*2024 – 2027*] 
-**Università Politecnica delle Marche**, Ancona, Italy    
-Research project: **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
+### PhD Research in Information Engineering
+**Università Politecnica delle Marche**, Ancona, Italy [*2024 – 2027*]    
+#### Research project:
+**Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
 
-### Second Level Academic Diploma in Technologies for Music Education [*2022 – 2024*]  
-**Luca Marenzio State Conservatory of Music**, Brescia, Italy    
-Thesis: **Sound Space Explorer: an immersive application for a new approach to sound education**
 
-### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry [*October 2023*]
-**MUSE Museum**, Trento, Italy    
+### Second Level Academic Diploma in Technologies for Music Education   
+**Luca Marenzio State Conservatory of Music**, Brescia, Italy [*2022 – 2024*]   
+#### Thesis:
+**Sound Space Explorer: an immersive application for a new approach to sound education**
+
+
+### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
+**MUSE Museum**, Trento, Italy [*October 2023*]    
 Lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda, and Franco Buffoni
 
-### Masterclass in Live Electronics, Sound and Music Computing [*May 2022 – July 2022*] 
-**Chigiana Academy**, Siena, Italy    
+
+### Masterclass in Live Electronics, Sound and Music Computing 
+**Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]    
 Lectures by Alvise Vidolin, co-lectures by Nicola Bernardini
 
-### Second Level Academic Diploma in Electronic Music and Sound Design [*2019 – 2022*]  
-**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy      
-Thesis: **Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**
+  
+### Second Level Academic Diploma in Electronic Music and Sound Design
+**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2019 – 2022*]     
+#### Thesis:
+**Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**
 Grade: 110 with honors and special mention
 
-### First Level Academic Diploma in Electronic Music [*2015 – 2018*] 
-**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy      
-Thesis: **Generative Modular Systems Design for Electroacoustic Music**
+ 
+### First Level Academic Diploma in Electronic Music 
+**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2015 – 2018*]      
+#### Thesis:
+**Generative Modular Systems Design for Electroacoustic Music**
 Grade: 110 with honors and special mention
 
 ---
 
 # Awards
 
-### Rappresentare L'Umanesimo Tecnologico – Call For Visuals [*22.11.2024*] 
-**Visual Design Prize** for **Organic Code – A Generative Web Installation**  
+### Rappresentare L'Umanesimo Tecnologico – Call For Visuals
+**Visual Design Prize** for **Organic Code – A Generative Web Installation** [*2019 – 2022*]
 [Jury](https://www.io01umanesimotecnologico.it/call-for-visuals-rappresentare-lumanesimo-tecnologico-il-progetto-vincitore-e-le-menzioni-assegnate/): Massimo Tantardini, Anna Maria Monteverdi, Giordano Apostoli, Sergio Paganelli, Davide Maria Coltro
 
-### XII National Arts Award – Section Electronic Music and New Technologies [*03.07 – 05.07.2017*]  
-Cathegory: Electroacoustic Musical Compositions – Works with Live Electronics  
+### XII National Arts Award – Section Electronic Music and New Technologies  
+Cathegory: Electroacoustic Musical Compositions – Works with Live Electronics [*03.07 – 05.07.2017*]  
 **Diploma of Merit** (2nd place) for **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble  
 Jury: Alvin Curran, Simon Emmerson, and Ivan Fedele
 
@@ -199,5 +214,6 @@ Jury: Alvin Curran, Simon Emmerson, and Ivan Fedele
 Research grant provided by **Monaci Digitali**
 
 ---
+<br>
 
 [Back to Home](https://giuseppebergamino.github.io/Home/)
