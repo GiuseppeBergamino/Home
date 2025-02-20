@@ -1,129 +1,116 @@
 # Multimodal Installations
 
-Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of the artistic expression, making the audience an integral part of the artwork's unfolding narrative.
+Giuseppe Bergamino's multimodal art installations blend various sensory experiences to enhance the depth and richness of artistic expression, making the audience an integral part of each unfolding narrative.
 
-<br>
+---
 
 ## Nostalgia Catodica
-<iframe src="https://youtube.com/embed/Gpov8MI5uuE?si=uIuZGWl2Cy_lYFhj" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://youtube.com/embed/Gpov8MI5uuE?si=uIuZGWl2Cy_lYFhj" style="height: 300px; width: 100%; border: none;"></iframe>
 
+**Nostalgia Catodica** explores the question: “Do neural networks also dream of past eras?” The artwork uses modern hand-tracking algorithms to generate sounds and images on old cathode-ray tube televisions.
 
-**Nostalgia Catodica** is the answer to the question, "Do neural networks also dream of past eras?" The artwork uses modern hand-tracking algorithms to generate sound and images on old cathode-ray tube televisions. 
-
-
-<p></p>
-<br>
+---
 
 ## Onda
-<iframe src="https://www.youtube.com/embed/jS2JrIBUKT0?si=0kTTrdKhwccmwCXh" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://www.youtube.com/embed/jS2JrIBUKT0?si=0kTTrdKhwccmwCXh" style="height: 300px; width: 100%; border: none;"></iframe>
 
-**Onda** represents the oscillatory seismic phenomenon and the groove it leaves in memory. Visitors activate the installation by swinging the pendulums, which as they move, generate sound and light events.
+**Onda** represents an oscillatory seismic phenomenon and the imprint it leaves in our memory. Visitors activate the installation by swinging pendulums, which in turn generate sound and light events as they move.
 
-<p></p>
-<br>
-
+---
 
 ## Horror Vacui
-<iframe src="https://youtube.com/embed/pqRWJS68FYs?si=F12yWTocTdlDjCk5" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://youtube.com/embed/pqRWJS68FYs?si=F12yWTocTdlDjCk5" style="height: 300px; width: 100%; border: none;"></iframe>
 
-**Horror Vacui** refers to the fear of empty spaces and the tendency to fill them. In this context, the ocean represents a natural void that has been gradually invaded and filled with anthropogenic noise. For cetaceans, which rely on sounds for survival, this filling of the void with artificial noises creates a hostile and chaotic environment, disrupting their natural behavior and causing stress, disorientation, and death. <br>
+**Horror Vacui** refers to the fear of empty spaces and the tendency to fill them. In this context, the ocean becomes a natural void gradually invaded by anthropogenic noise. For cetaceans—who rely on sound for survival—the intrusion of artificial noise creates a hostile and chaotic environment, causing stress, disorientation, and even death.
 
-The installation invites visitors to experience this sensory invasion, transforming their understanding of the void from a spatial concept to an oppressive and tangible sonic reality. Through interaction with water, the artwork reveals the problem of acoustic pollution to the human ear, evoking empathy and awareness about the need to protect the oceans from this invisible yet devastating form of pollution.
+The installation invites visitors to experience this sensory invasion, transforming their perception of the void from a spatial concept into an oppressive sonic reality. By interacting with water, the artwork reveals the problem of acoustic pollution to the human ear, evoking empathy and awareness about the need to protect the oceans from this invisible yet devastating form of pollution.
 
-<p></p>
-<br>
+---
 
-## Flatland - A Geometric Ecosystem
-<iframe src="https://youtube.com/embed/VDaHD4LrixQ" style = "height: 300px; width: 100%; border: none"> </iframe>
+## Flatland – A Geometric Ecosystem
+<iframe src="https://youtube.com/embed/VDaHD4LrixQ" style="height: 300px; width: 100%; border: none;"></iframe>
 
-This digital work is based on the book **Flatland: A Romance of Many Dimensions** by Edwin Abbott Abbott, first published in 1884. The novella depicts a two-dimensional universe where inhabitants are made out of basic geometric shapes and are organized into an extremely rigid caste system: a figure's social power increases with the number of its sides. The narrator’s life—a square—is completely taken aback when he first encounters a sphere. With this incredible and new 3D shape, the square starts a journey in lands with many different dimensions: Pointland (0D), Lineland (1D), Flatland (2D) and Spaceland (3D). After that, the Square’s mind is open to the idea of endless multi-dimensional worlds, in particular he tries to convince the Sphere of the existence of the fourth dimension. Ironically enough, the Sphere blames the Square for this blasphemous idea.
-**Flatland - A Geometric Ecosystem** moves from this final paradox and gives the user the ability to become a 4D entity that can freely explore Flatland, its population, and the movements of the Sphere. Thanks to hand-tracking algorithms and binaural sound spatialization, the user’s experience is granted to be immersive and highly interactive; becoming a 4D entity can enhance the possibility of comprehending the fantastic realm of Flatland and the complexity of the lives of its inhabitants.
+This digital work is based on **Flatland: A Romance of Many Dimensions** by Edwin Abbott Abbott (1884), which depicts a two-dimensional universe with inhabitants made of basic geometric shapes, organized into a rigid caste system. A square’s life is turned upside down when it encounters a sphere and glimpses the possibility of higher dimensions.
 
-<p></p>
-<br>
+**Flatland – A Geometric Ecosystem** picks up on this paradox, allowing the user to become a 4D entity exploring Flatland, its inhabitants, and the sphere’s movements. With hand-tracking algorithms and binaural sound spatialization, the experience is immersive and highly interactive, offering a deeper insight into the realm of Flatland and the complexity of its lives.
+
+---
 
 ## Cinque Finestre
 ![finestre1](https://raw.githubusercontent.com/GiuseppeBergamino/MontiPicentiniDigitali/gh-pages/docs/assets/finestre1.jpeg)
 
-The artwork consists of five windows supported by pedestals and equipped with sensors that monitor their opening. The more the windows are opened, the more the participants can perceive binaural soundscapes composed of nature-recorded materials. Each participant is provided with headphones featuring a head-tracking system, ensuring the most immersive experience possible.
+The artwork features five windows supported by pedestals, each equipped with sensors to monitor its opening. As participants open the windows, they hear binaural soundscapes composed of natural field recordings. Each participant wears headphones with a head-tracking system, ensuring an immersive listening experience.
 
-<p></p>
-<br>
-
+---
 
 ## Water is Not Sound
-<iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://www.youtube.com/embed/kbqZM7buqEc?si=B0APFTB3zpjjoQ0P" style="height: 300px; width: 100%; border: none;"></iframe>
 
-The artwork consists of a plexiglass tank filled with water and equipped with sensors. The interactions of the participants with the water volume are translated into sounds coherent with the executed gestures. A sound spatialization algorithm allows the sound to move within a quadraphonic speaker system.
+This artwork consists of a plexiglass tank filled with water and fitted with sensors. Participants’ interactions with the water are translated into sounds that correspond to their gestures. A sound spatialization algorithm allows these sounds to move within a quadraphonic speaker setup.
 
-<p></p>
-<br>
+---
 
 ## Architettura a Gravità di Gocce
-<iframe src="https://www.youtube.com/embed/3n_sY6HB830?si=3CtyQChHU7or3GPM" style = "height: 300px; width: 100%; border: none"> </iframe>
+<iframe src="https://www.youtube.com/embed/3n_sY6HB830?si=3CtyQChHU7or3GPM" style="height: 300px; width: 100%; border: none;"></iframe>
 
-The artwork is designed to create rhythmic patterns using the mechanized dropping of water onto four recycled materials equipped with microphones. Participants can control the speed and quantity of the drops on the materials through an interactive interface featuring lights and capacitive sensors.
+This piece creates rhythmic patterns by mechanizing water droplets that fall onto four recycled materials equipped with microphones. Participants can control the speed and quantity of the water drops via an interactive interface with lights and capacitive sensors.
 
-<p></p>
-<br>
+---
 
 ## La Memoria Sogna Forme Liquide
-<iframe src="https://youtube.com/embed/qQZ0xAoM1u8" style = "height: 300px; width: 100%; border: none"> </iframe>
-Sound and interactive design for the exhibition of the artist Noemi Mirata.
+<iframe src="https://youtube.com/embed/qQZ0xAoM1u8" style="height: 300px; width: 100%; border: none;"></iframe>
 
-<p></p>
-<br>
+Sound and interactive design for an exhibition by artist Noemi Mirata.
+
+---
 
 ## Carillon Fluviale
-<iframe src="https://www.youtube.com/embed/UEWRg25llOU?si=HYUQknLHEgTpHzNm" style = "height: 300px; width: 100%; border: none"> </iframe>
-The work is a generative sound system that produces music based on the intensity of the water flow of a small river..
+<iframe src="https://www.youtube.com/embed/UEWRg25llOU?si=HYUQknLHEgTpHzNm" style="height: 300px; width: 100%; border: none;"></iframe>
 
-<p></p>
-<br>
+A generative sound system that produces music based on the flow intensity of a small river.
+
+---
 
 ## RI:USO
-<iframe src="https://www.youtube.com/embed/AeG66pS7DX0?si=6S-IapyIKm3XQ-em" style = "height: 300px; width: 100%; border: none"> </iframe>
-Sound, light, and interactive design for the exhibition of the master sculptor Giuseppe Rubicco. In collaboration with Collettivo Agata.
+<iframe src="https://www.youtube.com/embed/AeG66pS7DX0?si=6S-IapyIKm3XQ-em" style="height: 300px; width: 100%; border: none;"></iframe>
 
-<p></p>
-<br>
+Sound, light, and interactive design for an exhibition by master sculptor Giuseppe Rubicco, in collaboration with Collettivo Agata.
+
+---
 
 ## La Lama e l'Onda
-<iframe src="https://www.youtube.com/embed/bQj4xz-669E" style = "height: 300px; width: 100%; border: none"> </iframe>
-Sound, light, and motion design. A generative kinetic sculpture made in collaboration with Giuseppe Rubicco and Collettivo Agata.
+<iframe src="https://www.youtube.com/embed/bQj4xz-669E" style="height: 300px; width: 100%; border: none;"></iframe>
 
-<p></p>
-<br>
+Sound, light, and motion design. A generative kinetic sculpture created in collaboration with Giuseppe Rubicco and Collettivo Agata.
+
+---
 
 ## Onde Empatiche
 ![onde_empatiche](https://giuseppebergamino.github.io/Home/Multimodal_Installations/onde_empatiche.png)
-The artwork is designed to musically and visually connect the less evident physical characteristics of two participants looking into each other's eyes at a close distance. A pattern of sensors monitors body temperature, heart rate, and skin conductance. The data is translated into sound and light.
 
-<p></p>
-<br>
+Designed to musically and visually connect the less obvious physiological signals of two participants who look into each other’s eyes from a close distance. A sensor system monitors body temperature, heart rate, and skin conductance, transforming these readings into sound and light.
+
+---
 
 ## Vari_azioni_su_AL13
-<iframe src="https://www.youtube.com/embed/qbp2NkQKTdk?si=83GFQY_yKuDGvqxM" style = "height: 300px; width: 100%; border: none"> </iframe>
-The artwork is designed to raise public awareness about creative recycling and the benefits of using aluminum over plastic containers. The system uses sensors to allow participants to play with recycled aluminum cans, creating different rhythmic and melodic patterns based on the activated can stations.
+<iframe src="https://www.youtube.com/embed/qbp2NkQKTdk?si=83GFQY_yKuDGvqxM" style="height: 300px; width: 100%; border: none;"></iframe>
 
-<p></p>
-<br>
+An installation that raises public awareness about creative recycling and the advantages of using aluminum over plastic containers. Participants can play with recycled aluminum cans, each equipped with sensors to trigger rhythmic or melodic patterns depending on the activated “can station.”
+
+---
 
 ## Arterie Cromatiche
-<iframe src="https://www.youtube.com/embed/9Wvm4ajOasQ?si=OTfBfzHX6dQ4jHTg" style = "height: 300px; width: 100%; border: none"> </iframe>
-The artwork was created in collaboration with the master sculptor Giuseppe Rubicco. The space is arranged with lights and glass sculptures of dismembered female bodies, and as the viewers move, they trigger and modify spatialized sound events across various speakers.
+<iframe src="https://www.youtube.com/embed/9Wvm4ajOasQ?si=OTfBfzHX6dQ4jHTg" style="height: 300px; width: 100%; border: none;"></iframe>
 
-<p></p>
-<br>
+Created in collaboration with master sculptor Giuseppe Rubicco. The space is filled with lights and glass sculptures of dismembered female bodies. As viewers move, they trigger spatialized sound events across various speakers.
+
+---
 
 ## AR-DRUM
-<iframe src="https://youtube.com/embed/BzrOlVYQNpA?si=z0V8dA55nvJkFmFt" style = "height: 300px; width: 100%; border: none"> </iframe>
-This installation is a Three.js-based augmented reality experience where 16 cubes are displayed in a 4x4 grid. Each cube is associated with a different audio file, and clicking on a cube plays or pauses the corresponding sound. The cubes change size in real-time based on the volume of the audio they are playing. The app includes an immersive 3D audio experience while using headphones. 
+<iframe src="https://youtube.com/embed/BzrOlVYQNpA?si=z0V8dA55nvJkFmFt" style="height: 300px; width: 100%; border: none;"></iframe>
 
+A Three.js-based augmented reality experience featuring 16 cubes in a 4×4 grid. Each cube corresponds to an audio file: clicking on a cube plays or pauses the associated sound. The cubes change size in real time based on the volume of the audio they produce. When used with headphones, the app also offers an immersive 3D audio experience.
 
+---
 
-<br>
-
-Back [Home](https://giuseppebergamino.github.io/Home/)
-
-
+[Back to Home](https://giuseppebergamino.github.io/Home/)
