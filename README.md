@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Home"
+image: "https://giuseppebergamino.github.io/Home/og-image.jpg"
+---
+
 <p></p>
 
 <iframe
