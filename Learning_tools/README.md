@@ -1,11 +1,12 @@
-# Learning and teaching web tools
+# Web Tools for Teaching and Learning
 
-This web page aims to collect and organize a series of musical applications exclusively usable on the web, which therefore do not require installation and function virtually on any network-connected device. <br>
+This webpage is designed to collect and organize a series of web-based musical applications, which require no installation and can run on virtually any internet-connected device.<br>
 
-- [Web Taxonomy](https://giuseppebergamino.github.io/Home/Learning_tools/Web_taxonomy)
-- [Worked Examples](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples)
-- [Web Conductor](https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor)
-- [Storia delle accordature](https://giuseppebergamino.github.io/Home/Learning_tools/accordature)
+- [Musical Web App Taxonomy](https://giuseppebergamino.github.io/Home/Learning_tools/Web_taxonomy)
+- [Musical Interactive Examples](https://giuseppebergamino.github.io/Home/Learning_tools/Worked_examples)  
+- [Musical Web Conductor](https://giuseppebergamino.github.io/Home/Learning_tools/Web_conductor)
+- [History of Tunings](https://giuseppebergamino.github.io/Home/Learning_tools/accordature)
+
 
 
 <p><br></p>
