@@ -180,7 +180,7 @@ Rain is a meteorological event with rich auditory and visual potential. **Pioggi
   loading="lazy"
 />
 
-An infinite digital wave generator, because sometimes even bytes need holidays.
+An infinite digital sea waves generator, because sometimes even bytes need holidays.
 
 - [Visit Onde](https://giuseppebergamino.github.io/Home/Web_Installations/Onde_Full)
 
