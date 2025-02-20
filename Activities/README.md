@@ -155,10 +155,10 @@ Launch of the web installation **Monti Picentini Digitali** [*01.04*]
 **L’Acqua non è Suono** - Multimodal Interactive Installation with Collettivo Agata
 
 ---
+<br>
 
 # Education
 
-<br>
 
 ### PhD Research in Information Engineering
 **Università Politecnica delle Marche**, Ancona, Italy [*2024 – 2027*]    
@@ -181,7 +181,7 @@ Lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda, and Franco 
 
 
 ### Masterclass in Live Electronics, Sound and Music Computing 
-**Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]    
+**Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]
 Lectures by Alvise Vidolin, co-lectures by Nicola Bernardini
 
 
@@ -192,6 +192,7 @@ Thesis:
 **Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**
 Grade: 110 with honors and special mention
 
+
  
 ### First Level Academic Diploma in Electronic Music 
 **Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2015 – 2018*]      
@@ -201,25 +202,30 @@ Grade: 110 with honors and special mention
 
 ---
 
+<br>
+
 # Awards
 
 ### Rappresentare L'Umanesimo Tecnologico – Call For Visuals
 **Visual Design Prize** for **Organic Code – A Generative Web Installation** [*2019 – 2022*]
 [Jury](https://www.io01umanesimotecnologico.it/call-for-visuals-rappresentare-lumanesimo-tecnologico-il-progetto-vincitore-e-le-menzioni-assegnate/): Massimo Tantardini, Anna Maria Monteverdi, Giordano Apostoli, Sergio Paganelli, Davide Maria Coltro
 
-### XII National Arts Award – Section Electronic Music and New Technologies  
-Cathegory: Electroacoustic Musical Compositions – Works with Live Electronics [*03.07 – 05.07.2017*]  
-**Diploma of Merit** (2nd place) for **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble  
+### XII National Arts Award – Section Electronic Music and New Technologies
+Cathegory: Electroacoustic Musical Compositions – Works with Live Electronics [*03.07 – 05.07.2017*]
+**Diploma of Merit** (2nd place) for **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble
 Jury: Alvin Curran, Simon Emmerson, and Ivan Fedele
 
 ---
 
+<br>
+
 # Artistic Residencies
 
-### ART Center Padula [*18.07.2024 – 05.08.2024*]  
+### ART Center Padula [*18.07.2024 – 05.08.2024*]
 Research grant provided by **Monaci Digitali**
 
 ---
+
 <br>
 
 [Back to Home](https://giuseppebergamino.github.io/Home/)
