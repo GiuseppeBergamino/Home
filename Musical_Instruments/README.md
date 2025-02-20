@@ -27,8 +27,6 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
   style="max-width: 100%; height: auto;"
 />
 
-**Elastico** is a web-based musical instrument that uses a hand-tracking algorithm (via a webcam) to generate sound and graphics.
-
 <iframe 
   src="https://www.youtube.com/embed/35-kC8AtxZc?si=quBlichFbKCGQ_ey" 
   style="height: 300px; width: 100%; border: none;" 
@@ -36,6 +34,8 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
   title="Video demonstration of Elastico, a hand-tracking musical instrument."
   allowfullscreen
 ></iframe>
+
+**Elastico** is a web-based musical instrument that uses a hand-tracking algorithm (via a webcam) to generate sound and graphics.
 
 - [Try it!](https://editor.p5js.org/Berg_/full/H0KQhYxzf)
 
@@ -83,11 +83,10 @@ Giuseppe Bergamino is engaged in the research and development of new musical ins
 ></iframe>
 
 Carillon is a sound device designed to interface with a complex generative system through a simple, intuitive gesture: blowing. Thanks to an anemometer, each user’s breath is converted into parameters that shape the sonic evolution, establishing an immediate dialogue between the human gesture and the musical algorithm.
+
 ---
 
 ## MISMO
-
-**MISMO** is a musical instrument based on inertial sensors, developed with accessibility in mind.
 
 <iframe 
   src="https://www.youtube.com/embed/hf9uGSALdgQ?si=UVftKKFBmJJIZELI" 
@@ -96,6 +95,8 @@ Carillon is a sound device designed to interface with a complex generative syste
   title="Video demonstration of MISMO, an inertial-sensor-based musical instrument."
   allowfullscreen
 ></iframe>
+
+**MISMO** is a musical instrument based on inertial sensors, developed with accessibility in mind.
 
 ---
 
@@ -127,6 +128,5 @@ This musical instrument translates colors and light intensity into sounds.
 
 ---
 ---
-<br>
 
 [Back to Home](https://giuseppebergamino.github.io/Home/)
