@@ -4,9 +4,12 @@
 ## 2025
 
 #### Arti Incrociate - Luca Marenzio Conservatory, Brescia, Italy [05.04]
-Acoustic Augmented Reality Installation **Sound Space Explorer**
+Multimodal Installation in Auditory Augmented Reality **Sound Space Explorer**
 
-#### Ira Generans - spazioSERRA - Milan, Italy [16.02.2025 - 16.02.2026]
+#### La Rocca delle Arti - Arnia 33 - Narni (TR), Italy [22.03.2025 - 22.03.2028]
+Interactive Multimodal Installation **Dispositivo di Memoria a Suono Residuo**
+
+#### IRA GENERANS - spazioSERRA - Milan, Italy [16.02.2025 - 16.02.2026]
 Interactive Web Installation **Dispositivo di Memoria a Rumore Residuo**
 
 ## 2024
@@ -77,7 +80,7 @@ Permanent Multimodal Interactive Installation **ONDA**
 ## 2022
 
 #### Futuro Remoto Festival - Città della Scienza, Naples, Italy [23.11 - 27.11]
-Interactive Installation in Acoustic Augmented Reality **Cinque Finestre**
+Interactive Installation in Auditory Augmented Reality **Cinque Finestre**
 
 #### Interferenze Festival - D. Cimarosa Conservatory, Avellino, Italy [9.09]
 Live Electronics performer for the **Interferenze Festival**
@@ -94,7 +97,7 @@ Live Electronics for the piece **Lo Sconosciuto Ritrovato** by Gianvincenzo Cres
 #### Launch of the Web Installation Monti Picentini Digitali [1.04]
 
 #### Notte dei Musei - Museo Irpino, Avellino, Italy [14.05]
-Interactive Acoustic Augmented Reality Installation **Cinque Finestre**
+Interactive Installation in Auditory Augmented Reality **Cinque Finestre**
 
 #### Summer Fest - Grotte di Villa Amendola, Avellino, Italy [15.09.2021 - 28.02.2022]
 Light and Sound Design for the Exhibition **RI:USO** by the Master Sculptor Giuseppe Rubicco
@@ -156,7 +159,7 @@ Research titled: **Empowering disabled people with musical instruments based on 
 
 ### Second Level Academic Diploma in Technologies for Music Education
 #### Luca Marenzio State Conservatory of Music, Brescia, Italy [2022 - 2024]
-Thesis titled: **Adaptive musical instruments for disabilities**
+Thesis titled: **Sound Space Explorer: an immersive application for a new approach to sound education**
 <br>
 
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
