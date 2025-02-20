@@ -13,9 +13,11 @@ He holds a Master’s degree in Electronic Music & Sound Design from the [Conser
 Giuseppe’s installations have been showcased in numerous international exhibitions and festivals, including:
 **Arnia 33** [La Rocca delle Arti, Narni (TR), Italy, 2025], **IRA GENERANS** [spazioSERRA, Milan, Italy, 2025], **Nullker Art** [Arakapas Forest, Arakapas, Cyprus, 2024], **Biennale di Sondrio** [Palazzo Muzzi, Sondrio, Italy, 2024], **As Islands** [Castel Belasi, Trento, Italy, 2024], **Transforming Literary Places** [Tartu, Estonia, 2024], **The Magnificent Four** [Costa Vicentina, Portugal, 2024], **ControCANTO** [Polo del 900, Turin, Italy, 2023], **Futuro Remoto Festival** [Città della Scienza, Naples, Italy, 2022], **From Silence Festival** [Accademia Chigiana, Siena, Italy, 2022], **Notte dei Musei** [Museo Irpino, Avellino, Italy, 2022], **Riscarti Festival** [Mercato Trionfale, Rome, Italy, 2021], **MA/IN – Matera Intermedia Festival** [Casa Cava, Matera (PO), Italy, 2019], **Lake Como Waves** [Villa Erba, Cernobbio (CO), Italy, 2019], **Armenia Meets Europe – Emozioni in Mostra** [Castel dell'Ovo, Naples, Italy, 2019].
 
-<br>
+---
 
-- [Portfolio](https://www.canva.com/design/DAGVmgD7moE/LWyXf4EdVMra8PsH2tpN9Q/view)
-  
+[Portfolio](https://www.canva.com/design/DAGVmgD7moE/LWyXf4EdVMra8PsH2tpN9Q/view)
+
+---
+<br>
 
 [Back to Home](https://giuseppebergamino.github.io/Home/)
