@@ -202,7 +202,6 @@ allowfullscreen
 A Three.js-based augmented reality experience featuring 16 cubes in a 4 by 4 grid. Each cube corresponds to an audio file: clicking on a cube plays or pauses the associated sound. The cubes change size in real time based on the volume of the audio they produce. When used with headphones, the app also offers an immersive 3D audio experience.
 
 ---
-
-<br>
+---
 
 [Back to Home](https://giuseppebergamino.github.io/Home/)
