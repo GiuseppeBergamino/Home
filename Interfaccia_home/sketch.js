@@ -16,6 +16,13 @@ let val_r_x = 0;
 let val_r_y = 0;
 let val_r = 0;
 
+let offsetX_multimodal;
+let offsetX_web_inst;
+let offsetX_mus_inst;
+let offsetX_learning;
+let offsetX_music;
+
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   
@@ -31,6 +38,7 @@ function setup() {
   link_learning_tools = createA('https://giuseppebergamino.github.io/Home/Learning_tools/', 'Learning Tools','_top'); 
   
   
+  
 }
 
 function draw() {
@@ -41,13 +49,6 @@ function draw() {
   rect(35, 20, 120, 20)
    
   noFill();
- /* 
-  link_web_inst.position(10 + incremento, 20);
-  link_digital_fragments.position(10 + incremento, 50);
-  link_multimodal_inst.position(10 + incremento, 80);
-  link_musical_instruments.position(10 + incremento, 110);
-  link_music.position(10 + incremento, 140);
-  link_learning_tools.position(10 + incremento, 170); */
   
   link_multimodal_inst.position(10 + incremento, 20);
   link_musical_instruments.position(10 + incremento, 50);
@@ -57,10 +58,27 @@ function draw() {
 
   
   strokeWeight(1.5);
-  //stroke("#ffcc00");
   stroke(255);
+
+  
+   let rectLink1 = link_multimodal_inst.elt.getBoundingClientRect();
+   offsetX_multimodal = rectLink1.x + rectLink1.width + 5;
+  
+   let rectLink2 = link_musical_instruments.elt.getBoundingClientRect();
+   offsetX_mus_inst = rectLink2.x + rectLink2.width + 5;
+    
+   let rectLink3 = link_web_inst.elt.getBoundingClientRect();
+   offsetX_web_inst = rectLink3.x + rectLink3.width + 5;
+  
+   let rectLink4 = link_learning_tools.elt.getBoundingClientRect();
+   offsetX_learning = rectLink4.x + rectLink4.width + 5;
+  
+   let rectLink5 = link_music.elt.getBoundingClientRect();
+   offsetX_music = rectLink5.x + rectLink5.width + 5;
   
    let total = floor(width / (r * 15));
+  
+   let num_div = 20;
  
 if (pmouseX != mouseX ||
     pmouseY != mouseY) {
@@ -69,15 +87,14 @@ if (pmouseX != mouseX ||
    val_r = val_r_x + val_r_y;
 }
   beginShape();
-  //rotate(PI * 0.2)
-  //translate(100, -70);
+
   for (let i = 0; i < total + 1; i++) {
     
     angolo[i] = map(i, 0, total, 0, TWO_PI * 2);
     armoniche[i] = sin(0.5 * angolo[i] - incr_angolo) * 0.1;
     
     let y = map(armoniche[i] + random(0.5)*0.05 * val_r, -0.1, 0.1, 25 - val_r, 35 + val_r);
-    let x = map(i, 0, total + 1, 200, width - width/13 ) ;
+    let x = map(i, 0, total + 1, offsetX_multimodal, width - width/num_div) ;
     vertex(x, y);
   }
   
@@ -92,7 +109,7 @@ if (pmouseX != mouseX ||
     armoniche[i] = sin(1 * angolo[i] - incr_angolo) * 0.1;
     
     let y = map(armoniche[i] + random(1)*0.05 * val_r, -0.1, 0.1, 55 - val_r, 65 + val_r);
-    let x = map(i, 0, total + 1, 175, width - width/13 ) ;
+    let x = map(i, 0, total + 1, offsetX_mus_inst, width - width/num_div) ;
     vertex(x, y);
   }
   
@@ -107,7 +124,7 @@ if (pmouseX != mouseX ||
     armoniche[i] = sin(2 * angolo[i] - incr_angolo) * 0.1;
     
     let y = map(armoniche[i] + random(2)*0.05 * val_r, -0.1, 0.1, 85 - val_r, 95 + val_r);
-    let x = map(i, 0, total + 1, 155, width - width/13 ) ;
+    let x = map(i, 0, total + 1, offsetX_web_inst, width - width/num_div) ;
     vertex(x, y);
   }
   
@@ -122,7 +139,7 @@ if (pmouseX != mouseX ||
     armoniche[i] = sin(3 * angolo[i] - incr_angolo) * 0.1;
     
     let y = map(armoniche[i] + random(3)*0.05 * val_r, -0.1, 0.1, 115 - val_r, 125 + val_r);
-    let x = map(i, 0, total + 1, 140, width - width/13 ) ;
+    let x = map(i, 0, total + 1, offsetX_learning, width - width/num_div);
     vertex(x, y);
   }
   
@@ -137,7 +154,7 @@ beginShape();
     armoniche[i] = sin(4 * angolo[i] - incr_angolo) * 0.1;
     
     let y = map(armoniche[i] + random(4)*0.05 * val_r, -0.1, 0.1, 145 - val_r, 155 + val_r);
-    let x = map(i, 0, total + 1, 85, width - width/13 ) ;
+    let x = map(i, 0, total + 1, offsetX_music, width - width/num_div) ;
     vertex(x, y);
   }
   
