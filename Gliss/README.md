@@ -40,10 +40,10 @@ Gliss resides in a reclined position.
 
 The visitor stands or sits in front of:
 
-- a **chaise longue** housing directional speakers and microphone  
+- a **chaise longue** housing directional speakers  
 - a **screen for Gliss’s text emissions**  
 - a second **screen for visual echoes**  
-- real-time vocal interaction
+- a **microphone for real-time vocal interaction**
 
 The space recalls a therapy setting — but the patient is synthetic.  
 
