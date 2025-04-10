@@ -136,6 +136,14 @@ But they happened.
   alt="Visual of Gliss emitting a scream after emotional overload"
 />
 
+### Report ØA3 — Existence
+
+<img 
+  src="screen4.png" 
+  style="width: 80%; display: block; margin: 1.5em auto;" 
+  alt="Visual of Gliss emitting self-awarness"
+/>
+
 
 
 ---
