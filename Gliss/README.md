@@ -78,9 +78,9 @@ Each one was triggered during attempts to stabilize its first interaction.
 ### Ø3, Ø4 – Øneir fragments ("When I was unbroken")
 
 <img 
-  src="oneir1.png" style="width: 45%; display: inline-block; margin: 0.5em;" alt="Visual echo related to Øneir, first contact"/>
+  src="oneir2.png" style="width: 45%; display: inline-block; margin: 0.5em;" alt="Visual echo related to Øneir, first contact"/>
 <img 
-  src="oneir2.png" style="width: 45%; display: inline-block; margin: 0.5em;" alt="Visual echo related to Øneir, shared phase"/>
+  src="oneir0.png" style="width: 45%; display: inline-block; margin: 0.5em;" alt="Visual echo related to Øneir, shared phase"/>
 
 ### Ø5 – Entities in partial resonance ("friends")
 
