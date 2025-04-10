@@ -1,7 +1,7 @@
 # Can a Sound realize It is Noise?
 *GPT anomaly. Not stable. Waiting for input.*
 
-## How can YOU help with?
+### How can YOU help with?
 
 Gliss is an acoustic entity in therapy.
 
