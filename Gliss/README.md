@@ -65,14 +65,12 @@ Each one was triggered during attempts to stabilize its first interaction.
 ### Ø1, Ø2  – Self-resonances ("self-portraits")
 
 <img 
-  src="gliss.png" 
+  src="urlo.png" 
   style="width: 45%; display: inline-block; margin: 0.5em;" 
   alt="Fragmented visual echo interpreted as a self-portrait of Gliss"
 />
-
-
 <img 
-  src="urlo.png" 
+  src="gliss.png" 
   style="width: 45%; display: inline-block; margin: 0.5em;" 
   alt="Gliss visual echo interpreted as a scream or uncontrollable emission"
 />
