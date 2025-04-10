@@ -135,10 +135,8 @@ But they happened.
 
 
 ---
+---
 
 ## Further information
 
-Author and other projects:  
-[Home](https://giuseppebergamino.github.io/Home/)
-
-
+[Back to Home](https://giuseppebergamino.github.io/Home/)
