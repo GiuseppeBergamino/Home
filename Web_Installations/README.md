@@ -13,7 +13,7 @@ To visit the works, simply click on the links provided.
   loading="lazy"
 />
 
-This work, hosted on [spazioSERRA's website]([https://www.spazioserra.org/](https://www.spazioserra.org/exhibitions/2024-2025-iragenerans/giuseppe-bergamino-dispositivo-di-memoria-a-rumore-residuo), invites the audience to record their anger at maximum intensity through a scream. Each loud noise perceived by the installation becomes a small luminous trace which, combined with others, forms a collective synergy that grows stronger, brighter, and blinding. The memory of collective anger also interacts with the environment: the dots on the screen move according to the intensity of the screams. The scream is resistance; the scream is transformation.
+This work, hosted on [spazioSERRA's website](https://www.spazioserra.org/exhibitions/2024-2025-iragenerans/giuseppe-bergamino-dispositivo-di-memoria-a-rumore-residuo), invites the audience to record their anger at maximum intensity through a scream. Each loud noise perceived by the installation becomes a small luminous trace which, combined with others, forms a collective synergy that grows stronger, brighter, and blinding. The memory of collective anger also interacts with the environment: the dots on the screen move according to the intensity of the screams. The scream is resistance; the scream is transformation.
 
 - [Visit Dispositivo di Memoria a Rumore Residuo](https://dispositivo-rumore-residuo.onrender.com)
 
