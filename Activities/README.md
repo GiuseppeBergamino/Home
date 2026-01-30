@@ -1,6 +1,7 @@
 <br>
 
-# Activities
+# Activities  
+
 
 ## 2026
 
@@ -204,7 +205,7 @@ Multimodal Interactive Installation with Collettivo Agata - **L’Acqua non è S
 
 # Awards
 
-## IEEE International Symposium on the Internet of Sounds 2025
+### IEEE International Symposium on the Internet of Sounds 2025
 - **Best Poster Award**
 - [Preliminary Analysis of an Immersive Low-Latency Audio System for Remote Therapeutic Intervention](https://dii.univpm.it/2025/11/05/best-poster-award-ieeeiwnia2025/)
 
