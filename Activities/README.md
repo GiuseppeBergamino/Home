@@ -176,32 +176,31 @@ Multimodal Interactive Installation with Collettivo Agata - **L’Acqua non è S
 # Education
 
 ### PhD Research in Information Engineering
-**Università Politecnica delle Marche**, Ancona, Italy [*2024 – 2027*]    
-- Research project: **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
+**Università Politecnica delle Marche**, Ancona, Italy [*2024 – 2027*]  
+Research project: **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
 
 ### Second Level Academic Diploma in Technologies for Music Education   
-**Luca Marenzio State Conservatory of Music**, Brescia, Italy [*2022 – 2024*]   
-- Thesis: **Sound Space Explorer: an immersive application for a new approach to sound education**
+**Luca Marenzio State Conservatory of Music**, Brescia, Italy [*2022 – 2024*]  
+Thesis: **Sound Space Explorer: an immersive application for a new approach to sound education**  
+Grade: 110 with honors
 
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
-**MUSE Museum**, Trento, Italy [*October 2023*]    
-- Lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda, and Franco Buffoni
+**MUSE Museum**, Trento, Italy [*October 2023*]  
+Lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda, and Franco Buffoni
 
 ### Masterclass in Live Electronics, Sound and Music Computing 
-**Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]
-- Lectures by Alvise Vidolin, co-lectures by Nicola Bernardini
-
+**Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]  
+Lectures by Alvise Vidolin, co-lectures by Nicola Bernardini
 
 ### Second Level Academic Diploma in Electronic Music and Sound Design
-**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2019 – 2022*]     
-- Thesis: **Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**
-- Grade: 110 with honors and special mention
-
+**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2019 – 2022*]  
+Thesis: **Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**  
+Grade: 110 with honors and special mention
 
 ### First Level Academic Diploma in Electronic Music 
-**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2015 – 2018*]      
-- Thesis: **Generative Modular Systems Design for Electroacoustic Music**
-- Grade: 110 with honors and special mention
+**Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2015 – 2018*]  
+Thesis: **Generative Modular Systems Design for Electroacoustic Music**  
+Grade: 110 with honors and special mention
 
 ---
 ---
@@ -209,18 +208,18 @@ Multimodal Interactive Installation with Collettivo Agata - **L’Acqua non è S
 # Awards
 
 ### IEEE International Symposium on the Internet of Sounds 2025
-- **Best Poster Award**
-- [Preliminary Analysis of an Immersive Low-Latency Audio System for Remote Therapeutic Intervention](https://dii.univpm.it/2025/11/05/best-poster-award-ieeeiwnia2025/)
+**Best Poster Award**  
+[Preliminary Analysis of an Immersive Low-Latency Audio System for Remote Therapeutic Intervention](https://dii.univpm.it/2025/11/05/best-poster-award-ieeeiwnia2025/)
 
 ### Rappresentare L'Umanesimo Tecnologico – Call For Visuals
-Cathegory: Visual Design 
-- **Visual Design Prize** for **Organic Code – A Generative Web Installation** [*2019 – 2022*]
-- [Jury](https://www.io01umanesimotecnologico.it/call-for-visuals-rappresentare-lumanesimo-tecnologico-il-progetto-vincitore-e-le-menzioni-assegnate/): Massimo Tantardini, Anna Maria Monteverdi, Giordano Apostoli, Sergio Paganelli, Davide Maria Coltro
+Cathegory: Visual Design  
+**Visual Design Prize** for **Organic Code – A Generative Web Installation** [*2019 – 2022*]  
+[Jury](https://www.io01umanesimotecnologico.it/call-for-visuals-rappresentare-lumanesimo-tecnologico-il-progetto-vincitore-e-le-menzioni-assegnate/): Massimo Tantardini, Anna Maria Monteverdi, Giordano Apostoli, Sergio Paganelli, Davide Maria Coltro
 
 ### XII National Arts Award – Section Electronic Music and New Technologies
-Cathegory: Electroacoustic Musical Compositions – Works with Live Electronics [*03.07 – 05.07.2017*]
-- **Diploma of Merit** (2nd place) for **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble
-- Jury: Alvin Curran, Simon Emmerson, and Ivan Fedele
+Cathegory: Electroacoustic Musical Compositions – Works with Live Electronics [*03.07 – 05.07.2017*]  
+**Diploma of Merit** (2nd place) for **Ghenesis Khai Athroisma** performed with the Cimarosa Ensemble  
+Jury: Alvin Curran, Simon Emmerson, and Ivan Fedele
 
 ---
 ---
