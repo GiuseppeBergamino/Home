@@ -2,28 +2,34 @@
 
 # Activities
 
+## 2026
+
+Much in the making!
+
+---
+
 ## 2025
 
-**IEEE International Symposium on the Internet of Sounds** -  IS2 2025, L'Aquila, Italy [*31.10*]\n
+**IEEE International Symposium on the Internet of Sounds** -  IS2 2025, L'Aquila, Italy [*31.10*]  
 Paper presentation - **[Immersive Low-Latency Audio System for Remote Therapy](https://ieeexplore.ieee.org/abstract/document/11284595)**
 
-**Digital Audio Conference** - DAFx25, Ancona, Italy [*04.09*]\n
+**Digital Audio Effects Conference** - DAFx25, Ancona, Italy [*04.09*]  
 Paper presentation - **[Spazializing Screen Readers](https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_40.pdf)**
 
 **Arti Incrociate** – Luca Marenzio Conservatory, Brescia, Italy [*05.04*]  
 Multimodal Installation in Auditory Augmented Reality - **Sound Space Explorer** 
 
-**La Rocca delle Arti – Arnia 33** – Narni (TR), Italy [*22.03.2025 – 22.03.2028*]
+**La Rocca delle Arti – Arnia 33** – Narni (TR), Italy [*22.03.2025 – 22.03.2028*]  
 Interactive Multimodal Installation - **Dispositivo di Memoria a Suono Residuo**
 
-**IRA GENERANS** – spazioSERRA, Milan, Italy [*16.02.2025 – 16.02.2026*]
+**IRA GENERANS** – spazioSERRA, Milan, Italy [*16.02.2025 – 16.02.2026*]  
 Interactive Web Installation - **Dispositivo di Memoria a Rumore Residuo**  
 
 ---
 
 ## 2024
 
-**Rappresentare L'Umanesimo Tecnologico – io01** – Brescia, Italy [*22.11.2024*]    
+**Rappresentare L'Umanesimo Tecnologico – io01** – Brescia, Italy [*22.11.2024*]  
 Generative Web Installation - **Codice Organico**
 
 **Art Forest Exhibition – Nullker Art** – Arakapas, Cyprus [*02.11.2024*]  
@@ -32,7 +38,7 @@ Generative Web Installation - **Salamandra00**
 **Biennale di Sondrio – Palazzo Muzio** – Sondrio, Italy [*04.10 – 13.10*]  
 Generative Web Installation - **Codice Organico**  
 
-**AIR Padula – Art Center Padula** – Padula (SA), Italy [*18.07 – 05.08*]
+**AIR Padula – Art Center Padula** – Padula (SA), Italy [*18.07 – 05.08*]  
 Collaborative Web Soundmap - **Vallo Di Diano Soundscape Project**
 
 **Dov'è l'Uomo – Spazio Pantaneo** – Rome, Italy [*22.06*]  
@@ -61,15 +67,15 @@ Sound Design for the solo exhibition by the artist [Noemi Mirata](https://www.no
 ## 2023
 
 **Orizzonti Project – controCANTO- Polo del 900** – Turin, Italy [*18.12 – 18.01.2024*]  
-**Lucciole** - Generative Web Installation  
+Generative Web Installation - **Lucciole** 
 
 **Amori di Cristallo – Museo Irpino** – Avellino, Italy [*25.11 – 10.01.2024*]  
-Sound Design - for **two visual installations**
+Sound Design for **two visual installations**
 
-**MUSE Museum** – Trento, Italy [*28 – 29.10*]
+**MUSE Museum** – Trento, Italy [*28 – 29.10*]  
 Participation in the masterclass as student - **Teorie dei Climi** 
 
-**IV Giornata della Tecnologia – L. Marenzio Conservatory** – Brescia, Italy [*30.09*]
+**IV Giornata della Tecnologia – L. Marenzio Conservatory** – Brescia, Italy [*30.09*]  
 Hardware and software design - **Adaptive musical instruments for impaired children**
 
 **Creative District** – Capocastello (AV), Italy [*28 – 30.07*]  
@@ -103,7 +109,7 @@ Live Electronics Performer **Con Luigi Dallapiccola** by **Luigi Nono**
 **From Silence Festival – Chigiana Academy** – Siena, Italy [*22.07*]  
 Live Electronics Performer - **Lo Sconosciuto Ritrovato** by **Gianvincenzo Cresta**
 
-**Personal Web Project - Internet** [*01.04*]
+**Personal Web Project - Internet** [*01.04*]  
 Launch of the web installation **Monti Picentini Digitali** 
 
 **Notte dei Musei – Museo Irpino** – Avellino, Italy [*14.05*]  
@@ -129,7 +135,6 @@ Multimodal Interactive Installation with Collettivo Agata - **Vari_azioni_su_AL1
 **Carbonaria Festival** – [Calitri, Aquilonia, Lacedonia] (AV), Italy [*26.07 – 30.07*]  
 Diptych of Interactive Installations with Collettivo Agata - **La Eco Empatica**
 
-
 ---
 
 ## 2019
@@ -143,7 +148,7 @@ Multimodal Interactive Installation with Collettivo Agata - **Water is Not Sound
 **Emozioni in Mostra – Castel dell’Ovo** – Naples, Italy [*29.08 – 09.09*]  
 Multimodal Interactive Installation with Collettivo Agata - **Onde Empatiche** 
 
-**Interferenze Festival – D. Cimarosa Conservatory** – Avellino, Italy [*12.06*]
+**Interferenze Festival – D. Cimarosa Conservatory** – Avellino, Italy [*12.06*]  
 Performer - **Live electronics**
 
 
@@ -170,33 +175,25 @@ Multimodal Interactive Installation with Collettivo Agata - **L’Acqua non è S
 **Università Politecnica delle Marche**, Ancona, Italy [*2024 – 2027*]    
 - Research project: **Empowering disabled people with musical instruments based on AI algorithms and brain-machine interfaces**
 
-
-
 ### Second Level Academic Diploma in Technologies for Music Education   
 **Luca Marenzio State Conservatory of Music**, Brescia, Italy [*2022 – 2024*]   
 - Thesis: **Sound Space Explorer: an immersive application for a new approach to sound education**
 
-
-
 ### Masterclass: Theories of Climates, Method, and Aesthetics of Scientific Poetry
 **MUSE Museum**, Trento, Italy [*October 2023*]    
 - Lectures by Stefano Cagol, Alessandro Castiglioni, Antonella Anedda, and Franco Buffoni
-
-
 
 ### Masterclass in Live Electronics, Sound and Music Computing 
 **Chigiana Academy**, Siena, Italy [*May 2022 – July 2022*]
 - Lectures by Alvise Vidolin, co-lectures by Nicola Bernardini
 
 
-  
 ### Second Level Academic Diploma in Electronic Music and Sound Design
 **Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2019 – 2022*]     
 - Thesis: **Interactive Multimodal Installations Design: Soundscape and Acoustic Augmented Reality**
 - Grade: 110 with honors and special mention
 
 
- 
 ### First Level Academic Diploma in Electronic Music 
 **Domenico Cimarosa State Conservatory of Music**, Avellino, Italy [*2015 – 2018*]      
 - Thesis: **Generative Modular Systems Design for Electroacoustic Music**
@@ -206,6 +203,10 @@ Multimodal Interactive Installation with Collettivo Agata - **L’Acqua non è S
 ---
 
 # Awards
+
+## IEEE International Symposium on the Internet of Sounds 2025
+- **Best Poster Award**
+- [Preliminary Analysis of an Immersive Low-Latency Audio System for Remote Therapeutic Intervention](https://dii.univpm.it/2025/11/05/best-poster-award-ieeeiwnia2025/)
 
 ### Rappresentare L'Umanesimo Tecnologico – Call For Visuals
 Cathegory: Visual Design 
