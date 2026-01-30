@@ -4,6 +4,12 @@
 
 ## 2025
 
+**IEEE International Symposium on the Internet of Sounds** -  IS2 2025, L'Aquila, Italy [*31.10*]\n
+Paper presentation - **[Immersive Low-Latency Audio System for Remote Therapy](https://ieeexplore.ieee.org/abstract/document/11284595)**
+
+**Digital Audio Conference** - DAFx25, Ancona, Italy [*04.09*]\n
+Paper presentation - **[Spazializing Screen Readers](https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_40.pdf)**
+
 **Arti Incrociate** – Luca Marenzio Conservatory, Brescia, Italy [*05.04*]  
 Multimodal Installation in Auditory Augmented Reality - **Sound Space Explorer** 
 
