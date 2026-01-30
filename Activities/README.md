@@ -11,7 +11,7 @@ Much in the making!
 
 ## 2025
 
-**ADMN International Online Meeting** - Accessible Digital Music Network, Web Meeting [*03.12]  
+**ADMN International Online Meeting** - Accessible Digital Music Network, Web Meeting [*03.12*]  
 Speech - **[From Screen Readers to Brain Readers](https://sites.google.com/view/accessibledm/home-page/giuseppe-bergamino)** 
 
 **IEEE International Symposium on the Internet of Sounds** -  IS2 2025, L'Aquila, Italy [*31.10*]  
