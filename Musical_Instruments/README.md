@@ -3,6 +3,21 @@
 Giuseppe Bergamino is engaged in the research and development of new musical instruments and human-machine interfaces for sound control and production. His designs focus on multimodality, ubiquitous computing, and inclusivity for musicians with disabilities.
 
 ---
+## VeryVCV Rack
+
+<iframe 
+  src="https://www.youtube.com/embed/FZk0blJhl28?si=PnQ32AjzwdgFwQjJ" 
+  style="height: 300px; width: 100%; border: none;" 
+  loading="lazy"
+  title="Video demonstration of VeryVCV Rack, a translation of VCV Rack in mixed reality."
+  allowfullscreen
+></iframe>
+
+**VeryVCV Rack** is a research prototype that extends VCV Rack modular synthesis interfaces into mixed reality through a description-driven integration approach.
+
+- [Read More](https://github.com/GiuseppeBergamino/A-Description-Driven-XR-Translation-of-VCV-Rack)
+
+---
 
 ## Acchiappasuono
 
