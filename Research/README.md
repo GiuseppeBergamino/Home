@@ -36,15 +36,15 @@ SCITEPRESS Digital Library. ISBN: 978-989-758-832-7
 > International Conference on Digital Audio Effects (DAFx25), 2025, [Open Access](https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_38.pdf)
 
 ### Preliminary Analysis of an Immersive Low-Latency Audio System for Remote Therapeutic Intervention
-> Bruschi, Fioretti, Bergamino, Terenzi, Iadarola, Gabrielli, Spinsante, Cecchi, Squartini <br>  
+> Bruschi, Fioretti, Bergamino, Terenzi, Iadarola, Gabrielli, Spinsante, Cecchi, Squartini <br>
 > IEEE 6th International Symposium on the Internet of Sounds (IS2), 2025, [Open Access](https://ieeexplore.ieee.org/abstract/document/11284595)
 
 ### An Immersive Low-Latency Audio System for Social Interaction with Elderly People
-> Bruschi, Terenzi, Dourou, Gabrielli, Fioretti, Bergamino, Cecchi, Squartini <br>  
+> Bruschi, Terenzi, Dourou, Gabrielli, Fioretti, Bergamino, Cecchi, Squartini <br>
 > Immersive and 3D Audio: from Architecture to Automotive (I3DA), 2025, [Open Access](https://ieeexplore.ieee.org/abstract/document/11202052)
 
 ### The I-Ork Project: A Technological Approach to Inclusive Music Making and Therapy  
-> M. Mandanici, G. Bergamino, S. Valente <br>  
+> M. Mandanici, G. Bergamino, S. Valente <br>
 > Frontiers in Education, Vol. 10, 2025, [Open Access](https://doi.org/10.3389/feduc.2025.1552302)
 
 ### controCANTO - movimenti sociali e cura del conflitto
