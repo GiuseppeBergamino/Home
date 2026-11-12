@@ -5,29 +5,35 @@
 ## 2026
 
 **Visiting Research Period** - [Technical University of Denmark](https://www.dtu.dk/english) <br>
-Copenhagen, Denmark *[01.12.2026 - 31.05.2027]*  
-Engineering Technology Department of Engineering Technology and Didactics - **[Computer Science](https://engtech.dtu.dk/english/research-and-development/sections/computer-science)**
+Copenhagen, Denmark *[01.12.2026 - 31.05.2027]* <br>
+Technology Department of Engineering Technology and Didactics - **[Computer Science Lab](https://engtech.dtu.dk/english/research-and-development/sections/computer-science)**
 
-**15th EAI International Conference: ArtsIT, Interactivity & Game Creation** - [ArtsIt26](https://artsit.eai-conferences.org/2026/), <br>
+**15th EAI International Conference: ArtsIT, Interactivity & Game Creation** - [ArtsIt26](https://artsit.eai-conferences.org/2026/) <br>
 Bratislava, Slovakia *[02-04.12]* <br>
 Paper presentation - **[Surface Readers: Translating Screen Reader Principles to Musical Hardware](To Be Pubblished)**
 
-**Digital Music Education** - [Centro Sonologia Computazionale (CSC)](https://csc.dei.unipd.it/), Padova, Italy *[26.11]*  
+**Digital Music Education** - [Centro Sonologia Computazionale (CSC)](https://csc.dei.unipd.it/) <br>
+Padova, Italy *[26.11]* <br>
 System Demo - **[Sound Space Explorer](https://www.facebook.com/groups/professioneinsegnante/posts/29659708897049389/)**
 
-**IEEE International Symposium on the Internet of Sounds** - [IS2-26](https://internetofsounds2026.ieee-internetofsounds.org/), Cannes, France *[29.10]*  
+**IEEE International Symposium on the Internet of Sounds** - [IS2-26](https://internetofsounds2026.ieee-internetofsounds.org/) <br>
+Cannes, France *[29.10]* <br>
 Paper presentation - **[A Description-Driven XR Translation of VCV Rack Modular Synthesis Interfaces](To Be Pubblished)**
 
-**IEEE International Symposium on the Internet of Sounds** - [IS2-26](https://internetofsounds2026.ieee-internetofsounds.org/), Cannes, France *[28.10]*  
+**IEEE International Symposium on the Internet of Sounds** - [IS2-26](https://internetofsounds2026.ieee-internetofsounds.org/) <br>
+Cannes, France *[28.10]* <br>
 Paper presentation - **[Benchmarking EEG Headset Layouts for Motor Imagery BCIs in the Internet of Sounds](To Be Pubblished)**
 
-**XXV Colloquio Informatica Musicale** - [CIM-26](https://musel.consaq.it/elettroaqustica/eaq11/cim2026/), L'Aquila, Italy *[14.10]*  
+**XXV Colloquio Informatica Musicale** - [CIM-26](https://musel.consaq.it/elettroaqustica/eaq11/cim2026/) <br>
+L'Aquila, Italy *[14.10]* <br>
 Live Electronics - **[Disgregazione](https://www.youtube.com/watch?v=7jQ0L8ZMc00&t=4s)**
 
-**XXXV Italian Workshop on Neural Networks** - [WIRN-26](https://siren.science/), Vietri sul Mare (SA), Italy *[10.06]*  
+**XXXV Italian Workshop on Neural Networks** - [WIRN-26](https://siren.science/) <br>
+Vietri sul Mare (SA), Italy *[10.06]* <br>
 Paper presentation - **[Benchmarking Machine and Deep Learning Approaches for Motor Imagery BCIs](To Be Pubblished)**
 
-**Lecturer on the ‘New Technologies for Performance’ course** - [UNIVPM](https://www.univpm.it/), Ancona, Italy *[12-13.03]*  
+**Lecturer on the ‘New Technologies for Performance’ course** - [UNIVPM](https://www.univpm.it/) <br>
+Ancona, Italy *[12-13.03]* <br>
 12-hour module - **[Expressive wearable musical interfaces using Arduino](https://corsontp.dii.univpm.it/)**
 
 ---
