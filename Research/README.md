@@ -1,33 +1,33 @@
 # Research activities and publications 
 
 ### Surface Readers: Translating Screen Reader Principles to Musical Hardware
-G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini. 
-In: Brooks, A.L. (eds) ArtsIT, Interactivity and Game Creation. ArtsIT 2026.  
+G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini \
+In: Brooks, A.L. (eds) ArtsIT, Interactivity and Game Creation. ArtsIT 2026 \
 Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, Springer. (To be published)
 
 ### Benchmarking EEG Headset Layouts for Motor Imagery BCIs in the Internet of Sounds
-G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini. 
+G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini \ 
 IEEE 7th International Symposium on the Internet of Sounds (IS2), 2026, To be Published
 
 ### A Description-Driven XR Translation of VCV Rack Modular Synthesis Interfaces
-G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini. 
+G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini \ 
 IEEE 7th International Symposium on the Internet of Sounds (IS2), 2026, To be Published
 
 ### Benchmarking Machine and Deep Learning Approaches for Motor Imagery BCIs
-G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini. 
-In: Esposito, A., Faundez-Zanuy, M., Morabito, F.C., Pasero, E., Cordasco, G. (eds). 
+G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini \ 
+In: Esposito, A., Faundez-Zanuy, M., Morabito, F.C., Pasero, E., Cordasco, G. (eds). \ 
 Neural Networks: Overview of Current Theories and Applications. Smart Innovation, Systems and Technologies. Springer. (To be published)
 
 ### Evaluating AI Coding Assistants in Audio DSP Education: A Small Scale Study
-L. Gabrielli, M. Fioretti, G. Bergamino. 
+L. Gabrielli, M. Fioretti, G. Bergamino \ 
 International Conference on Digital Audio Effects (DAFx26), 2026, [Open Access](https://www.dafx.de/paper-archive/2026/papers/DAFx26_paper_46.pdf)
 
 ### Experimental Assessment of an Immersive Low‑Latency Audio System Designed for Remote Therapeutic Intervention
-E. Bonifazi, G. Cucchieri, E. Felici, M. Osimani, L. Rossi, G. Bergamino, V. Bruschi, S. Cecchi, M. Fioretti, L. Gabrielli, I. Marcantoni, S. Spinsante, S. Squartini and A. Terenzi.  
+E. Bonifazi, G. Cucchieri, E. Felici, M. Osimani, L. Rossi, G. Bergamino, V. Bruschi, S. Cecchi, M. Fioretti, L. Gabrielli, I. Marcantoni, S. Spinsante, S. Squartini and A. Terenzi \ 
 International Conference on Information and Communication Technologies for Ageing Well and e-Health, 2026, SCITEPRESS Digital Library. ISBN: 978-989-758-832-7.
 
 ### Spatializing Screen Readers: Extending VoiceOver via Head-Tracker Binaural Synthesis for User Interface Accessibility
-G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini  
+G. Bergamino, M. Fioretti, L. Gabrielli, S. Squartini \  
 International Conference on Digital Audio Effects (DAFx25), 2025, [Open Access](https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_40.pdf)
 
 ### Comparing Acoustic and Digital Piano Actions: Data Analysis and Key Insights
