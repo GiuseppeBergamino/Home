@@ -5,6 +5,17 @@ List of selected works
 ---
 
 ## Live sets
+<iframe 
+  width="100%" 
+  height="166" 
+  src="https://www.youtube.com/watch?v=7jQ0L8ZMc00&t=4s" 
+  title="Live electronics at CIM 2026"
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  loading="lazy"
+  allowfullscreen
+></iframe>
 
 <iframe 
   width="100%" 
