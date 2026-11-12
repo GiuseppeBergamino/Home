@@ -40,22 +40,28 @@ Ancona, Italy *[12-13.03]* <br>
 
 ## 2025
 
-**ADMN International Online Meeting** - Accessible Digital Music Network, Web Meeting *[03.12]*  
-Speech - **[From Screen Readers to Brain Readers](https://sites.google.com/view/accessibledm/home-page/giuseppe-bergamino)** 
+**ADMN International Online Meeting** - [Accessible Digital Music Network](https://link.springer.com/chapter/10.1007/978-3-032-26999-7_7) <br>
+Web Meeting *[03.12]* <br>
+Talk - **[From Screen Readers to Brain Readers](https://sites.google.com/view/accessibledm/home-page/giuseppe-bergamino)** 
 
-**IEEE International Symposium on the Internet of Sounds** - [IS2 2025](https://internetofsounds2025.ieee-is2.org/), L'Aquila, Italy *[31.10]*  
+**IEEE International Symposium on the Internet of Sounds** - [IS2 2025](https://internetofsounds2025.ieee-is2.org/) <br>
+L'Aquila, Italy *[31.10]* <br>
 Paper presentation - **[Immersive Low-Latency Audio System for Remote Therapy](https://ieeexplore.ieee.org/abstract/document/11284595)**
 
-**Digital Audio Effects Conference** - [DAFx25](https://dafx25.dii.univpm.it/), Ancona, Italy *[04.09]*  
+**Digital Audio Effects Conference** - [DAFx25](https://dafx25.dii.univpm.it/) <br>
+Ancona, Italy *[04.09]* <br>
 Paper presentation - **[Spazializing Screen Readers](https://dafx25.dii.univpm.it/wp-content/uploads/2025/07/DAFx25_paper_40.pdf)**
 
-**Arti Incrociate** – Luca Marenzio Conservatory, Brescia, Italy *[05.04]*  
+**Arti Incrociate** – [Luca Marenzio Conservatory](https://www.consbs.it/content/uploads/2025/03/2025-04-4E5-ARTINCROCIATE-2.pdf) <br>
+Brescia, Italy *[05.04]* <br>
 Multimodal Installation in Auditory Augmented Reality - **Sound Space Explorer** 
 
-**La Rocca delle Arti – Arnia 33** – Narni (TR), Italy *[22.03.2025 – 22.03.2028]*  
+**La Rocca delle Arti – Arnia 33** – Narni (TR) <br>
+Italy *[22.03.2025 – 22.03.2028]* <br>
 Interactive Multimodal Installation - **Dispositivo di Memoria a Suono Residuo**
 
-**IRA GENERANS** – [spazioSERRA](https://www.spazioserra.org/), Milan, Italy *[16.02.2025 – 16.02.2026]*  
+**IRA GENERANS** – [spazioSERRA](https://www.spazioserra.org/) <br>
+Milan, Italy *[16.02.2025 – 16.02.2026]* <br>
 Interactive Web Installation - **[Dispositivo di Memoria a Rumore Residuo](https://www.spazioserra.org/exhibitions/2024-2025-iragenerans/giuseppe-bergamino-dispositivo-di-memoria-a-rumore-residuo)**  
 
 ---
