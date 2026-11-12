@@ -6,7 +6,7 @@
 
 **Visiting Research Period** - [Technical University of Denmark](https://www.dtu.dk/english) <br>
 Copenhagen, Denmark *[01.12.2026 - 31.05.2027]* <br>
-Technology Department of Engineering Technology and Didactics - **[Computer Science Lab](https://engtech.dtu.dk/english/research-and-development/sections/computer-science)**
+Department of Engineering Technology and Didactics - **[Computer Science Lab](https://engtech.dtu.dk/english/research-and-development/sections/computer-science)**
 
 **15th EAI International Conference: ArtsIT, Interactivity & Game Creation** - [ArtsIt26](https://artsit.eai-conferences.org/2026/) <br>
 Bratislava, Slovakia *[02-04.12]* <br>
