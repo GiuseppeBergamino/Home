@@ -4,10 +4,12 @@
 
 ## 2026
 
-**Visiting Research Period** - [Technical University of Denmark](https://www.dtu.dk/english), Copenhagen, Denmark *[01.12.2026 - 31.05.2027]*  
-Engineering Technology Department of Engineering Technology and Didactics - **[Computer Science Lab](https://engtech.dtu.dk/english/research-and-development/sections/computer-science)**
+**Visiting Research Period** - [Technical University of Denmark](https://www.dtu.dk/english) <br>
+Copenhagen, Denmark *[01.12.2026 - 31.05.2027]*  
+Engineering Technology Department of Engineering Technology and Didactics - **[Computer Science](https://engtech.dtu.dk/english/research-and-development/sections/computer-science)**
 
-**15th EAI International Conference: ArtsIT, Interactivity & Game Creation** - [ArtsIt26](https://artsit.eai-conferences.org/2026/), Bratislava, Slovakia *[02-04.12]*  
+**15th EAI International Conference: ArtsIT, Interactivity & Game Creation** - [ArtsIt26](https://artsit.eai-conferences.org/2026/), <br>
+Bratislava, Slovakia *[02-04.12]* <br>
 Paper presentation - **[Surface Readers: Translating Screen Reader Principles to Musical Hardware](To Be Pubblished)**
 
 **Digital Music Education** - [Centro Sonologia Computazionale (CSC)](https://csc.dei.unipd.it/), Padova, Italy *[26.11]*  
